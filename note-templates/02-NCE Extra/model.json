@@ -1,0 +1,39 @@
+{
+  "model_name": "NCE Extra",
+  "fields": [
+    {
+      "name": "正面",
+      "description": ""
+    },
+    {
+      "name": "key",
+      "description": ""
+    },
+    {
+      "name": "背面",
+      "description": ""
+    },
+    {
+      "name": "牛津",
+      "description": ""
+    },
+    {
+      "name": "朗文",
+      "description": ""
+    },
+    {
+      "name": "中心词汇",
+      "description": ""
+    },
+    {
+      "name": "词汇解释",
+      "description": ""
+    }
+  ],
+  "cards": [
+    {
+      "name": "卡片1",
+      "path": "cards\\01-卡片1"
+    }
+  ]
+}

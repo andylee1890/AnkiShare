@@ -1,0 +1,80 @@
+/** 作者：未完 **/
+/** 完整资料地址：https://github.com/andylee1890/NewConceptEnglish**/
+
+@font-face { font-family: shr; src: url('_SourceHanSansCN-Regular.ttf'); }
+
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ background-color: white;
+ line-height: 25px; 
+}
+
+h1 {
+	font-size: 15px;
+  	color:#A9A9A9;
+	text-align: center;
+	font-weight:normal;	
+	height: 35px;
+	line-height: 35px;
+	padding: 1px 0px 0px 0px;
+	border: 0px solid #b7d5eb;
+	#border-radius:30px;
+}
+
+.points {
+	font-size: 18px;
+	text-align: left;
+	color: #444444;
+	line-height: 22px; 
+}
+
+.hint {
+	font-family:shr ;
+	font-size: 18px;
+	text-align: left;
+	color: #444444;
+	line-height: 20px; 
+	#display: none;
+	font-size: 85%;
+}
+.hintBtnBox{
+	overflow: hidden;
+	padding: 5px 10px 10px 10px;
+		
+}
+.hintBtn{
+	float: right;
+	font: bold;
+	width: 100px;
+	height:20px;
+	color:white;
+	background:#2f9f13;
+	border: none;
+	font-weight: bold;
+}
+
+.hint div{
+	padding-bottom: 3px;
+    padding-top: 3px;
+    text-decoration-skip-ink: none;
+}
+
+
+.frontSide{
+	font-family:shr;
+}
+
+.textMain{
+	text-align: left;
+}
+
+.textRminder {
+	font-family:shr ;
+	font-size: 15px;
+	text-align: left;
+	color: #64656A;
+	line-height: 22px; 
+}
+

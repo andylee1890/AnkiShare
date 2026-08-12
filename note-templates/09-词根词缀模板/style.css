@@ -1,0 +1,57 @@
+.card {
+	font-size: 25px;
+	text-align: center;
+	color: black;
+	background-color: white;
+	line-height: 15px; 
+}
+@font-face { font-family: kt; src: url('_kt.ttf'); }
+@font-face { font-family: times; src: url('_times.ttf'); }
+
+.R { color: #b7d5eb; background-color: #338eca }
+.S { color: #c1e7b8; background-color: #56a844 }
+.D { color: #f7c4b8; background-color: #ec6c4f }
+.W { color: #f7c4b8; background-color: white }
+.POSR { background-color: #338eca; line-height: 30px;}
+.POSS { background-color: #56a844; line-height: 30px; }
+.POSD { background-color: #ec6c4f; line-height: 30px; }
+h1 {
+	font-family: times;
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 5px;
+	text-align: center;
+	height: 5px;
+	line-height: 35px;
+	padding: 1px 0px 0px 0px;
+	border: 0px solid #b7d5eb;
+	border-radius:30px;
+}
+
+.Word {
+	font-family: times;
+	letter-spacing: 1px;
+	height: 35px;
+	line-height: 35px;
+	color: #303030;
+	font-size: 32px;
+}
+
+.back {
+	#font-family:kt ;
+	font-size: 15px;
+	text-align: left;
+	color: #444444;
+	line-height: 22px; 
+	#border: 0.1px solid #dcdcdc;
+}
+.hint {
+	font-family:kt ;
+	font-size: 18px;
+	text-align: left;
+	color: #444444;
+	line-height: 22px; 
+	#border: 0.1px solid #dcdcdc;
+	
+}
+

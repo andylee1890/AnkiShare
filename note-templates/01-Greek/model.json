@@ -1,0 +1,39 @@
+{
+  "model_name": "Greek",
+  "fields": [
+    {
+      "name": "Greek",
+      "description": ""
+    },
+    {
+      "name": "Mounce",
+      "description": ""
+    },
+    {
+      "name": "English",
+      "description": ""
+    },
+    {
+      "name": "FeqNt",
+      "description": ""
+    },
+    {
+      "name": "Chapter",
+      "description": ""
+    },
+    {
+      "name": "Gromacki",
+      "description": ""
+    },
+    {
+      "name": "Greekte",
+      "description": ""
+    }
+  ],
+  "cards": [
+    {
+      "name": "Forward",
+      "path": "cards\\01-Forward"
+    }
+  ]
+}

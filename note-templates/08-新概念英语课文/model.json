@@ -1,0 +1,43 @@
+{
+  "model_name": "新概念英语课文",
+  "fields": [
+    {
+      "name": "正面",
+      "description": ""
+    },
+    {
+      "name": "背面",
+      "description": ""
+    },
+    {
+      "name": "audio",
+      "description": ""
+    },
+    {
+      "name": "Lesson",
+      "description": ""
+    },
+    {
+      "name": "Question",
+      "description": ""
+    },
+    {
+      "name": "points",
+      "description": ""
+    },
+    {
+      "name": "notes",
+      "description": ""
+    },
+    {
+      "name": "words",
+      "description": ""
+    }
+  ],
+  "cards": [
+    {
+      "name": "卡片1",
+      "path": "cards\\01-卡片1"
+    }
+  ]
+}

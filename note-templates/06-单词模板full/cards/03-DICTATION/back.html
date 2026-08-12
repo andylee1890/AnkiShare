@@ -1,0 +1,201 @@
+<!-- 作者：未完 -->
+<!-- 完整资料地址：https://github.com/andylee1890/NewConceptEnglish -->
+
+<p style="font-size: 12px;color:gray">
+  {{#Lesson}}{{Lesson}}{{/Lesson}}<br>
+  {{#口语词频}}{{口语词频}}{{/口语词频}}
+  {{#写作词频}}{{写作词频}}{{/写作词频}}
+  {{#flags}}<br>{{flags}}{{/flags}}
+</p>
+<p><span class="Word">{{单词}}</span>
+<p><div class=PhoneticSymbol>{{音标}}</div>
+{{#图片}}<p><div class=paraimgDiv><div class=paraimg>{{图片}}</div></div>{{/图片}}
+<div class=PhoneticSymbol>
+  {{#美式发音}}{{美式发音}}{{/美式发音}}
+		<br>
+  	<a class="phoneticHref" href="https://youglish.com/pronounce/{{单词}}/english?">·YouGlish·</a>
+  	<a class="phoneticHref" href="https://www.oxfordlearnersdictionaries.com/definition/english/{{单词}}">·Oxford·</a>
+  	<a class="phoneticHref" href="https://www.ldoceonline.com/dictionary/{{单词}}">·Longman·</a>
+		<a class="phoneticHref" href="https://www.etymonline.com/search?q={{单词}}">·Etymonline·</a>
+	
+	<br/>
+  <a class="phoneticHref" href="https://dict.eudic.net/dicts/en/{{单词}}">·Eudic·</a>
+  <a class="phoneticHref" href="https://www.youdao.com/w/eng/{{单词}}/#keyfrom=dict2.index">·youdao·</a>
+<hr class=POSD 	style="width:100%"; />
+</div>
+
+<!-- -------- extra begin -------- -->
+{{#词根词缀}}
+	<div class ="affixCenter">
+		{{词根词缀}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/词根词缀}}
+{{#词根词缀2}}
+	<div class ="affixCenter">
+		{{词根词缀2}}
+	</div>
+<hr class=POSD 	style="width:100%"; />
+{{/词根词缀2}}
+
+{{#牛津双解}}
+	<div class="hintBtnBox">
+		<button id ="oalecd8eButton" class=hintBtn>牛津双解</button>
+	</div>
+	<div id ="oalecd8e" class="hint">
+		{{牛津双解}}	
+		{{#etymonline}}
+			<div class="_oalecd8e">
+				<span class="p-g"><span class="p-g"><span class="block-g"><span class="pos-g"> <span class="pos">etymonline</span> </span></span></span></span>
+				{{etymonline}}
+	   	 	</div>
+		{{/etymonline}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/牛津双解}}
+
+{{#释义比例}}
+	<div class="hintBtnBox">
+	    <button id ="explanationRateButton" class=hintBtn>释义比例</button>
+    </div> 
+    <div id ="explanationRate" class="hint">
+        {{释义比例}}
+    </div>
+	<hr class=POSD 	style="width:100%"; />
+{{/释义比例}}
+
+{{#examples}}
+	<div class="hintBtnBox">
+      <button id ="eudictDivButton" class=hintBtn>Eudict</button>
+	</div> 
+	<div id= "eudictDiv" class ="hint">
+ 	 {{examples}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/examples}}
+
+{{#dreyefull}}
+	<div class="hintBtnBox">
+    <button id ="dreyefullButton" class=hintBtn>Dreye</button>
+	</div> 
+	<div id="dreyefullDiv" class ="dreyeCenter">
+ 	 {{dreyefull}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/dreyefull}}
+
+{{#拓展}}
+<br>
+	<div class="hintBtnBox">
+		<button id ="expansionButton" class=hintBtn>拓展</button>
+	</div>
+	<div id ="expansion" class="hint">
+		{{拓展}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/拓展}}
+
+{{#新概念例句}}
+<br>
+	<div class="hintBtnBox">
+		<button id ="exampleNceButton" class=hintBtn>新概念例句</button>
+	</div>
+	<div id ="exampleNce" class="hint">
+		{{新概念例句}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/新概念例句}}
+
+{{#synonyms}}
+<br>
+	<div class="hintBtnBox">
+		<button id ="synonymsButton" class=hintBtn>synonyms</button>
+	</div>
+	<div id ="synonyms" class="hint">
+		{{synonyms}}
+	</div>
+	<hr class=POSD 	style="width:100%"; />
+{{/synonyms}}
+<!-- -------- extra end -------- -->
+
+<script type="text/javascript">
+    var script = document.createElement("script");
+    script.src   = "_Tarov.js";
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script type="text/javascript">
+    var script = document.createElement("script");
+    script.src   = "_entry.js";
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script type="text/javascript">
+    var script = document.createElement("script");
+    script.src   = "_jquery.js";
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script type="text/javascript">
+    var script = document.createElement("script");
+    script.src   = "_oalecd8e.ini";
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<script type="text/javascript">
+    var script = document.createElement("script");
+    script.src   = "_oalecd8e.js";
+    document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+   		$(".hint").show();
+	});
+	
+	//欧路例句
+	$("#eudictDivButton").on
+ 	$("#eudictDivButton").click(function(){
+			$("#eudictDiv").toggle();
+	});
+
+	//释义比例
+	$("#explanationRateButton").on
+	$("#explanationRateButton").click(function(){
+  		$("#explanationRate").toggle();
+	});
+
+	//拓展
+	$("#expansionButton").on
+	$("#expansionButton").click(function(){
+  		$("#expansion").toggle();
+	});
+    
+	//新概念例句
+	$("#exampleNceButton").on
+	$("#exampleNceButton").click(function(){
+  		$("#exampleNce").toggle();
+	});
+	
+	//牛津
+	$("#oalecd8eButton").on
+	$("#oalecd8eButton").click(function(){
+  		$("#oalecd8e").toggle();
+	});
+
+	//dreye
+	$("#dreyefullButton").on
+	$("#dreyefullButton").click(function(){
+      $("#dreyefullDiv").toggle();	
+	});
+
+	//Etymonline
+	//$("#etymonlineButton").on
+	//$("#etymonlineButton").click(function(){
+  	//	$("#etymonline").toggle();
+	//});
+
+	//synonyms
+	$("#synonymsButton").on
+	$("#synonymsButton").click(function(){
+  		$("#synonyms").toggle();
+	});
+
+  	var word = "{{单词}}";
+</script>

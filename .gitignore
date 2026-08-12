@@ -1,0 +1,18 @@
+# Local Anki collections and exports must never enter this repository.
+*.anki2
+*.anki21
+collection.media/
+*.apkg
+*.colpkg
+
+# Generated release artifacts and local diagnostics.
+dist/
+exports/
+tmp/
+*.log
+
+# Editor and OS files.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

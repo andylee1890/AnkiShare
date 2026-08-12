@@ -1,0 +1,47 @@
+{
+  "model_name": "词根词缀模板",
+  "fields": [
+    {
+      "name": "key",
+      "description": ""
+    },
+    {
+      "name": "description",
+      "description": ""
+    },
+    {
+      "name": "type",
+      "description": ""
+    },
+    {
+      "name": "meaning",
+      "description": ""
+    },
+    {
+      "name": "examples",
+      "description": ""
+    },
+    {
+      "name": "notes",
+      "description": ""
+    },
+    {
+      "name": "牛津",
+      "description": ""
+    },
+    {
+      "name": "Collins",
+      "description": ""
+    },
+    {
+      "name": "简明",
+      "description": ""
+    }
+  ],
+  "cards": [
+    {
+      "name": "卡片1",
+      "path": "cards\\01-卡片1"
+    }
+  ]
+}

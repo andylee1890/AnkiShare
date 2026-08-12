@@ -1,0 +1,92 @@
+<!-- 作者：未完 -->
+<!-- 完整资料地址：https://github.com/andylee1890/NewConceptEnglish -->
+
+
+<h1>Lesson {{Lesson}}</h1>
+	<div class="textMain">
+		<p>{{正面}}</p>
+		
+		{{#audio}}
+		<p id="originAudio"style="font-size: 10px;text-align: center;">{{audio}}</p>		
+		{{/audio}}
+		<p id ="anser"><b style="color:#984806">{{背面}}</b></p>
+	</div>
+
+<!-- -------- extra begin -------- -->
+{{#points}}
+	<br>
+	<div class="hintBtnBox">
+		<button id ="pointsButton" class=hintBtn>知识点概况</button>
+		<br>
+	</div>
+	<div id ="points" class=hint>
+		<b>{{points}}</b>
+	</div>
+	<hr>
+{{/points}}
+{{#notes}}
+<br>
+	<div class="hintBtnBox">
+		<button id ="notesButton" class=hintBtn>课文笔记</button>
+		<br>
+	</div>
+	<div id ="notes" class=hint>
+		{{notes}}
+	</div>
+{{/notes}}
+
+{{#words}}
+<br>
+	<div class="hintBtnBox">
+		<button id ="wordsButton" class=hintBtn>单词笔记</button>
+		<br>
+	</div>
+	<div id ="words" class=hint>
+		{{words}}
+	</div>
+{{/words}}
+{{#Question}}
+	<br>
+	<div class="hintBtnBox">
+		<button id ="QuestionButton" class=hintBtn>Question</button>
+		<br>=
+	</div>
+	<div id ="Question" class=hint>
+		{{Question}}
+	</div>
+{{/Question}}
+
+
+<script type="text/javascript">
+	window.onload = function(){
+	   
+	};
+
+	//$("#anser").hide();
+	$("#anserButton").on
+	$("#anserButton").click(function(){
+		$("#anser").toggle();
+	});
+
+
+	$("#pointsButton").on
+	$("#pointsButton").click(function(){
+		$("#points").toggle();
+	});
+	$("#notesButton").on
+	$("#notesButton").click(function(){
+  		$("#notes").toggle();
+	});
+
+  $("#wordsButton").on
+	$("#wordsButton").click(function(){
+  		$("#words").toggle();
+	});
+
+	$("#QuestionButton").on
+	$("#QuestionButton").click(function(){
+  		$("#Question").toggle();
+	});
+
+</script>
+<!-- -------- extra end -------- -->
