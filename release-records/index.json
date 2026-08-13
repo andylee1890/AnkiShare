@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-14T02:10:00+08:00",
+  "repository": "andylee1890/AnkiShare",
+  "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
+  "website": "https://englishanchor.online",
+  "indexUrls": {
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/release-records/index.json",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/release-records/index.json"
+  },
+  "purpose": "English Anchor Anki 卡组的可供网站消费的发布主索引。",
+  "statusValues": {
+    "published": "公开 Release 和可下载 APKG 均有效。"
+  },
+  "decks": [
+    {
+      "id": "nce2-practice-and-progress",
+      "slug": "nce2",
+      "name": "NCE2 實踐與進步",
+      "nameEnglish": "Practice & Progress",
+      "series": "New Concept English",
+      "book": 2,
+      "level": "入门",
+      "description": "第二册课文逐句学习，配有中文理解、句型和学习笔记。",
+      "features": ["课文逐句学习", "中文理解", "句型笔记", "四个单元笔记已补全"],
+      "latestVersion": "nce2-v1.0.2",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce2-v1.0.2",
+      "versions": ["nce2-v1.0.2"]
+    },
+    {
+      "id": "nce3-developing-skills",
+      "slug": "nce3",
+      "name": "NCE3 培養技能",
+      "nameEnglish": "Developing Skills",
+      "series": "New Concept English",
+      "book": 3,
+      "level": "进阶",
+      "description": "第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
+      "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "知识点整理"],
+      "latestVersion": "nce3-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.0",
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
+      "versions": ["nce3-v1.0.0"]
+    },
+    {
+      "id": "nce4-fluency-in-english",
+      "slug": "nce4",
+      "name": "NCE4 流利英語",
+      "nameEnglish": "Fluency in English",
+      "series": "New Concept English",
+      "book": 4,
+      "level": "高阶",
+      "description": "第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
+      "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "第四册笔记已补全"],
+      "latestVersion": "nce4-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.0",
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
+      "versions": ["nce4-v1.0.0"]
+    },
+    {
+      "id": "new-concept-english-phrases",
+      "slug": "nce-phrases",
+      "name": "新概念短语",
+      "nameEnglish": "New Concept English Phrases",
+      "series": "New Concept English",
+      "level": "入门至进阶",
+      "description": "新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料。",
+      "features": ["高频短语", "固定搭配", "释义与例句", "词典资料"],
+      "latestVersion": "nce-phrases-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-phrases-v1.0.0",
+      "versions": ["nce-phrases-v1.0.0"]
+    }
+  ],
+  "releases": [
+    {
+      "tag": "nce2-v1.0.2",
+      "deckId": "nce2-practice-and-progress",
+      "version": "1.0.2",
+      "status": "published",
+      "publishedAt": "2026-08-14",
+      "title": "NCE2 實踐與進步（Practice & Progress） v1.0.2",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce2-v1.0.2",
+      "asset": {
+        "fileName": "NCE2-Practice-and-Progress.apkg",
+        "sizeBytes": 153816927,
+        "sizeMiB": 146.69,
+        "sha256": "fff65428fcbe865c21acb7985b9d2c6e55cb88c8543d254f0ef03758b0bdae75",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg"
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "nce3-v1.0.0",
+      "deckId": "nce3-developing-skills",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-14",
+      "title": "NCE3 培養技能（Developing Skills） v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.0",
+      "asset": {
+        "fileName": "NCE3-Developing-Skills.apkg",
+        "sizeBytes": 209245814,
+        "sizeMiB": 199.55,
+        "sha256": "0acfec511321b248452e425dacecb1832348ddf5121729491bbdfdd817c74187",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg"
+      },
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "nce4-v1.0.0",
+      "deckId": "nce4-fluency-in-english",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-13",
+      "title": "NCE4 流利英語（Fluency in English） v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.0",
+      "asset": {
+        "fileName": "NCE4-Fluency-in-English.apkg",
+        "sizeBytes": 156410590,
+        "sizeMiB": 149.19,
+        "sha256": "bbb6e474d2e350d6d1cd6097c4cc4017bf52ceb85c98afc24f866fbc6f1d6c58",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg"
+      },
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "nce-phrases-v1.0.0",
+      "deckId": "new-concept-english-phrases",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-14",
+      "title": "新概念短语 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-phrases-v1.0.0",
+      "asset": {
+        "fileName": "New-Concept-English-Phrases.apkg",
+        "sizeBytes": 5989663,
+        "sizeMiB": 5.71,
+        "sha256": "663d5dab93fda0e09e16ee2b23bbfeb979dc38f22aac55fbb94d2476b0a03c30",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg"
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online"
+    }
+  ]
+}

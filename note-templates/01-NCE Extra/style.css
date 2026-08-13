@@ -1,3 +1,10 @@
+/* Dictionary fields are scoped HTML fragments. Load their media styles here
+   so review and preview render the same way as the editor. */
+@import url("_oalecd8e_wrap.css");
+@import url("_LM5style_wrap.css");
+@import url("_LM5style_switch_wrap.css");
+@import url("_LM5style_show_wrap.css");
+
 .card {
 	font-size: 25px;
 	text-align: center;

@@ -25,6 +25,7 @@
 | NCE2 實踐與進步（Practice & Progress） | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 2026-08-14 | `nce2-v1.0.2` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg) |
 | NCE3 培養技能（Developing Skills） | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-14 | `nce3-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg) |
 | NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-13 | `nce4-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg) |
+| 新概念短语 | 新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料 | 2026-08-14 | `nce-phrases-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg) |
 
 > 下载后请使用 Anki Desktop、AnkiMobile、AnkiDroid 或其他兼容 Anki `.apkg` 格式的应用导入。
 
@@ -43,6 +44,7 @@ Anki 仍然是本地卡片制作和最终导出的工作台。项目不依赖 An
 - `docs/`：卡组发布、维护和使用相关文档。
 - `note-templates/`：从 Anki 导出的笔记类型、字段、卡片正反面模板与 CSS，可审阅、可版本控制。
 - `note-resources/`：卡片模板依赖的 CSS、JavaScript 等媒体资源标准源；维护后同步到本地 Anki 的 `collection.media`。
+- `release-records/index.json`：面向 English Anchor 网站的卡组与 Release 主索引，包含当前版本、历史版本、下载地址、文件大小和 SHA-256。
 
 ## 版本与发布
 

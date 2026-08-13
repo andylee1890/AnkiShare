@@ -19,3 +19,11 @@ Release 地址：
 状态：三个附件已发布。SHA-256 为发布前对本地导出文件计算的校验值，下载完成后可用于验证文件完整性。
 
 项目官网：<https://englishanchor.online>
+
+## 新概念短语：2026-08-14
+
+| 牌组 | 版本 | 文件 | 大小 | SHA-256 |
+| --- | --- | --- | ---: | --- |
+| 新概念短语 | `nce-phrases-v1.0.0` | `New-Concept-English-Phrases.apkg` | 5,989,663 bytes | `663d5dab93fda0e09e16ee2b23bbfeb979dc38f22aac55fbb94d2476b0a03c30` |
+
+Release 地址：<https://github.com/andylee1890/AnkiShare/releases/tag/nce-phrases-v1.0.0>
