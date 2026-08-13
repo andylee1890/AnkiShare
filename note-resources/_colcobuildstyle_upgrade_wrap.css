@@ -1,0 +1,42 @@
+._colcobuildstyle_upgrade .windowsnt.goldendict,._colcobuildstyle_upgrade link[href^=bres]~.collinsbody{font-size:16px}
+._colcobuildstyle_upgrade .collinsbody{font-size:16px}
+._colcobuildstyle_upgrade .windowsnt.goldendict .word_entry,._colcobuildstyle_upgrade link[href^=bres]~.collinsbody .word_entry{margin-top:0;clear:both}
+._colcobuildstyle_upgrade .note .caption{padding-top:0;padding-bottom:0;margin-bottom:0}
+._colcobuildstyle_upgrade .note.example li{font-size:1em}
+._colcobuildstyle_upgrade .word_entry{padding-right:130px}
+._colcobuildstyle_upgrade .word-frequency-img{z-index:initial}
+._colcobuildstyle_upgrade .collins_en_cn.image{font-size:.8em}
+._colcobuildstyle_upgrade .cit.type-quotation{border-top:1px solid hsla(212,100%,90%,1)}
+._colcobuildstyle_upgrade .quotation-caption{margin:5px 0 10px}
+._colcobuildstyle_upgrade .quotation .quote{display:inline;font-family:Georgia,"Times New Roman",serif}
+._colcobuildstyle_upgrade .collinsbody .collins_content .collins_en_cn.addon .caption{padding-left:0}
+._colcobuildstyle_upgrade .collins_en_cn.trend .caption{cursor:pointer;background:#e9fee4;font-size:.8em}
+._colcobuildstyle_upgrade .collins_en_cn.trend .num{font-size:1.4em;font-weight:400}
+._colcobuildstyle_upgrade .collins_en_cn.trend:not(.folded) .num .plus{display:none}
+._colcobuildstyle_upgrade .folded.collins_en_cn.trend .num .minus{display:none}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendContent{position:relative;overflow:hidden;height:0;width:100%;-webkit-transition:height .6s;transition:height .6s}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendContainer{width:100%;position:absolute;height:250px;bottom:0;margin:0;padding:0}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendTitle{font-size:.8em}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendChart{height:200px;margin:10px}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendTitle .title{display:none}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendTitle .select{cursor:pointer;color:#4373b6;text-decoration:none;font-weight:400;font-size:1em;margin-left:1em;border-bottom:dashed 1px #b4c8e3;-webkit-transition:all 1s;transition:all 1s}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendTitle .select .screenWider{display:none}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendChart{margin:5px 3px}
+._colcobuildstyle_upgrade .collins_en_cn.trend .trendTitle .select.selected{cursor:default;font-weight:700;border-bottom:none}
+._colcobuildstyle_upgrade .collins_en_cn.trend .tooltip{background-color:#4373b6;color:#fff;text-align:center;border-radius:6px;padding:5px 0;position:absolute;z-index:1;display:none;font-size:12px;width:100px}
+._colcobuildstyle_upgrade .collins_en_cn.trend .tooltip:after{content:"";position:absolute;top:100%;left:50%;margin-left:-5px;border-width:5px;border-style:solid;border-color:#4373b6 transparent transparent transparent}
+._colcobuildstyle_upgrade .collins_en_cn.addon .caption{display:-webkit-box;-webkit-box-align:center;padding-left:0}
+._colcobuildstyle_upgrade .cc_addon_foldButton{position:relative;width:9px;height:9px;margin-left:9px;margin-right:9px}
+._colcobuildstyle_upgrade @media screen and (max-width:500px){margin-right:4px}
+._colcobuildstyle_upgrade .cc_addon_foldButton .hline{position:absolute;background-color:#000;transition:all .25s ease-out;-webkit-transition:all .25s ease-out}
+._colcobuildstyle_upgrade .cc_addon_foldButton .vline{top:0;left:50%;width:2px;height:100%;margin-left:-1px}
+._colcobuildstyle_upgrade .unfolded .cc_addon_foldButton .vline{transform:rotate(90deg);-webkit-transform:rotate(90deg);opacity:0}
+._colcobuildstyle_upgrade .cc_addon_foldButton .hline{top:50%;left:0;width:100%;height:2px;margin-top:-1px}
+._colcobuildstyle_upgrade .unfolded .cc_addon_foldButton .hline{transform:rotate(180deg);-webkit-transform:rotate(180deg)}
+._colcobuildstyle_upgrade .cc_addon_text b{color:#1684bf}
+._colcobuildstyle_upgrade .collinsbody .tts_button{display:none;color:#8c8c8c}
+._colcobuildstyle_upgrade .collinsbody .tts_button.loading{-webkit-animation-name:ccloadingAnim;animation-name:ccloadingAnim;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}
+._colcobuildstyle_upgrade .collinsbody .tts_button:hover{text-decoration:none}
+._colcobuildstyle_upgrade .collinsbody .tts_button:before{content:"\ea27";font-style:normal;font-family:icomoon;font-size:.8em;padding:8px}
+._colcobuildstyle_upgrade .collinsbody.synthesis .tts_button{display:inline-block}
+._colcobuildstyle_upgrade .collinsbody.synthesis .note.type-note .tts_button{display:none}

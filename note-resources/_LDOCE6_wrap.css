@@ -1,0 +1,745 @@
+._LDOCE6 * {
+    font-size: 35%;
+}
+._LDOCE6 .entry {
+    line-height: 150%;
+    color: black;
+    display: block;
+}
+._LDOCE6 .def {
+    font-weight: bold;
+    color: #08d;
+}
+._LDOCE6 .abbr {
+    font-weight: bold;
+    color: #039;
+}
+._LDOCE6 .ac,._LDOCE6 .ac {
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-variant: small-caps;
+    font-size: 80%;
+    font-weight: bold;
+    color: blue;
+}
+._LDOCE6 .amequiv {
+    font-weight: bold;
+}
+._LDOCE6 .brequiv {
+    font-weight: bold;
+}
+._LDOCE6 .collo {
+    font-weight: bold;
+}
+._LDOCE6 .colloexa {
+    display: block;
+}
+._LDOCE6 .colloinexa {
+    font-style: italic;
+    font-weight: bold;
+}
+._LDOCE6 .comp {
+    font-weight: bold;
+}
+._LDOCE6 .deriv {
+    font-weight: bold;
+    color: blue;
+}
+._LDOCE6 .errorbox {
+    display: block;
+}
+._LDOCE6 .etymsense {
+    display: block;
+}
+._LDOCE6 .etymrefhwd {
+    font-style: italic;
+}
+._LDOCE6 .etymrefhom {
+    font-size: 80%;
+    vertical-align: super;
+    font-style: normal;
+}
+._LDOCE6 .etymorigin {
+    font-style: italic;
+}
+._LDOCE6 .etymtran {
+    font-weight: bold;
+}
+._LDOCE6 .etymbox {
+    margin-top: 1em;
+    display: block;
+}
+._LDOCE6 .example {
+    
+    display: block;
+    color: #4682B4;
+}
+._LDOCE6 .freq,._LDOCE6 .freq {
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-variant: small-caps;
+    font-size: 80%;
+    font-weight: bold;
+    color: red;
+}
+._LDOCE6 .level {
+    color: red;
+    font-size: 160%;
+}
+._LDOCE6 .fullform {
+    font-weight: bold;
+}
+._LDOCE6 .geo,._LDOCE6 span.geo {
+    font-weight: normal;
+    font-style: italic;
+    color: purple;
+}
+._LDOCE6 .gloss,._LDOCE6 .collgloss {
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+}
+._LDOCE6 .gram {
+    color: green;
+}
+._LDOCE6 .hintbold {
+    font-weight: bold;
+}
+._LDOCE6 .hintitalic {
+    font-style: italic;
+}
+._LDOCE6 hinttitle {
+    font-weight: bold;
+}
+._LDOCE6 .homnum {
+    vertical-align: super;
+    font-size: 8pt;
+    color: blue;
+    font-weight: bold;
+}
+._LDOCE6 .hwd {
+    display: none;
+}
+._LDOCE6 .hyphenation {
+    font-weight: bold;
+    font-size: 120%;
+    color: blue;
+}
+._LDOCE6 .frequent {
+    color: red;
+}
+._LDOCE6 .lexunit {
+    font-weight: bold;
+}
+._LDOCE6 .lexvar {
+    font-weight: bold;
+}
+._LDOCE6 .linkword {
+    font-style: italic;
+}
+._LDOCE6 note {
+    display: block;
+}
+._LDOCE6 object {
+    font-weight: normal;
+}
+._LDOCE6 .opp {
+    font-weight: bold;
+}
+._LDOCE6 .orthvar {
+    font-weight: bold;
+}
+._LDOCE6 .pastpart {
+    font-weight: bold;
+}
+._LDOCE6 pastpartx {
+    font-weight: bold;
+}
+._LDOCE6 .pasttense {
+    font-weight: bold;
+}
+._LDOCE6 pasttensex {
+    font-weight: bold;
+}
+._LDOCE6 .phrvbentry {
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+._LDOCE6 .phrvbhwd {
+    font-weight: bold;
+    color: blue;
+}
+._LDOCE6 .pluralform {
+    font-weight: bold;
+}
+._LDOCE6 .pos {
+    font-style: italic;
+    color: green;
+    font-weight: normal;
+}
+._LDOCE6 .prespart {
+    font-weight: bold;
+}
+._LDOCE6 prespartx {
+    font-weight: bold;
+}
+._LDOCE6 .propform {
+    font-weight: bold;
+    display: block;
+}
+._LDOCE6 .propformprep {
+    font-weight: bold;
+    display: block;
+}
+._LDOCE6 .ptandpp {
+    font-weight: bold;
+}
+._LDOCE6 ptandppx {
+    font-weight: bold;
+}
+._LDOCE6 .refhomnum {
+    vertical-align: super;
+    font-size: 60%;
+}
+._LDOCE6 .refhwd,._LDOCE6 .refsensenum,._LDOCE6 refsense {
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+._LDOCE6 .refsensenum {
+    font-size: 80%;
+}
+._LDOCE6 crossrefto .reflex {
+    display: none;
+}
+._LDOCE6 .reflex {
+    font-weight: bold;
+}
+._LDOCE6 .registerlab {
+    font-style: italic;
+    color: purple;
+}
+._LDOCE6 .relatedwd {
+    font-weight: bold;
+}
+._LDOCE6 .runon {
+    display: block;
+    margin-top: 8px;
+}
+._LDOCE6 .sense {
+    display: block;
+    margin-bottom: 14px;
+    margin-top: 6px;
+}
+._LDOCE6 .signpost {
+    color: white;
+    background-color: #35A3FF;
+    margin-left: .5em;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    font-size: 80%;
+    padding: 1px 2px 1px 1px;
+}
+._LDOCE6 .spokensect {
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 2px;
+    display: block;
+    margin-bottom: 1ex;
+    clear: both;
+    margin-top: 1ex;
+    border-color: #00A2E8;
+    padding: 3px;
+}
+._LDOCE6 .spokensecthead {
+    display: block;
+    color: #00A2E8;
+    font-weight: bold;
+}
+._LDOCE6 .pronstrong {
+    font-style: italic;
+}
+._LDOCE6 .subsense {
+    display: block;
+}
+._LDOCE6 .superl {
+    font-weight: bold;
+}
+._LDOCE6 .syn {
+    font-weight: bold;
+}
+._LDOCE6 .t3perssing {
+    font-weight: bold;
+}
+._LDOCE6 t3perssingx {
+    font-weight: bold;
+}
+._LDOCE6 unclassified {
+    font-weight: bold;
+}
+._LDOCE6 span.neutral {
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    color: black;
+    text-decoration: none;
+}
+._LDOCE6 .cross {
+    color: red;
+    font-weight: bold;
+}
+._LDOCE6 span.italic {
+    color: black;
+    font-style: italic;
+    font-weight: normal;
+}
+._LDOCE6 .badexa {
+    text-decoration: line-through;
+    font-style: italic;
+}
+._LDOCE6 .hint .expl {
+    display: inline;
+}
+._LDOCE6 span.infllab {
+    font-style: italic;
+    font-weight: normal;
+}
+._LDOCE6 span.warning {
+    font-style: normal;
+    font-weight: bold;
+    color: red;
+}
+._LDOCE6 span.sensenum {
+    font-style: normal;
+    font-weight: bold;
+    margin-right: 3px;
+    color: blue;
+}
+._LDOCE6 span.synopp {
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-variant: small-caps;
+    font-size: 80%;
+    font-weight: bold;
+    color: blue;
+}
+._LDOCE6 .subheading,._LDOCE6 .secheading {
+    display: block;
+    font-weight: bold;
+    font-weight: bold;
+    color: white;
+    background-color: #8187BF;
+    margin-left: -3px;
+    margin-right: -3px;
+    font-variant: small-caps;
+    padding-left: 3px;
+}
+._LDOCE6 .collocate,._LDOCE6 .exponent {
+    display: block;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+._LDOCE6 .collocate.inline {
+    display: inline;
+}
+._LDOCE6 .expl {
+    display: block;
+    padding: 0 3px;
+}
+._LDOCE6 .colloc {
+    font-weight: bold;
+}
+._LDOCE6 .exp {
+    font-weight: bold;
+}
+._LDOCE6 .expr {
+    font-weight: bold;
+}
+._LDOCE6 .colloc.key {
+    color: blue;
+}
+._LDOCE6 span.keycollo {
+    font-weight: bold;
+    color: blue;
+}
+._LDOCE6 .thespropform {
+    font-weight: bold;
+}
+._LDOCE6 collexa {
+    font-style: italic;
+}
+._LDOCE6 collexa .colloinexa {
+    font-weight: normal;
+}
+._LDOCE6 thesexa {
+    font-style: italic;
+}
+._LDOCE6 learneritem {
+    display: block;
+}
+._LDOCE6 .goodcollo {
+    font-weight: bold;
+}
+._LDOCE6 .badcollo {
+    text-decoration: line-through;
+}
+._LDOCE6 .defbold {
+    font-weight: bold;
+}
+._LDOCE6 topic {
+    font-variant: small-caps;
+    color: blue;
+}
+._LDOCE6 .thesref.newline {
+    display: block;
+}
+._LDOCE6 .heading.newline {
+    display: block;
+}
+._LDOCE6 .thesref span.thesaurus {
+    color: blue;
+    font-variant: small-caps;
+}
+._LDOCE6 .thesref .refhwd,._LDOCE6 .thesref .refhomnum {
+    color: blue;
+    font-weight: bold;
+}
+._LDOCE6 i {
+    font-style: italic;
+}
+._LDOCE6 .imgholder {
+    cursor: pointer;
+    
+    display: block;
+    margin-bottom: 1ex;
+    padding: 2px;
+    clear: both}
+._LDOCE6 .imgholder img {
+    border: 1px solid #DDD;
+    max-width: 100px;
+    max-height: 100px;
+}
+._LDOCE6 .buttons {
+    display: block;
+}
+._LDOCE6 .popup-button {
+    background-color: #f0f2fc;
+    border-radius: 2px;
+    border: 1px solid #7e92c7;
+    color: #7e92c7;
+    text-transform: uppercase;
+    font-size: 66%;
+    padding: 2px 3px;
+    text-decoration: none;
+}
+._LDOCE6 .popup-button-hover {
+    background-color: #dfe3f8;
+    cursor: pointer;
+}
+._LDOCE6 .popverbs {
+    display: block;
+    color: white;
+    font-weight: bold;
+    background-color: #ec008d;
+    padding-left: 3px;
+    margin-bottom: 5px;
+}
+._LDOCE6 .verbtable .lemma {
+    color: blue;
+    font-size: 120%;
+    font-weight: bold;
+}
+._LDOCE6 .verbtable table {
+    border-collapse: separate;
+    border-spacing: 1px;
+    margin-top: 10px;
+}
+._LDOCE6 .verbtable td {
+    padding: 0 5px 0 2px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D2D2D2;
+}
+._LDOCE6 .header {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+._LDOCE6 .verbtable td.col1 {
+    font-weight: bold;
+}
+._LDOCE6 .verbtable td.col2 {
+    font-style: italic;
+}
+._LDOCE6 .verbtable .geo {
+    font-style: italic;
+    color: #000;
+    font-size: normal;
+    font-weight: normal;
+}
+._LDOCE6 .verbtable .aux {
+    font-weight: bold;
+}
+._LDOCE6 .verbtable .verb_form {
+    color: blue;
+    font-weight: bold;
+}
+._LDOCE6 .collocations .last {
+    margin-bottom: 20px;
+}
+._LDOCE6 .collocations .colloc {
+    display: inline-block;
+    font-weight: bold;
+    margin-left: -2px;
+}
+._LDOCE6 .collobox,._LDOCE6 .thesbox,._LDOCE6 .usagebox,._LDOCE6 .grambox,._LDOCE6 spoken,._LDOCE6 .f2nbox {
+    border-radius: 9px 9px 9px 9px;
+    border-style: solid;
+    border-width: 2px;
+    display: block;
+    margin-bottom: 1ex;
+    clear: both;
+    margin-top: 1ex;
+}
+._LDOCE6 .f2nbox {
+    border-color: #00A2E8;
+}
+._LDOCE6 .f2nbox .heading {
+    color: #00A2E8;
+}
+._LDOCE6 .heading {
+    color: white;
+    font-weight: bold;
+    line-height: 100%;
+    padding: 3px;
+}
+._LDOCE6 .section {
+    display: block;
+    padding: 0 3px;
+}
+._LDOCE6 .last {
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}
+._LDOCE6 .thesbox {
+    background-color: #652D91;
+    border-color: #652D91;
+}
+._LDOCE6 .thesbox .section {
+    background-color: #E8E2F0;
+}
+._LDOCE6 .collobox {
+    background-color: #1D3E99;
+    border-color: #1D3E99;
+}
+._LDOCE6 .collobox .section {
+    background-color: #E2F4FD;
+}
+._LDOCE6 .usagebox {
+    background-color: #00A2E8;
+    border-color: #00A2E8;
+}
+._LDOCE6 .usagebox .expl {
+    background-color: #E2F4FD;
+}
+._LDOCE6 .grambox {
+    background-color: #00ADEE;
+    border-color: #00ADEE;
+}
+._LDOCE6 .grambox .expl,._LDOCE6 .grambox .compareword {
+    background-color: #E2F4FD;
+    display: block;
+    padding-left: 3px;
+}
+._LDOCE6 .compareword {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+._LDOCE6 .gramrefcont {
+    display: block;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    padding-left: 3px;
+    padding-bottom: 1px;
+}
+._LDOCE6 .thesaurus .sense {
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 0;
+}
+._LDOCE6 .thesaurus .section,._LDOCE6 .collocations .section {
+    margin-bottom: 10px;
+}
+._LDOCE6 .thesaurus .secheading,._LDOCE6 .thesbox .secheading {
+    background-color: #A186BD;
+}
+._LDOCE6 .add_exa {
+    font-style: italic;
+    display: block;
+}
+._LDOCE6 .nodeword {
+    color: blue;
+    font-weight: bold;
+}
+._LDOCE6 .phrase {
+    display: block;
+}
+._LDOCE6 .phrasetext {
+    font-weight: bold;
+}
+._LDOCE6 .expandable {
+    cursor: pointer;
+}
+._LDOCE6 .entry div.content {
+    display: none;
+    margin-bottom: 10px;
+}
+._LDOCE6 .group,._LDOCE6 .w {
+    display: block;
+}
+._LDOCE6 .group .pos {
+    font-weight: bold;
+    display: block;
+}
+._LDOCE6 .item {
+    display: block;
+}
+._LDOCE6 .w {
+    font-weight: bold;
+}
+._LDOCE6 .popheader {
+    display: block;
+    color: white;
+    font-weight: bold;
+    padding-left: 3px;
+}
+._LDOCE6 .popheader.popexa {
+    background-color: red;
+}
+._LDOCE6 .popheader.popphrase {
+    background-color: purple;
+}
+._LDOCE6 .popheader.popcollo {
+    background-color: #1D3E99;
+}
+._LDOCE6 .popheader.popthes {
+    background-color: #652D91;
+}
+._LDOCE6 .popheader.popetym {
+    background-color: green;
+}
+._LDOCE6 .popheader.popwf {
+    background-color: #FFD448;
+}
+._LDOCE6 .popheader.pope_menu {
+    background-color: #57C0E0;
+}
+._LDOCE6 .ws-head {
+    font-weight: bold;
+    color: blue;
+    font-size: larger;
+}
+._LDOCE6 .ws-head.ref {
+    display: block;
+    margin-top: 10px;
+}
+._LDOCE6 .wswd {
+    font-weight: bold;
+    display: block;
+}
+._LDOCE6 .cyan {
+    color: #00A2E8;
+    font-size: larger;
+}
+._LDOCE6 .menuitem {
+    display: block;
+}
+._LDOCE6 ul.exas li {
+    font-style: italic;
+    color: blue;
+    margin-bottom: 3px;
+}
+._LDOCE6 .grammar {
+    display: block;
+}
+._LDOCE6 .str {
+    font-size: large;
+    font-weight: bold;
+}
+._LDOCE6 .etymology {
+    margin-top: 10px;
+}
+._LDOCE6 .group {
+    margin-top: 10px;
+}
+._LDOCE6 .menuitem .signpost {
+    background-color: #FFF;
+    color: black;
+    margin-left: 0;
+    font-size: 90%;
+}
+._LDOCE6 .phrvbs {
+    display: block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+._LDOCE6 .phrvbs .heading {
+    display: block;
+    color: blue;
+    font-weight: bold;
+}
+._LDOCE6 .phrv {
+    font-weight: bold;
+}
+._LDOCE6 .secheading,._LDOCE6 .subheading {
+    font-variant: normal;
+    text-transform: uppercase;
+}
+._LDOCE6 .secheading.no_convert {
+    text-transform: none;
+}
+._LDOCE6 .grambox .heading.newline {
+    background-color: #6CD0F6;
+}
+._LDOCE6 img[src*="img/spkr_"] {
+    
+    max-width: 15px;
+    max-height: 15px;
+}
+._LDOCE6 .chwd {
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+._LDOCE6 .chwd a {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    font-size: 80%;
+    border-radius: 2px;
+}
+._LDOCE6 .chwd .hw {
+    color: white;
+}
+._LDOCE6 .entry,._LDOCE6  .entry.lozenge,._LDOCE6  .verbtable {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

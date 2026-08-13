@@ -1,0 +1,11 @@
+﻿._Tarov .hr_after_tittle_box{border-top:0 solid #00f;margin-top:2px;margin-bottom:0;margin-left:2px;margin-right:2px}
+._Tarov .hr_multi_keys{border:5px solid #fff;margin-top:2px;margin-bottom:-15px;margin-left:6px;margin-right:6px}
+._Tarov .each_tittle_first{border-top:1px solid #a8bf93;border-bottom:1px solid #a8bf93;border-left:1px solid #a8bf93;border-right:1px solid #a8bf93;background:#fc5;color:#bbb;border-top-left-radius:2px;border-bottom-left-radius:2px}
+._Tarov .each_tittle_last{background:#bbb;color:#0072c6;border-top-right-radius:2px;border-bottom-right-radius:2px;border-right:1px solid #0072c6;border-top:1px solid #0072c6;border-bottom:0 solid #0072c6}
+._Tarov .each_tittle_mds{background:#bbb;color:#0072c6;border-right:1px solid #0072c6;border-top:1px solid #0072c6;border-bottom:0 solid #0072c6}
+._Tarov .each_tittle_only{background:#48c0a3;color:#bbb;border-top:0 solid #0072c6;border-bottom:0 solid #0072c6;border-left:0 solid #0072c6;border-right:0 solid #0072c6;border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;border-bottom-left-radius:2px;border-radius:0 50px 50px 50px}
+._Tarov .each_tittle_smgs{display:inline-block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;font-weight:700;color:#fff!important;border-radius:50px 50px 50px 50px;border:0 solid #0072c6;min-width:20px;padding-top:5px;padding-bottom:5px;margin-right:.5px;margin-bottom:2px;margin-left:.5px;padding-left:4px;padding-right:4px;font-family:宋体;font-family:微软雅黑;font-size:12px!important;text-align:center}
+._Tarov .each_tittle_smgs:active,._Tarov .each_tittle_smgs:active:always{text-shadow:0 0 8px red!important;background-color:#38a1db!important;color:#000;background:#fff;text-shadow:0 -1px 2px #737373}
+._Tarov .javascript_tittle_box{padding-top:1px;padding-bottom:0;padding-left:2px;padding-right:2px;text-align:right}
+._Tarov .one{display:block;background-color:red;color:#333;margin:10px 0 0;padding:8px 6px;background:#f7fcfe;box-shadow:0 0 3px 0 rgba(0,0,0,.13);border-radius:5px}
+._Tarov .two{display:block;background-color:#00f;color:#333;margin:10px 0 0;padding:8px 6px;background:#fffbf0;box-shadow:0 0 3px 0 rgba(0,0,0,.13);border-radius:5px}

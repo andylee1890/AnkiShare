@@ -16,3 +16,6 @@ tmp/
 Thumbs.db
 .vscode/
 .idea/
+AGENTS.md
+temp/
+.note-templates-staging/

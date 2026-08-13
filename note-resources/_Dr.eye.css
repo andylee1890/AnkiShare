@@ -1,0 +1,402 @@
+﻿@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+body{font-size:12pt;font:-apple-system-body;font-family:-apple-system;color:#000}
+html.apple_client-panel body{margin-top:0}
+@media (prefers-dark-interface){
+img{filter:invert(100%)}
+}
+a{color:-webkit-link;text-decoration:none}
+a:hover{color:-webkit-link;text-decoration:underline}
+html.apple_client-panel a,html.apple_client-panel a:hover{color:text;text-decoration:none}
+table{table-layout:fixed;width:90%;margin-top:1em;margin-left:14px;border-style:solid;border-width:1px;font-weight:400}
+caption{font-size:80%;margin-bottom:.5em;text-align:left;text-transform:uppercase}
+tr{width:30%;-webkit-hyphens:auto}
+.image,span[class=image]{display:block;margin-top:.4em;margin-left:1em}
+img[class=map]{width:100%;margin-top:1em}
+div[class=lineart]{float:right;padding:1em 0 .5em 1.5em;background-color:transparent}
+div[class=lineart]{max-width:33%}
+div[class=lineart][layout=Third]{max-width:33%}
+div[class=lineart][layout=Half]{max-width:33%}
+div[class=lineart][layout=Two-thirds]{max-width:33%}
+div[class=lineart][layout=One]{max-width:33%}
+div[class=lineart][layout=Two]{max-width:33%}
+div[class=lineart][layout=THree]{max-width:33%}
+div[class=lineart][layout='Full Page']{max-width:33%}
+div[class=lineart][layout='Two Pages']{max-width:33%}
+div[class=lineart] img{width:100%}
+div[class=lineart] div{display:block;text-align:center;font-weight:600;font-size:80%}
+html.apple_client-panel div.lineart{display:none}
+html.apple_client-panel img{display:none}
+html.apple_client-panel img.gi,img.gi{display:inline}
+span.hsb:before{content:'\2022';font-size:80%;vertical-align:3%}
+span.wbb:before{content:'\a0\7c\a0';font-size:70%;vertical-align:5%;color:-apple-system-secondary-label;margin-left:-.15em;margin-right:-.15em}
+span.ph.t_stress span.str.t_l{text-decoration:underline}
+span.ph.t_stress span.str.t_s{text-decoration:none}
+.entry{display:block;font-size:84%;margin-bottom:1em;line-height:130%}
+.entry+.entry{margin-top:4em}
+.entry>span.x_xh0{display:block;margin-bottom:.6em}
+html.apple_client-panel .entry>span.x_xh0{margin-bottom:.1em}
+span.x_xh1{display:block;margin-top:.6em;margin-bottom:.4em}
+html.apple_client-panel span.x_xh1{margin-top:.1em}
+span.x_xh1+span.x_xh1{margin-top:.4em;margin-left:1em}
+html.apple_client-panel span.x_xh1+span.x_xh1{margin-top:.1em}
+.entry>span.x_xh0+span.sg,.entry>span.x_xh0+span.x_xd0{margin-top:.6em}
+html.apple_client-panel .entry>span.x_xh0+span.x_xd0,html.apple_client-panel span.x_xd0{margin-top:.1em}
+span.x_xd0{display:block;margin-top:.3em;margin-bottom:.5em}
+html.apple_client-panel span.x_xd0{margin-top:.1em;margin-bottom:.4em}
+span.x_xd0{margin-left:0}
+span.x_xd0>span.x_xdh{font-size:95%;font-weight:700;color:#ff4500;padding-bottom:1px;border-bottom:1.2px solid grey;display:block}
+html.apple_client-panel span.x_xd0>span.x_xdh{font-size:100%;line-height:100%;margin-bottom:.1em}
+span.x_xd0.hasSn>span.x_xdh>span.sn{margin-right:.2em}
+span.x_xd1{display:block;margin-top:.3em;margin-bottom:.7em;margin-left:0}
+html.apple_client-panel span.x_xd1{margin-top:.1em;margin-bottom:.3em}
+span.x_xd1.hasSn{margin-left:1em;text-indent:0;margin-bottom:0}
+span.x_xd1>span.sn,span.x_xd1>span.x_xdh>span.sn{margin-left:-1em;margin-right:0}
+span.x_xd1>span.x_xdh{margin-bottom:.5em}
+span.x_xd1>span.x_xdh.sn,span.x_xd1>span.x_xdh>span.sn{display:inline;margin-right:.1em;font-size:85%;color:grey;font-weight:400}
+span.x_xd1sub{display:block}
+span.x_xd1.hasSn span.x_xdh.sn+span.x_xd1sub{display:inline;margin-left:0}
+span.x_xd1sub.hasSn{margin-left:1em}
+span.x_xd1sub.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+span.x_xd2{display:block;margin-left:0;margin-top:.3em;margin-bottom:.3em}
+html.apple_client-panel span.x_xd2{margin-top:.1em;margin-bottom:.3em}
+span.x_xd2.hasSn{margin-left:1em}
+span.x_xd2.hasSn span.sn{margin-left:-1em;margin-right:.2em}
+span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2{display:inline;margin-left:0}
+span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2.hasSn{display:block;margin-left:1em}
+span.x_xd2.hasSn span.x_xdh.sn+span.x_xd3{display:inline;margin-left:0}
+span.x_xd2.hasSn span.x_xdh.sn+span.x_xd3.hasSn{display:block;margin-left:1em}
+span.x_xd3.hasSn span.x_xdh.sn+span.x_xd4{display:inline;margin-left:0}
+span.x_xd3.hasSn span.x_xdh.sn+span.x_xd4.hasSn{display:block;margin-left:1em}
+span.x_xd4.hasSn span.x_xdh.sn+span.x_xd5{display:inline;margin-left:0}
+span.x_xd4.hasSn span.x_xdh.sn+span.x_xd5.hasSn{display:block;margin-left:1em}
+span.x_xd5.hasSn span.x_xdh.sn+span.x_xd6{display:inline;margin-left:0}
+span.x_xd5.hasSn span.x_xdh.sn+span.x_xd6.hasSn{display:block;margin-left:1em}
+span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4{display:inline;margin-left:0}
+span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+span.x_xo2.hasSn span.x_xoh.sn+span.x_xo3{display:inline;margin-left:0}
+span.x_xo2.hasSn span.x_xoh.sn+span.x_xo3.hasSn{display:block;margin-left:1em}
+span.x_xo3.hasSn span.x_xoh.sn+span.x_xo4{display:inline;margin-left:0}
+span.x_xo3.hasSn span.x_xoh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+span.x_xd0.cHasSn.gcHasSn{margin-left:2em}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn.cHasSn{margin-left:1.2em}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn{margin-left:0}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn.cHasSn>span.sn{margin-left:-2.2em;margin-right:2.3em}
+span.x_xd1 span.x_xdh span.sn{color:tomato;font-size:85%;margin-right:-2px}
+span.x_xd0.cHasSn.gcHasSn span.x_xd2.hasSn,span.x_xd0.cSn.gcSn span.x_xd2.hasSn{margin-left:0}
+span.x_xd0.cHasSn.gcHasSn span.x_xd2.hasSn span.sn,span.x_xd0.cSn.gcSn span.x_xd2.hasSn span.sn{margin-left:-.8em;margin-right:0}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.x_xd2.hasSn span.sn,span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.x_xd2.hasSn span.sn{margin-left:-1.2em;margin-right:.1em}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.sn+span.x_xd2.hasSn span.sn,span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.sn+span.x_xd2.hasSn span.sn{margin-left:-3.6em;margin-right:.2em}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2,span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2{display:inline;margin-left:0}
+span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn>span.x_xdh.sn+span.x_xd2.hasSn,span.x_xd0.cSn.gcSn span.x_xd1.hasSn>span.x_xdh.sn+span.x_xd2.hasSn{display:inline;margin-left:1.4em}
+span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2.hasSn{display:block;margin-left:1em}
+span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+span.x_xd1>span.sn+span.x_xd2.t_first{margin-left:1.2em}
+span.x_xd1>span.x_xdh>span.sn+span.x_xo0,span.x_xd2>span.x_xdh>span.sn+span.x_xo0{display:inline}
+span.x_xd2sub{display:block}
+span.x_xd2sub.hasSn{margin-left:1em}
+span.x_xd2sub.hasSn span.sn{margin-left:-.9em;margin-right:.1em}
+span.x_xd2.hasSn span.x_xdh.sn+span.x_xd2sub{display:inline;margin-left:.2em}
+span.x_xd3{display:block;margin-left:0;margin-bottom:.2em}
+span.x_xd3.hasSn{margin-left:.6em;margin-top:1px;margin-bottom:1px}
+span.x_xd3.hasSn span.sn{margin-left:-1em}
+span.x_xd4{display:block;margin-left:-.2em}
+span.x_xd4.hasSn{margin-left:1em}
+span.x_xd4.hasSn span.sn{margin-left:-1em}
+span.x_xd5{display:block;margin-left:0;margin-bottom:.2em}
+span.x_xd5.hasSn{margin-left:1em}
+span.x_xd5.hasSn span.sn{margin-left:-1em}
+span.x_xd6{display:block;margin-left:0;margin-bottom:.2em}
+span.x_xd6.hasSn{margin-left:1em}
+span.x_xd6.hasSn span.sn{margin-left:-1em}
+span.x_xo0{display:block;margin-top:.5em;margin-bottom:.5em;margin-left:0;border:1px dashed grey;border-radius:10px;padding:5px}
+html.apple_client-panel span.x_xo0{margin-top:.1em;margin-bottom:.2em}
+.entry>span.x_xo0{margin-top:1em;margin-bottom:1em}
+html.apple_client-panel .entry>span.x_xo0{margin-top:.3em;margin-bottom:.3em}
+span.x_xdt>span.x_xo0{margin-bottom:1em}
+span.x_xo0>span.x_xoLblBlk{font-variant:small-caps;font-size:90%;padding-bottom:.3em;margin-bottom:.5em;color:#fff;background-color:#74beff;display:table;padding:1px 4px;border-radius:4px}
+html.apple_client-panel span.x_xo0>span.x_xoLblBlk{margin-top:1em}
+div.xrgBlock.x_xoLblBlkTop,span.x_xo0.x_xoLblBlkTop{margin-top:3em;border-top:solid thin -apple-system-tertiary-label;margin-bottom:1em}
+html.apple_client-panel div.xrgBlock.x_xoLblBlkTop,html.apple_client-panel span.x_xo0.x_xoLblBlkTop{margin-top:1em}
+div.xrgBlock.x_xoLblBlkTop>span.label,span.x_xo0.x_xoLblBlkTop>span.label{display:block;margin-top:1em}
+html.apple_client-panel div.xrgBlock.x_xoLblBlkTop>span.label,html.apple_client-panel span.x_xo0.x_xoLblBlkTop>span.label{margin-top:.5em}
+div.xrgBlock span.xrgs{display:block;margin-left:2em}
+div.xrgBlock span.xrgs span.xrg{display:block}
+span.x_xo1{display:block;margin-top:.5em;margin-bottom:.5em;margin-left:0}
+html.apple_client-panel span.x_xo1{margin-top:.1em;margin-bottom:.1em}
+span.x_xd0>span.x_xo0{margin-left:-1em}
+span.x_xo0.note{margin-top:1.3em;margin-bottom:1.3em}
+span.x_xd0>span.x_xo1{margin-left:0}
+span.x_xd0>span.x_xo1.hasSn{padding-left:1em}
+span.x_xd0>span.x_xo1.hasSn span.sn{margin-left:-.9em}
+span.x_xd2.msDict>span.synGroup{display:block}
+span.x_xd1sub+span.x_xo0{margin-top:.8em}
+span.x_xo1{display:block;margin-left:0;margin-top:0;margin-bottom:0;color:#4682b4}
+html.apple_client-panel span.x_xo1{margin-bottom:.3em}
+span.x_xd1 span.x_xo1{margin-left:0}
+span.x_xo2{display:block;margin-left:1em;color:#4682b4}
+span.x_xo2.hasSn{margin-left:2em}
+span.x_xo2.hasSn>span.sn,span.x_xo2.hasSn>span.x_xdh>span.sn,span.x_xo2.hasSn>span.x_xoh>span.sn{margin-left:-1em;margin-right:.2em}
+span.x_xo2sub{display:block}
+span.x_xo2.hasSn span.x_xoh.sn+span.x_xo2sub{display:inline;margin-left:.1em}
+span.x_xo2sub.hasSn{margin-left:1em}
+span.x_xo2sub.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+span.x_xo2.hasSn span.x_xdh.sn+span.x_xo3,span.x_xo2.hasSn span.x_xdh.sn+span.x_xo3>span.x_xo4.trg:first-child{display:inline;margin-left:0}
+span.x_xo3{display:block;margin-bottom:0}
+span.x_xo3.hasSn{margin-left:1em}
+span.x_xo3.hasSn>span.sn,span.x_xo3.hasSn>span.x_xdh>span.sn,span.x_xo3.hasSn>span.x_xoh>span.sn{margin-left:-1em;margin-right:.2em;color:brown;font-size:80%}
+span.x_xo4{display:block;margin-top:0;margin-bottom:0}
+span.x_xo4.hasSn{margin-left:1em}
+span.x_xo4.hasSn span.sn{margin-left:-1em;margin-right:-2px;color:tomato;font-size:85%}
+span.x_xo5{display:block;margin-top:.1em;margin-bottom:.1em}
+span.x_xo5.hasSn{margin-left:1em}
+span.x_xo5.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+span.x_xo4.hasSn>span.x_xoh.sn+span.x_xo5{display:inline;margin-left:0}
+span.x_xo6{display:block;margin-top:.1em;margin-bottom:.1em}
+span.x_xo6.hasSn{margin-left:1em}
+span.x_xo6.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+span.x_xoh{font-size:95%;color:#862424}
+span.x_xd1>span.x_xdh>span.gp.tg_se1{display:none}
+span.construction{display:none}
+span.cdf{display:none}
+span.domClass{display:none}
+span.semClass{display:none}
+span.encClass{display:none}
+span.morphSet{display:none}
+span.meta{display:none}
+span.ehw,span.hg span.gp.t_hw,span.hg span.hw,span.hg span.vg,span.hwg span.hvg,span.hwg span.hw,span.vhw{font-size:130%;font-weight:400;line-height:150%;-webkit-hyphens:auto}
+span.hvg>span.hm{font-size:59%}
+html.apple_client-panel span.hvg>span.hm{font-size:80%}
+span.hg>span.hgSub1 span.vg{font-size:100%}
+span.hg span.vg.x_weak,span.hg span.vg.x_weak span.v{font-size:100%;color:-apple-system-secondary-label}
+span.gramb span.hvg span.hv{font-weight:600}
+span.x_xh0 span.vg{font-weight:200;color:-apple-system-secondary-label}
+span.x_xh0 span.vg span.v{font-weight:400;color:text}
+span.x_xh0 span.vg span.t_label{font-weight:400}
+span.hwg span.frmg span.frm{font-weight:400;font-size:170%}
+span.hwg span.hvg span.frmg span.frm{font-size:100%}
+span.frm_type{font-weight:400}
+span.hwg span.frmg span.gp.tg_frmg,span.hwg span.frmg span.gr{font-size:150%}
+span.hwg span.hvg span.frmg span.gp.tg_frmg,span.hwg span.hvg span.frmg span.gr{font-size:100%}
+span.hvg span.hv span.gp.tg_hv,span.hw span.gp.tg_hw,span.hwg span.frmg span.gp.tg_frmg,span.hwg span.infg span.gp.tg_inf,span.hwg span.infg span.gp.tg_infg{color:-apple-system-secondary-label}
+span.x_xd1>span.posg.x_xdh,span.x_xd1>span.x_xdh>span.posg:first-child{font-size:120%}
+html.apple_client-panel span.x_xd1>span.posg.x_xdh{font-size:110%}
+html.apple_client-panel span.ehw,html.apple_client-panel span.hg span.gp.t_hw,html.apple_client-panel span.hg span.hw,html.apple_client-panel span.hg span.vg,html.apple_client-panel span.hwg span.frmg span.frm,html.apple_client-panel span.hwg span.frmg span.gp.tg_frmg,html.apple_client-panel span.hwg span.frmg span.gr,html.apple_client-panel span.hwg span.hvg,html.apple_client-panel span.hwg span.hw,html.apple_client-panel span.vhw{font-size:120%;line-height:130%}
+span.hg span.fg{font-size:150%}
+html.apple_client-panel span.hg span.fg{font-size:100%}
+span.hg span.fg span.f{font-weight:400}
+span.hg span.fg span.sy{font-style:italic}
+span.fhw{font-weight:500;font-style:italic}
+span.hm{vertical-align:super}
+span.gp.ty_hom,span.xr span.hm{vertical-align:super;font-size:70%}
+span.hg>span.gp.ty_hom{font-size:120%;vertical-align:50%}
+html.apple_client-panel span.hg>span.gp.ty_hom{font-size:100%;vertical-align:super}
+span.hg>span.hgSub1{font-size:110%;margin-left:.1em}
+html.apple_client-panel span.hg>span.hgSub1{font-size:100%}
+span.hg>span.hgSub1 span.alt-hg span.hw{display:block;font-size:144%;margin-top:.3em}
+html.apple_client-panel span.hg>span.hgSub1 span.alt-hg span.hw{margin-top:.3em;font-size:111%}
+span.hg>span.hgSub1 span.posg,span.hwg>span.hgSub1 span.ps{font-size:110%}
+span.hg>span.hgSub1 span.pr,span.hg>span.hgSub1 span.prx{font-size:100%}
+span.hgSub1>span.etym,span.hgSub1>span.grnote{display:block}
+span.hgSub1>span.etym.x_nblk{display:inline}
+span.hg>span.hgSub2{display:block;font-size:100%}
+span.hg>span.hgSub2 span.fg,span.hg>span.hgSub2 span.infg,span.hg>span.hgSub2 span.vg{display:block;font-size:100%;margin-top:.3em}
+span.InfGrp,span.iGrp{font-weight:400}
+span.inf{font-weight:600}
+span.infg span.sy+span.inf{margin-left:.3em}
+span.hg span.hw+span.gp.ty_hom+span.infg,span.hg span.hw+span.infg{font-size:170%;font-weight:400}
+span.hvg span.infg{font-size:58.8%}
+span.hg span.hw+span.gp.ty_hom+span.infg span.inf,span.hg span.hw+span.infg span.inf{font-weight:400}
+html.apple_client-panel span.hg span.hw+span.gp.ty_hom+span.infg,html.apple_client-panel span.hg span.hw+span.infg{font-size:130%}
+html.apple_client-panel span.hvg span.infg{font-size:76.9%}
+span.fGrp,span.formGrp{font-weight:400}
+span.f,span.form{font-weight:600}
+span.x_xdh>span.sn+span.fg+span.posg{margin-left:.3em}
+span.hg span.posg,span.hwg span.posg{margin-right:.3em}
+span.gp.tg_pos{margin-right:.3em}
+span.gr.x_rr,span.hwg>span.hgSub1 span.ps.x_rr,span.lbl.x_rr,span.ph.x_rr,span.pos.x_rr,span.ps.x_rr,span.sn.x_rr{border:solid 1px -apple-system-secondary-label;margin-right:.18em;margin-top:.18em;margin-bottom:.18em;padding:1px 1px 1px 1px;font-size:70%;-webkit-border-radius:2px;vertical-align:5%}
+span.lbl.x_rr{margin-right:.4em;vertical-align:10%}
+span.note span.lbl.x_rr{vertical-align:5%}
+span.subEntry span.pos.x_rr{font-size:70%}
+span.ph.x_rr{padding:2px 3px 0 3px;margin-left:.2em;margin-right:.2em}
+span.gr.x_rr,span.ps.x_rr{margin-right:.3em}
+span.lbl.x_rrbd{border:solid -apple-system-secondary-label;border-width:2px;padding:2px 4px 1px 4px;-webkit-border-radius:3px;color:-apple-system-secondary-label;font-weight:600;font-size:70%;margin-right:.5em;vertical-align:20%}
+html.apple_client-panel span.lbl.x_rrbd{vertical-align:15%}
+span.msDict>span.posg:first-child,span.se2>span.posg:first-child,span.x_xdh>span.sn+span.posg{margin-right:.2em}
+span.x_xd0>span.ps.x_xdh.x_rr{display:inline}
+span.x_xd0>span.x_xdh.ps.x_rr{font-size:84%}
+span.pr,span.prx{font-weight:400;color:-apple-system-secondary-label}
+span.x_xd0 span.x_xdh span.gp.tg_pr,span.x_xd0 span.x_xdh span.gp.tg_prx,span.x_xh0 span.gp.tg_pr,span.x_xh0 span.gp.tg_prx{color:red;font-size:14px}
+span.hg span.pr,span.hg span.prx,span.hwg span.pr,span.hwg span.prx{display:inline-block;color:purple;font-size:90%;line-height:130%;margin-left:.4em;margin-right:.4em}
+span.prx+span.prx{margin-left:0}
+span.hg span.hw span.pr,span.hg span.v span.pr{font-size:80%;margin-left:0;margin-right:0}
+span.hg span.vg span.pr,span.hg span.vg span.prx,span.hwg span.hvg span.pr,span.hwg span.hvg span.prx{font-size:70%}
+html.apple_client-panel span.hg span.vg span.pr,html.apple_client-panel span.hwg span.hvg span.pr{font-size:100%}
+span.cnt{font-weight:200;color:-apple-system-secondary-label}
+span.cnt.x_rr{margin-left:.2em;margin-right:.2em;padding-left:.2em;padding-right:.2em;color:text;border:solid 1px -apple-system-secondary-label;-webkit-border-radius:2px;font-size:70%}
+span.sn{font-weight:600;color:-apple-system-secondary-label}
+span.sn.x_rrbg{Background:-apple-system-secondary-label;border:solid -apple-system-secondary-label;border-width:0;padding:3px 2px 1px 2px;-webkit-border-radius:2px;color:-apple-system-text-background;font-weight:600;font-size:70%;vertical-align:10%;margin-right:.5em}
+span.eg span.ex{font-weight:200;font-style:italic}
+span.ex span.bold{font-weight:600;font-style:italic}
+span.eg span.ex>span.italic{font-style:normal}
+span.eg span.ref{font-weight:200}
+span.eg span.general-text.t_eg_pr{font-weight:200;color:-apple-system-secondary-label}
+span.eg span.general-text.t_eg_pri{font-style:italic;font-weight:200;color:-apple-system-secondary-label}
+span.general-text.t_arrow,span.gp.t_arrow{font-size:90%;vertical-align:-2%;color:-apple-system-secondary-label}
+span.exg span.ex{font-style:normal;font-weight:500;color:-apple-system-secondary-label}
+span.exg span.ex span.bold{font-weight:400}
+span.exg span.ex span.ge,span.exg span.ex span.reg,span.exg span.ex span.sj,span.hwg span.reg,span.reg,span.semb span.ge,span.semb span.reg,span.semb span.sj{font-weight:400;font-size:90%;color:#20b2aa}
+span.hwg span.reg{font-size:170%}
+html.apple_client-panel span.hwg span.reg{font-size:120%}
+span.hwg span.hvg span.reg{font-size:100%}
+span.lbl{color:-apple-system-secondary-label}
+span.pronBlock span.lbl{font-weight:500;margin-right:.3em}
+span.lbl.x_sqb{background:-apple-system-secondary-label;border:solid -apple-system-secondary-label;border-width:0;padding:2px 4px 2px 4px;font-size:80%;color:-apple-system-text-background;font-weight:600;margin-right:1em;vertical-align:5%}
+span.cntxt,span.note{display:block;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px;margin-top:.1em}
+span.cntxt span.lbl,span.note span.lbl{color:-apple-system-secondary-label}
+span.note.x_nb{display:inline;background-color:transparent;padding:0;margin-top:0;margin-right:0}
+span.l,span.subEntry span.l~span.vg span.v{font-weight:600;font-size:90%;color:#369;margin-left:1.1em}
+span.drv{font-weight:600}
+span.drvg span.drv{margin-right:.5em}
+span.subEntry span.pos{font-size:90%}
+span.subEntry>span.l+span.pr,span.subEntry>span.pr+span.posg{margin-left:.6em}
+span.etym>span.lbl{color:-apple-system-secondary-label}
+span.etym span.dgg{display:block;margin-top:.2em;margin-right:1em}
+span.gg,span.lg{font-size:80%;color:#46b2a9}
+span.Name{font-style:italic}
+span.altName{font-weight:600}
+span.cite[highlight=true]{font-style:italic}
+span.cite[highlight=false]{font-weight:400}
+span.co{font-style:italic}
+span.co.x_ni{font-style:normal}
+span.com{font-weight:400}
+span.con{font-style:normal;font-weight:600;color:-apple-system-secondary-label}
+span.date{font-weight:400}
+span.date+span.italic{font-style:italic}
+span.lang{font-weight:400}
+span.ex>span.lbl{font-weight:400}
+span.ff{font-style:italic;font-weight:600}
+span.rel{font-weight:600}
+span.sp{font-weight:600}
+span.sp span.gp{font-weight:400}
+span.trans{font-weight:300;font-size:90%;color:grey}
+span.trg span.trans{font-weight:400}
+span.trg.x_xd2>span.trans,span.trgg.x_xd2>span.trg>span.trans{font-weight:500}
+span.trg.x_xd2>span.trans span.tgr,span.trgg.x_xd2>span.trg>span.trans span.tgr{font-weight:400}
+span.x_xdh.sn:first-child+span.exg.x_xd2>span.trg.x_xd3>span.trans{font-weight:500}
+span.x_xdh.sn:first-child+span.exg.x_xd2>span.trg.x_xd3>span.trans span.tgr{font-weight:400}
+span.semb.x_xd2>span.trg.x_xd3>span.trans{font-weight:500}
+span.efg span.ef{font-weight:400}
+span.finf{font-style:italic}
+span.fl{font-weight:600}
+span.lp[highlight=true]{font-weight:600}
+span.lp[highlight=false]{font-style:normal}
+span.hwtrans{font-weight:400}
+span.oup_label{font-style:italic;color:-apple-system-secondary-label}
+span.oup_label.x_ni{font-style:normal}
+span.xr{font-weight:500}
+span.xr span.gp{font-variant:normal}
+span.hg span.hw span.sy_underline,span.hg span.vg span.v span.sy_underline,span.pr span.ph span.str,span.sy_underline{text-decoration:underline}
+span.xu{font-weight:600}
+span.bold{font-weight:600}
+span.italic{font-style:italic}
+span.underline{text-decoration:underline}
+span.r{font-weight:400;font-style:normal}
+span.sup{vertical-align:super;font-size:70%}
+span.sub,span.subEnt{vertical-align:sub;font-size:70%}
+span.sc{font-variant:small-caps}
+span.bi{font-weight:500;font-style:italic}
+span.in{vertical-align:sub;font-size:70%}
+span.ini{vertical-align:sub;font-size:70%;font-style:italic}
+span.su{vertical-align:super;font-size:70%}
+span.sub{vertical-align:sub;font-size:70%}
+span.sui{vertical-align:super;font-size:70%;font-style:italic}
+span.sup{vertical-align:super;font-size:70%}
+span.subEnt{vertical-align:sub;font-size:70%}
+span.nu{vertical-align:super;font-size:70%}
+span.dn{vertical-align:sub;font-size:70%}
+span.usageLbl{font-weight:400;font-size:90%;color:-apple-system-secondary-label}
+span.hw span.usageLbl{font-size:80%}
+span.general-text.t_label,span.general-text.t_label_block{font-variant:small-caps;margin-right:.3em;color:-apple-system-secondary-label}
+span.general-text.t_label_block{display:block}
+span.dgg span.gp.t_label,span.etym span.gp.t_label,span.gp.t_label.tg_REMISIO,span.gp.t_label.tg_antList,span.gp.t_label.tg_etym,span.gp.t_label.tg_see,span.gp.t_label.tg_synList{margin-right:.3em;color:-apple-system-secondary-label}
+span.ehw span.general-text.en_er,span.hw span.general-text.en_er,span.sg span.general-text.en_er,span.vhw span.general-text.en_er{font-size:80%}
+span.frmg span.frm{font-weight:600}
+span.frmg span.frm.x_nb{font-weight:400}
+span.idmsec span.idm{font-weight:600}
+span.pvb span.pvsec span.pvg span.pv,span.pvb span.pvsec span.pvg span.pvv{font-weight:600}
+span.pvsec span.gramb span.pgr,span.pvsec span.gramb span.semb span.pgr{font-weight:600;color:-apple-system-secondary-label}
+span.cb span.csec span.cwg span.cvg span.cv,span.cb span.csec span.cwg span.cw,span.csec span.cwg span.cw{font-weight:600}
+span.gr,span.ind{color:grey;font-size:85%}
+span.fld,span.lev{font-size:90%;color:-apple-system-secondary-label}
+span.trans.ty_pinyin,span.trg.x_xd2>span.trans span.trans.ty_pinyin,span.trg.x_xd2>span.trans.ty_pinyin,span.trgg.x_xd2>span.trg>span.trans span.trans.ty_pinyin,span.trgg.x_xd2>span.trg>span.trans.ty_pinyin{font-weight:400;margin-left:.2em;margin-right:.2em;color:-apple-system-secondary-label}
+span.box{display:block;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px;margin-top:.1em}
+html.apple_client-panel span.box{margin-left:0;margin-right:0}
+span.synGroup>span.syn.t_core{font-variant:small-caps;font-size:120%;vertical-align:-1%}
+span.synGroup>span.syn.t_core>span.gp{font-variant:normal;font-size:90%}
+span.antList>span.gp.ty_label.tg_antList{font-variant:small-caps;color:-apple-system-secondary-label;font-size:80%}
+span.feature{display:block;margin-top:2.5em;margin-right:1em}
+html.apple_client-panel span.feature{margin-top:1em}
+span.feature-title{display:block;color:-apple-system-secondary-label;font-weight:500;font-size:90%;line-height:23px;padding-top:1px;padding-left:9px;padding-right:9px;margin-top:2em;border-style:solid;border-width:1px 1px 1px 1px;border-color:-apple-system-tertiary-label;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-webkit-border-bottom-left-radius:0;-webkit-border-bottom-right-radius:0}
+html.apple_client-panel span.feature-title{margin-top:1em}
+span.feature-body{display:block;color:-apple-system-label;padding-left:10px;padding-right:10px;padding-top:5px;padding-bottom:9px;border-style:solid;border-width:0 1px 1px 1px;border-color:-apple-system-tertiary-label;-webkit-border-top-left-radius:0;-webkit-border-top-right-radius:0;-webkit-border-bottom-left-radius:4px;-webkit-border-bottom-right-radius:4px}
+span.feature-body table{table-layout:fixed;width:100%;margin:0;border:none}
+span.feature-caption{display:block;color:-apple-system-secondary-label;font-weight:400;font-size:90%;padding-left:3px;padding-right:3px;padding-top:3px;padding-bottom:9px}
+span.feature span.list{display:block}
+span.feature span.list+span.list{margin-top:.25em}
+span.feature.t_wordLinks span.list span.item.t_related{font-weight:600;font-variant:small-caps}
+span.feature.t_wordLinks span.list span.item.t_related+span.item.t_description{margin-left:.5em}
+span.list span.item,span.np,span.para{display:block;margin-top:.25em}
+span.feature.t_rightWord span.heading,span.feature.t_usage span.heading,span.feature.t_wordNote span.heading{font-weight:500}
+span.feature.t_wordNote span.heading{display:block}
+span.ll{font-weight:500}
+span.ll span.gp{font-weight:400}
+span.feature.t_toolkit>span.feature-body>table tbody tr td.lemma{font-weight:600;font-size:110%}
+span.feature.t_quotes span.para span.eg span.ref{display:block}
+span.feature.t_encyclopaedic{display:block;margin-right:1em;margin-top:1em;margin-bottom:2em;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px}
+span.eg.x_blk,span.lbl.x_blk,span.xrg.x_blk{display:block}
+span.eg span.ex.x_ni{font-style:normal;font-weight:200}
+span.eg span.ex.x_ni span.bold{font-style:normal;font-weight:600}
+span.ff.x_ni,span.gg.x_ni,span.lg.x_ni{font-style:normal;font-size:90%;margin-left:0;margin-right:-5px;color:#20b2aa}
+img.gi{width:1em;height:1em}
+img.image.th{display:block;width:96%;margin-top:1em}
+html.apple_client-panel .entry>span.x_xh0:first-child,html.apple_client-panel span.x_xd0:not(.hasSn):first-child,html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xdh,html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn),html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xdh{display:inline}
+html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd0,html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd1,html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd0,html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd1{margin-left:1em}
+html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd0.hasSn,html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd1.hasSn,html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd0.hasSn,html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd1.hasSn{margin-left:2em}
+html.apple_client-panel span.hg>span.hgSub1,html.apple_client-panel span.hwg>span.hgSub1{display:inline;margin-left:1em}
+body{font-family:-apple-system,'PingFang TC'}
+span.sn{font-family:'PingFang TC',-apple-system}
+span.infg span.sy+span.inf{margin-left:0;color:#00008b}
+.entry[id^=z_] span.hg span.hw{font-size:210%;line-height:150%;font-family:STKaitiTC-Bold,'PingFang TC'}
+html.apple_client-panel .entry[id^=z_] span.hg span.hw{font-size:120%;line-height:130%}
+span.hg span.hw ruby{-webkit-ruby-position:inter-character}
+span.hg span.hw ruby+ruby{margin-left:-.5em}
+html.apple_client-panel span.hg span.hw ruby+ruby{margin-left:0}
+span.hg span.hw>ruby>rt{text-align:center;padding-left:.1em;padding-top:.35em;font-size:35%;line-height:100%;letter-spacing:-1px}
+span.hw>ruby>rt>a>span.tone{display:block;float:right;width:0;margin-left:.7em;text-indent:-.9em}
+span.hw>ruby>rt>a>span.tone.t1{margin-left:0;text-indent:-1.5em}
+span.hw>ruby>rt>a>span.tone.t1.c2{text-indent:-3.5em}
+span.hw>ruby>rt>a>span.tone.t1.c3{text-indent:-5em}
+span.hw>ruby>rt>a>span.tone.t2{margin-left:.6em;text-indent:-.9em}
+span.hw>ruby>rt>a>span.tone.t3{margin-left:.6em;text-indent:-.9em}
+span.hw>ruby>rt>a>span.tone.t4{margin-left:.6em;text-indent:-.9em}
+span.hw a[type=bopomofo]{color:text;text-decoration:none}
+span.hg span.pr span.ph.t_bopomofo{font-size:80%;vertical-align:13%;font-family:STKaitiTC-Black;word-spacing:.2em}
+html.apple_client-panel span.hg span.pr span.ph.t_bopomofo{font-size:70%;vertical-align:3%}
+html.apple_client-panel span.hg span.hw+span.pr,html.apple_client-panel span.hg span.hw+span.xrg+span.pr{margin-left:.5em}
+span.hg span.pr span.ph.t_bopomofo{display:none}
+html.apple_client-panel span.hg span.hw ruby rt{display:none}
+html.apple_client-panel span.hg span.pr span.ph.t_bopomofo{display:inherit;margin-right:.5em}
+span.x_xd0 span.x_xdh span.gp.tg_pr,span.x_xh0 span.gp.tg_pr{color:red;font-size:14px}
+span.sy{font-weight:300;color:grey}
+span.inf{font-weight:400}
+span.eg span.ex{font-style:normal;font-weight:500;font-size:90%;color:#4682b4}
+.entry[id^=z_] span.eg span.ex{font-weight:400}
+.entry[id^=z_] span.eg span.ex{font-family:'PingFang TC',-apple-system}
+.entry[id^=e_] span.ex span.rf{font-style:italic}
+span.trg{color:grey;font-weight:300}
+.entry[id^=e_] span.trans{font-family:'PingFang TC',-apple-system}
+span.x_xd0>span.x_xdh>span.infg{font-size:85%;color:grey}
+html.apple_client-panel span.x_xd0>span.x_xdh>span.infg{display:none}
+span.x_xd2>span.x_xdh.trg>span.trans,span.x_xd2>span.x_xdh>span.trg>span.trans,span.x_xd2>span.x_xdt.trg>span.trans,span.x_xd2>span.x_xdt>span.trg>span.trans{font-weight:400;font-size:95%;color:#862424}
+span.x_xd3{margin-top:.3em;margin-bottom:.3em}

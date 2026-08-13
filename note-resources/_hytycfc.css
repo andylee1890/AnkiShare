@@ -1,0 +1,45 @@
+﻿.hw{color:#069460;font-weight:700;background-color:#e8ebbe}
+.hw:before{content:"『";color:#8b0000;vertical-align:top;font-size:70%}
+.hw:after{content:"』";color:#8b0000;vertical-align:bottom;font-size:70%}
+.cx{color:#8a2be2;font-weight:800;display:block}
+.en{width:120px;display:table-cell}
+.en a{text-decoration:none}
+.cn{display:table-cell}
+lal,lar{display:none}
+lbl,lbr{display:none}
+lcl,lcr{display:none}
+.lya{font-size:89%;background:#bacad3;color:#c01a32;font-weight:700;border-radius:3px}
+.lyb{font-size:89%;border:1px solid #0053a0;border-radius:3px;color:#c00007;font-weight:700}
+.lyc{font-size:89%;border:1px solid #0053a0;border-radius:3px;color:#c00007;font-weight:700}
+.sma{color:green;font-weight:400;margin-right:4pt}
+.smb{color:#00a3af;font-weight:400}
+.smc{color:#00a3af;font-weight:400}
+.smd{color:green;font-weight:400;margin-right:4pt}
+a{color:inherit}
+ct{display:table}
+dct{display:table}
+.cx{counter-reset:counter}
+ct::before{counter-increment:counter;content:counter(counter);color:#00008b;font-weight:700;width:30px;display:table-cell}
+dct::before{content:" ";width:30px;display:table-cell}
+.cn{counter-reset:abc_counter}
+span.abc::before{counter-increment:abc_counter;content:" "counter(abc_counter, lower-alpha) ". ";color:#00008b}
+.zm{color:#00f;display:inline-block}
+.zm:before{content:"『";color:#8b0000;vertical-align:top;font-size:60%}
+.zm:after{content:"』";color:#8b0000;vertical-align:bottom;font-size:60%}
+.hl{color:#ff1493}
+.hl:after{content:","}
+.hl:last-child:after{content:""}
+.tyc:after{content:","}
+.tyc:last-child:after{content:""}
+.hla{color:#dd4b39}
+.hlb{border-bottom:1px solid Gray}
+.lcn{margin-right:8pt}
+.len{margin-left:8pt}
+lct{display:table;border-spacing:0 4px}
+ldct{display:table;border-spacing:0 4px}
+lct::before{counter-increment:counter;content:counter(counter);color:#00008b;font-weight:700;width:30px;display:table-cell}
+ldct::before{content:" ";width:30px;display:table-cell}
+.lhw{color:#069460;background-color:#e8ebbe}
+.lhw:after{content:" - 例句：";color:#069460;background-color:#e8ebbe}
+.lcx{color:#8a2be2;font-weight:800;display:block}
+.lhw{counter-reset:counter}

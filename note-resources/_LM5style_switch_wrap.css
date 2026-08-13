@@ -1,0 +1,4 @@
+._LM5style_switch .pagetitle{background-repeat:repeat-y}
+._LM5style_switch .EXAMPLE .cn_txt,._LM5style_switch .Error .cn_txt,._LM5style_switch .cn_txt{display:none}
+._LM5style_switch .lm5ppMenu_title .cn_title{-webkit-transform:translateY(100%);transform:translateY(100%);opacity:0}
+._LM5style_switch .lm5ppMenu_title .en_title{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}

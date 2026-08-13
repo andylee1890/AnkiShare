@@ -1,0 +1,95 @@
+{
+  "model_name": "单词基本模板",
+  "fields": [
+    {
+      "name": "单词",
+      "description": ""
+    },
+    {
+      "name": "Lesson",
+      "description": ""
+    },
+    {
+      "name": "flags",
+      "description": ""
+    },
+    {
+      "name": "音标",
+      "description": ""
+    },
+    {
+      "name": "美式发音",
+      "description": ""
+    },
+    {
+      "name": "dreyefull",
+      "description": ""
+    },
+    {
+      "name": "词根词缀",
+      "description": ""
+    },
+    {
+      "name": "词根词缀2",
+      "description": ""
+    },
+    {
+      "name": "新概念例句",
+      "description": ""
+    },
+    {
+      "name": "examples",
+      "description": ""
+    },
+    {
+      "name": "拓展",
+      "description": ""
+    },
+    {
+      "name": "释义比例",
+      "description": ""
+    },
+    {
+      "name": "简明",
+      "description": ""
+    },
+    {
+      "name": "图片",
+      "description": ""
+    },
+    {
+      "name": "牛津双解",
+      "description": ""
+    },
+    {
+      "name": "朗文6",
+      "description": ""
+    },
+    {
+      "name": "写作词频",
+      "description": ""
+    },
+    {
+      "name": "synonyms",
+      "description": ""
+    },
+    {
+      "name": "etymonline",
+      "description": ""
+    }
+  ],
+  "cards": [
+    {
+      "name": "RECITE",
+      "path": "cards\\01-RECITE"
+    },
+    {
+      "name": "SPELLING",
+      "path": "cards\\02-SPELLING"
+    },
+    {
+      "name": "DICTATION",
+      "path": "cards\\03-DICTATION"
+    }
+  ]
+}

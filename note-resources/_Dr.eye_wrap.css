@@ -1,0 +1,398 @@
+﻿@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+._Dr.eye body{font-size:12pt;font:-apple-system-body;font-family:-apple-system;color:#000}
+._Dr.eye html.apple_client-panel body{margin-top:0}
+._Dr.eye a:hover{color:-webkit-link;text-decoration:underline}
+._Dr.eye html.apple_client-panel a,._Dr.eye html.apple_client-panel a:hover{color:text;text-decoration:none}
+._Dr.eye table{table-layout:fixed;width:90%;margin-top:1em;margin-left:14px;border-style:solid;border-width:1px;font-weight:400}
+._Dr.eye caption{font-size:80%;margin-bottom:.5em;text-align:left;text-transform:uppercase}
+._Dr.eye tr{width:30%;-webkit-hyphens:auto}
+._Dr.eye .image,._Dr.eye span[class=image]{display:block;margin-top:.4em;margin-left:1em}
+._Dr.eye img[class=map]{width:100%;margin-top:1em}
+._Dr.eye div[class=lineart]{float:right;padding:1em 0 .5em 1.5em;background-color:transparent}
+._Dr.eye div[class=lineart]{max-width:33%}
+._Dr.eye div[class=lineart][layout=Third]{max-width:33%}
+._Dr.eye div[class=lineart][layout=Half]{max-width:33%}
+._Dr.eye div[class=lineart][layout=Two-thirds]{max-width:33%}
+._Dr.eye div[class=lineart][layout=One]{max-width:33%}
+._Dr.eye div[class=lineart][layout=Two]{max-width:33%}
+._Dr.eye div[class=lineart][layout=THree]{max-width:33%}
+._Dr.eye div[class=lineart][layout='Full Page']{max-width:33%}
+._Dr.eye div[class=lineart][layout='Two Pages']{max-width:33%}
+._Dr.eye div[class=lineart] img{width:100%}
+._Dr.eye div[class=lineart] div{display:block;text-align:center;font-weight:600;font-size:80%}
+._Dr.eye html.apple_client-panel div.lineart{display:none}
+._Dr.eye html.apple_client-panel img{display:none}
+._Dr.eye html.apple_client-panel img.gi,._Dr.eye img.gi{display:inline}
+._Dr.eye span.hsb:before{content:'\2022';font-size:80%;vertical-align:3%}
+._Dr.eye span.wbb:before{content:'\a0\7c\a0';font-size:70%;vertical-align:5%;color:-apple-system-secondary-label;margin-left:-.15em;margin-right:-.15em}
+._Dr.eye span.ph.t_stress span.str.t_l{text-decoration:underline}
+._Dr.eye span.ph.t_stress span.str.t_s{text-decoration:none}
+._Dr.eye .entry{display:block;font-size:84%;margin-bottom:1em;line-height:130%}
+._Dr.eye .entry+.entry{margin-top:4em}
+._Dr.eye .entry>span.x_xh0{display:block;margin-bottom:.6em}
+._Dr.eye html.apple_client-panel .entry>span.x_xh0{margin-bottom:.1em}
+._Dr.eye span.x_xh1{display:block;margin-top:.6em;margin-bottom:.4em}
+._Dr.eye html.apple_client-panel span.x_xh1{margin-top:.1em}
+._Dr.eye span.x_xh1+span.x_xh1{margin-top:.4em;margin-left:1em}
+._Dr.eye html.apple_client-panel span.x_xh1+span.x_xh1{margin-top:.1em}
+._Dr.eye .entry>span.x_xh0+span.sg,._Dr.eye .entry>span.x_xh0+span.x_xd0{margin-top:.6em}
+._Dr.eye html.apple_client-panel .entry>span.x_xh0+span.x_xd0,._Dr.eye html.apple_client-panel span.x_xd0{margin-top:.1em}
+._Dr.eye span.x_xd0{display:block;margin-top:.3em;margin-bottom:.5em}
+._Dr.eye html.apple_client-panel span.x_xd0{margin-top:.1em;margin-bottom:.4em}
+._Dr.eye span.x_xd0{margin-left:0}
+._Dr.eye span.x_xd0>span.x_xdh{font-size:95%;font-weight:700;color:#ff4500;padding-bottom:1px;border-bottom:1.2px solid grey;display:block}
+._Dr.eye html.apple_client-panel span.x_xd0>span.x_xdh{font-size:100%;line-height:100%;margin-bottom:.1em}
+._Dr.eye span.x_xd0.hasSn>span.x_xdh>span.sn{margin-right:.2em}
+._Dr.eye span.x_xd1{display:block;margin-top:.3em;margin-bottom:.7em;margin-left:0}
+._Dr.eye html.apple_client-panel span.x_xd1{margin-top:.1em;margin-bottom:.3em}
+._Dr.eye span.x_xd1.hasSn{margin-left:1em;text-indent:0;margin-bottom:0}
+._Dr.eye span.x_xd1>span.sn,._Dr.eye span.x_xd1>span.x_xdh>span.sn{margin-left:-1em;margin-right:0}
+._Dr.eye span.x_xd1>span.x_xdh{margin-bottom:.5em}
+._Dr.eye span.x_xd1>span.x_xdh.sn,._Dr.eye span.x_xd1>span.x_xdh>span.sn{display:inline;margin-right:.1em;font-size:85%;color:grey;font-weight:400}
+._Dr.eye span.x_xd1sub{display:block}
+._Dr.eye span.x_xd1.hasSn span.x_xdh.sn+span.x_xd1sub{display:inline;margin-left:0}
+._Dr.eye span.x_xd1sub.hasSn{margin-left:1em}
+._Dr.eye span.x_xd1sub.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+._Dr.eye span.x_xd2{display:block;margin-left:0;margin-top:.3em;margin-bottom:.3em}
+._Dr.eye html.apple_client-panel span.x_xd2{margin-top:.1em;margin-bottom:.3em}
+._Dr.eye span.x_xd2.hasSn{margin-left:1em}
+._Dr.eye span.x_xd2.hasSn span.sn{margin-left:-1em;margin-right:.2em}
+._Dr.eye span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2{display:inline;margin-left:0}
+._Dr.eye span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd2.hasSn span.x_xdh.sn+span.x_xd3{display:inline;margin-left:0}
+._Dr.eye span.x_xd2.hasSn span.x_xdh.sn+span.x_xd3.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd3.hasSn span.x_xdh.sn+span.x_xd4{display:inline;margin-left:0}
+._Dr.eye span.x_xd3.hasSn span.x_xdh.sn+span.x_xd4.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd4.hasSn span.x_xdh.sn+span.x_xd5{display:inline;margin-left:0}
+._Dr.eye span.x_xd4.hasSn span.x_xdh.sn+span.x_xd5.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd5.hasSn span.x_xdh.sn+span.x_xd6{display:inline;margin-left:0}
+._Dr.eye span.x_xd5.hasSn span.x_xdh.sn+span.x_xd6.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4{display:inline;margin-left:0}
+._Dr.eye span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xo2.hasSn span.x_xoh.sn+span.x_xo3{display:inline;margin-left:0}
+._Dr.eye span.x_xo2.hasSn span.x_xoh.sn+span.x_xo3.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xo3.hasSn span.x_xoh.sn+span.x_xo4{display:inline;margin-left:0}
+._Dr.eye span.x_xo3.hasSn span.x_xoh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn{margin-left:2em}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn.cHasSn{margin-left:1.2em}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn{margin-left:0}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn.cHasSn>span.sn{margin-left:-2.2em;margin-right:2.3em}
+._Dr.eye span.x_xd1 span.x_xdh span.sn{color:tomato;font-size:85%;margin-right:-2px}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd2.hasSn,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd2.hasSn{margin-left:0}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd2.hasSn span.sn,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd2.hasSn span.sn{margin-left:-.8em;margin-right:0}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.x_xd2.hasSn span.sn,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.x_xd2.hasSn span.sn{margin-left:-1.2em;margin-right:.1em}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.sn+span.x_xd2.hasSn span.sn,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.sn+span.x_xd2.hasSn span.sn{margin-left:-3.6em;margin-right:.2em}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2{display:inline;margin-left:0}
+._Dr.eye span.x_xd0.cHasSn.gcHasSn span.x_xd1.hasSn>span.x_xdh.sn+span.x_xd2.hasSn,._Dr.eye span.x_xd0.cSn.gcSn span.x_xd1.hasSn>span.x_xdh.sn+span.x_xd2.hasSn{display:inline;margin-left:1.4em}
+._Dr.eye span.x_xd1.hasSn span.x_xdh.sn+span.x_xd2.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xo3.hasSn span.x_xdh.sn+span.x_xo4.hasSn{display:block;margin-left:1em}
+._Dr.eye span.x_xd1>span.sn+span.x_xd2.t_first{margin-left:1.2em}
+._Dr.eye span.x_xd1>span.x_xdh>span.sn+span.x_xo0,._Dr.eye span.x_xd2>span.x_xdh>span.sn+span.x_xo0{display:inline}
+._Dr.eye span.x_xd2sub{display:block}
+._Dr.eye span.x_xd2sub.hasSn{margin-left:1em}
+._Dr.eye span.x_xd2sub.hasSn span.sn{margin-left:-.9em;margin-right:.1em}
+._Dr.eye span.x_xd2.hasSn span.x_xdh.sn+span.x_xd2sub{display:inline;margin-left:.2em}
+._Dr.eye span.x_xd3{display:block;margin-left:0;margin-bottom:.2em}
+._Dr.eye span.x_xd3.hasSn{margin-left:.6em;margin-top:1px;margin-bottom:1px}
+._Dr.eye span.x_xd3.hasSn span.sn{margin-left:-1em}
+._Dr.eye span.x_xd4{display:block;margin-left:-.2em}
+._Dr.eye span.x_xd4.hasSn{margin-left:1em}
+._Dr.eye span.x_xd4.hasSn span.sn{margin-left:-1em}
+._Dr.eye span.x_xd5{display:block;margin-left:0;margin-bottom:.2em}
+._Dr.eye span.x_xd5.hasSn{margin-left:1em}
+._Dr.eye span.x_xd5.hasSn span.sn{margin-left:-1em}
+._Dr.eye span.x_xd6{display:block;margin-left:0;margin-bottom:.2em}
+._Dr.eye span.x_xd6.hasSn{margin-left:1em}
+._Dr.eye span.x_xd6.hasSn span.sn{margin-left:-1em}
+._Dr.eye span.x_xo0{display:block;margin-top:.5em;margin-bottom:.5em;margin-left:0;border:1px dashed grey;border-radius:10px;padding:5px}
+._Dr.eye html.apple_client-panel span.x_xo0{margin-top:.1em;margin-bottom:.2em}
+._Dr.eye .entry>span.x_xo0{margin-top:1em;margin-bottom:1em}
+._Dr.eye html.apple_client-panel .entry>span.x_xo0{margin-top:.3em;margin-bottom:.3em}
+._Dr.eye span.x_xdt>span.x_xo0{margin-bottom:1em}
+._Dr.eye span.x_xo0>span.x_xoLblBlk{font-variant:small-caps;font-size:90%;padding-bottom:.3em;margin-bottom:.5em;color:#fff;background-color:#74beff;display:table;padding:1px 4px;border-radius:4px}
+._Dr.eye html.apple_client-panel span.x_xo0>span.x_xoLblBlk{margin-top:1em}
+._Dr.eye div.xrgBlock.x_xoLblBlkTop,._Dr.eye span.x_xo0.x_xoLblBlkTop{margin-top:3em;border-top:solid thin -apple-system-tertiary-label;margin-bottom:1em}
+._Dr.eye html.apple_client-panel div.xrgBlock.x_xoLblBlkTop,._Dr.eye html.apple_client-panel span.x_xo0.x_xoLblBlkTop{margin-top:1em}
+._Dr.eye div.xrgBlock.x_xoLblBlkTop>span.label,._Dr.eye span.x_xo0.x_xoLblBlkTop>span.label{display:block;margin-top:1em}
+._Dr.eye html.apple_client-panel div.xrgBlock.x_xoLblBlkTop>span.label,._Dr.eye html.apple_client-panel span.x_xo0.x_xoLblBlkTop>span.label{margin-top:.5em}
+._Dr.eye div.xrgBlock span.xrgs{display:block;margin-left:2em}
+._Dr.eye div.xrgBlock span.xrgs span.xrg{display:block}
+._Dr.eye span.x_xo1{display:block;margin-top:.5em;margin-bottom:.5em;margin-left:0}
+._Dr.eye html.apple_client-panel span.x_xo1{margin-top:.1em;margin-bottom:.1em}
+._Dr.eye span.x_xd0>span.x_xo0{margin-left:-1em}
+._Dr.eye span.x_xo0.note{margin-top:1.3em;margin-bottom:1.3em}
+._Dr.eye span.x_xd0>span.x_xo1{margin-left:0}
+._Dr.eye span.x_xd0>span.x_xo1.hasSn{padding-left:1em}
+._Dr.eye span.x_xd0>span.x_xo1.hasSn span.sn{margin-left:-.9em}
+._Dr.eye span.x_xd2.msDict>span.synGroup{display:block}
+._Dr.eye span.x_xd1sub+span.x_xo0{margin-top:.8em}
+._Dr.eye span.x_xo1{display:block;margin-left:0;margin-top:0;margin-bottom:0;color:#4682b4}
+._Dr.eye html.apple_client-panel span.x_xo1{margin-bottom:.3em}
+._Dr.eye span.x_xd1 span.x_xo1{margin-left:0}
+._Dr.eye span.x_xo2{display:block;margin-left:1em;color:#4682b4}
+._Dr.eye span.x_xo2.hasSn{margin-left:2em}
+._Dr.eye span.x_xo2.hasSn>span.sn,._Dr.eye span.x_xo2.hasSn>span.x_xdh>span.sn,._Dr.eye span.x_xo2.hasSn>span.x_xoh>span.sn{margin-left:-1em;margin-right:.2em}
+._Dr.eye span.x_xo2sub{display:block}
+._Dr.eye span.x_xo2.hasSn span.x_xoh.sn+span.x_xo2sub{display:inline;margin-left:.1em}
+._Dr.eye span.x_xo2sub.hasSn{margin-left:1em}
+._Dr.eye span.x_xo2sub.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+._Dr.eye span.x_xo2.hasSn span.x_xdh.sn+span.x_xo3,._Dr.eye span.x_xo2.hasSn span.x_xdh.sn+span.x_xo3>span.x_xo4.trg:first-child{display:inline;margin-left:0}
+._Dr.eye span.x_xo3{display:block;margin-bottom:0}
+._Dr.eye span.x_xo3.hasSn{margin-left:1em}
+._Dr.eye span.x_xo3.hasSn>span.sn,._Dr.eye span.x_xo3.hasSn>span.x_xdh>span.sn,._Dr.eye span.x_xo3.hasSn>span.x_xoh>span.sn{margin-left:-1em;margin-right:.2em;color:brown;font-size:80%}
+._Dr.eye span.x_xo4{display:block;margin-top:0;margin-bottom:0}
+._Dr.eye span.x_xo4.hasSn{margin-left:1em}
+._Dr.eye span.x_xo4.hasSn span.sn{margin-left:-1em;margin-right:-2px;color:tomato;font-size:85%}
+._Dr.eye span.x_xo5{display:block;margin-top:.1em;margin-bottom:.1em}
+._Dr.eye span.x_xo5.hasSn{margin-left:1em}
+._Dr.eye span.x_xo5.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+._Dr.eye span.x_xo4.hasSn>span.x_xoh.sn+span.x_xo5{display:inline;margin-left:0}
+._Dr.eye span.x_xo6{display:block;margin-top:.1em;margin-bottom:.1em}
+._Dr.eye span.x_xo6.hasSn{margin-left:1em}
+._Dr.eye span.x_xo6.hasSn span.sn{margin-left:-1em;margin-right:.1em}
+._Dr.eye span.x_xoh{font-size:95%;color:#862424}
+._Dr.eye span.x_xd1>span.x_xdh>span.gp.tg_se1{display:none}
+._Dr.eye span.construction{display:none}
+._Dr.eye span.cdf{display:none}
+._Dr.eye span.domClass{display:none}
+._Dr.eye span.semClass{display:none}
+._Dr.eye span.encClass{display:none}
+._Dr.eye span.morphSet{display:none}
+._Dr.eye span.meta{display:none}
+._Dr.eye span.ehw,._Dr.eye span.hg span.gp.t_hw,._Dr.eye span.hg span.hw,._Dr.eye span.hg span.vg,._Dr.eye span.hwg span.hvg,._Dr.eye span.hwg span.hw,._Dr.eye span.vhw{font-size:130%;font-weight:400;line-height:150%;-webkit-hyphens:auto}
+._Dr.eye span.hvg>span.hm{font-size:59%}
+._Dr.eye html.apple_client-panel span.hvg>span.hm{font-size:80%}
+._Dr.eye span.hg>span.hgSub1 span.vg{font-size:100%}
+._Dr.eye span.hg span.vg.x_weak,._Dr.eye span.hg span.vg.x_weak span.v{font-size:100%;color:-apple-system-secondary-label}
+._Dr.eye span.gramb span.hvg span.hv{font-weight:600}
+._Dr.eye span.x_xh0 span.vg{font-weight:200;color:-apple-system-secondary-label}
+._Dr.eye span.x_xh0 span.vg span.v{font-weight:400;color:text}
+._Dr.eye span.x_xh0 span.vg span.t_label{font-weight:400}
+._Dr.eye span.hwg span.frmg span.frm{font-weight:400;font-size:170%}
+._Dr.eye span.hwg span.hvg span.frmg span.frm{font-size:100%}
+._Dr.eye span.frm_type{font-weight:400}
+._Dr.eye span.hwg span.frmg span.gp.tg_frmg,._Dr.eye span.hwg span.frmg span.gr{font-size:150%}
+._Dr.eye span.hwg span.hvg span.frmg span.gp.tg_frmg,._Dr.eye span.hwg span.hvg span.frmg span.gr{font-size:100%}
+._Dr.eye span.hvg span.hv span.gp.tg_hv,._Dr.eye span.hw span.gp.tg_hw,._Dr.eye span.hwg span.frmg span.gp.tg_frmg,._Dr.eye span.hwg span.infg span.gp.tg_inf,._Dr.eye span.hwg span.infg span.gp.tg_infg{color:-apple-system-secondary-label}
+._Dr.eye span.x_xd1>span.posg.x_xdh,._Dr.eye span.x_xd1>span.x_xdh>span.posg:first-child{font-size:120%}
+._Dr.eye html.apple_client-panel span.x_xd1>span.posg.x_xdh{font-size:110%}
+._Dr.eye html.apple_client-panel span.ehw,._Dr.eye html.apple_client-panel span.hg span.gp.t_hw,._Dr.eye html.apple_client-panel span.hg span.hw,._Dr.eye html.apple_client-panel span.hg span.vg,._Dr.eye html.apple_client-panel span.hwg span.frmg span.frm,._Dr.eye html.apple_client-panel span.hwg span.frmg span.gp.tg_frmg,._Dr.eye html.apple_client-panel span.hwg span.frmg span.gr,._Dr.eye html.apple_client-panel span.hwg span.hvg,._Dr.eye html.apple_client-panel span.hwg span.hw,._Dr.eye html.apple_client-panel span.vhw{font-size:120%;line-height:130%}
+._Dr.eye span.hg span.fg{font-size:150%}
+._Dr.eye html.apple_client-panel span.hg span.fg{font-size:100%}
+._Dr.eye span.hg span.fg span.f{font-weight:400}
+._Dr.eye span.hg span.fg span.sy{font-style:italic}
+._Dr.eye span.fhw{font-weight:500;font-style:italic}
+._Dr.eye span.hm{vertical-align:super}
+._Dr.eye span.gp.ty_hom,._Dr.eye span.xr span.hm{vertical-align:super;font-size:70%}
+._Dr.eye span.hg>span.gp.ty_hom{font-size:120%;vertical-align:50%}
+._Dr.eye html.apple_client-panel span.hg>span.gp.ty_hom{font-size:100%;vertical-align:super}
+._Dr.eye span.hg>span.hgSub1{font-size:110%;margin-left:.1em}
+._Dr.eye html.apple_client-panel span.hg>span.hgSub1{font-size:100%}
+._Dr.eye span.hg>span.hgSub1 span.alt-hg span.hw{display:block;font-size:144%;margin-top:.3em}
+._Dr.eye html.apple_client-panel span.hg>span.hgSub1 span.alt-hg span.hw{margin-top:.3em;font-size:111%}
+._Dr.eye span.hg>span.hgSub1 span.posg,._Dr.eye span.hwg>span.hgSub1 span.ps{font-size:110%}
+._Dr.eye span.hg>span.hgSub1 span.pr,._Dr.eye span.hg>span.hgSub1 span.prx{font-size:100%}
+._Dr.eye span.hgSub1>span.etym,._Dr.eye span.hgSub1>span.grnote{display:block}
+._Dr.eye span.hgSub1>span.etym.x_nblk{display:inline}
+._Dr.eye span.hg>span.hgSub2{display:block;font-size:100%}
+._Dr.eye span.hg>span.hgSub2 span.fg,._Dr.eye span.hg>span.hgSub2 span.infg,._Dr.eye span.hg>span.hgSub2 span.vg{display:block;font-size:100%;margin-top:.3em}
+._Dr.eye span.InfGrp,._Dr.eye span.iGrp{font-weight:400}
+._Dr.eye span.inf{font-weight:600}
+._Dr.eye span.infg span.sy+span.inf{margin-left:.3em}
+._Dr.eye span.hg span.hw+span.gp.ty_hom+span.infg,._Dr.eye span.hg span.hw+span.infg{font-size:170%;font-weight:400}
+._Dr.eye span.hvg span.infg{font-size:58.8%}
+._Dr.eye span.hg span.hw+span.gp.ty_hom+span.infg span.inf,._Dr.eye span.hg span.hw+span.infg span.inf{font-weight:400}
+._Dr.eye html.apple_client-panel span.hg span.hw+span.gp.ty_hom+span.infg,._Dr.eye html.apple_client-panel span.hg span.hw+span.infg{font-size:130%}
+._Dr.eye html.apple_client-panel span.hvg span.infg{font-size:76.9%}
+._Dr.eye span.fGrp,._Dr.eye span.formGrp{font-weight:400}
+._Dr.eye span.f,._Dr.eye span.form{font-weight:600}
+._Dr.eye span.x_xdh>span.sn+span.fg+span.posg{margin-left:.3em}
+._Dr.eye span.hg span.posg,._Dr.eye span.hwg span.posg{margin-right:.3em}
+._Dr.eye span.gp.tg_pos{margin-right:.3em}
+._Dr.eye span.gr.x_rr,._Dr.eye span.hwg>span.hgSub1 span.ps.x_rr,._Dr.eye span.lbl.x_rr,._Dr.eye span.ph.x_rr,._Dr.eye span.pos.x_rr,._Dr.eye span.ps.x_rr,._Dr.eye span.sn.x_rr{border:solid 1px -apple-system-secondary-label;margin-right:.18em;margin-top:.18em;margin-bottom:.18em;padding:1px 1px 1px 1px;font-size:70%;-webkit-border-radius:2px;vertical-align:5%}
+._Dr.eye span.lbl.x_rr{margin-right:.4em;vertical-align:10%}
+._Dr.eye span.note span.lbl.x_rr{vertical-align:5%}
+._Dr.eye span.subEntry span.pos.x_rr{font-size:70%}
+._Dr.eye span.ph.x_rr{padding:2px 3px 0 3px;margin-left:.2em;margin-right:.2em}
+._Dr.eye span.gr.x_rr,._Dr.eye span.ps.x_rr{margin-right:.3em}
+._Dr.eye span.lbl.x_rrbd{border:solid -apple-system-secondary-label;border-width:2px;padding:2px 4px 1px 4px;-webkit-border-radius:3px;color:-apple-system-secondary-label;font-weight:600;font-size:70%;margin-right:.5em;vertical-align:20%}
+._Dr.eye html.apple_client-panel span.lbl.x_rrbd{vertical-align:15%}
+._Dr.eye span.msDict>span.posg:first-child,._Dr.eye span.se2>span.posg:first-child,._Dr.eye span.x_xdh>span.sn+span.posg{margin-right:.2em}
+._Dr.eye span.x_xd0>span.ps.x_xdh.x_rr{display:inline}
+._Dr.eye span.x_xd0>span.x_xdh.ps.x_rr{font-size:84%}
+._Dr.eye span.pr,._Dr.eye span.prx{font-weight:400;color:-apple-system-secondary-label}
+._Dr.eye span.x_xd0 span.x_xdh span.gp.tg_pr,._Dr.eye span.x_xd0 span.x_xdh span.gp.tg_prx,._Dr.eye span.x_xh0 span.gp.tg_pr,._Dr.eye span.x_xh0 span.gp.tg_prx{color:red;font-size:14px}
+._Dr.eye span.hg span.pr,._Dr.eye span.hg span.prx,._Dr.eye span.hwg span.pr,._Dr.eye span.hwg span.prx{display:inline-block;color:purple;font-size:90%;line-height:130%;margin-left:.4em;margin-right:.4em}
+._Dr.eye span.prx+span.prx{margin-left:0}
+._Dr.eye span.hg span.hw span.pr,._Dr.eye span.hg span.v span.pr{font-size:80%;margin-left:0;margin-right:0}
+._Dr.eye span.hg span.vg span.pr,._Dr.eye span.hg span.vg span.prx,._Dr.eye span.hwg span.hvg span.pr,._Dr.eye span.hwg span.hvg span.prx{font-size:70%}
+._Dr.eye html.apple_client-panel span.hg span.vg span.pr,._Dr.eye html.apple_client-panel span.hwg span.hvg span.pr{font-size:100%}
+._Dr.eye span.cnt{font-weight:200;color:-apple-system-secondary-label}
+._Dr.eye span.cnt.x_rr{margin-left:.2em;margin-right:.2em;padding-left:.2em;padding-right:.2em;color:text;border:solid 1px -apple-system-secondary-label;-webkit-border-radius:2px;font-size:70%}
+._Dr.eye span.sn{font-weight:600;color:-apple-system-secondary-label}
+._Dr.eye span.sn.x_rrbg{Background:-apple-system-secondary-label;border:solid -apple-system-secondary-label;border-width:0;padding:3px 2px 1px 2px;-webkit-border-radius:2px;color:-apple-system-text-background;font-weight:600;font-size:70%;vertical-align:10%;margin-right:.5em}
+._Dr.eye span.eg span.ex{font-weight:200;font-style:italic}
+._Dr.eye span.ex span.bold{font-weight:600;font-style:italic}
+._Dr.eye span.eg span.ex>span.italic{font-style:normal}
+._Dr.eye span.eg span.ref{font-weight:200}
+._Dr.eye span.eg span.general-text.t_eg_pr{font-weight:200;color:-apple-system-secondary-label}
+._Dr.eye span.eg span.general-text.t_eg_pri{font-style:italic;font-weight:200;color:-apple-system-secondary-label}
+._Dr.eye span.general-text.t_arrow,._Dr.eye span.gp.t_arrow{font-size:90%;vertical-align:-2%;color:-apple-system-secondary-label}
+._Dr.eye span.exg span.ex{font-style:normal;font-weight:500;color:-apple-system-secondary-label}
+._Dr.eye span.exg span.ex span.bold{font-weight:400}
+._Dr.eye span.exg span.ex span.ge,._Dr.eye span.exg span.ex span.reg,._Dr.eye span.exg span.ex span.sj,._Dr.eye span.hwg span.reg,._Dr.eye span.reg,._Dr.eye span.semb span.ge,._Dr.eye span.semb span.reg,._Dr.eye span.semb span.sj{font-weight:400;font-size:90%;color:#20b2aa}
+._Dr.eye span.hwg span.reg{font-size:170%}
+._Dr.eye html.apple_client-panel span.hwg span.reg{font-size:120%}
+._Dr.eye span.hwg span.hvg span.reg{font-size:100%}
+._Dr.eye span.lbl{color:-apple-system-secondary-label}
+._Dr.eye span.pronBlock span.lbl{font-weight:500;margin-right:.3em}
+._Dr.eye span.lbl.x_sqb{background:-apple-system-secondary-label;border:solid -apple-system-secondary-label;border-width:0;padding:2px 4px 2px 4px;font-size:80%;color:-apple-system-text-background;font-weight:600;margin-right:1em;vertical-align:5%}
+._Dr.eye span.cntxt,._Dr.eye span.note{display:block;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px;margin-top:.1em}
+._Dr.eye span.cntxt span.lbl,._Dr.eye span.note span.lbl{color:-apple-system-secondary-label}
+._Dr.eye span.note.x_nb{display:inline;background-color:transparent;padding:0;margin-top:0;margin-right:0}
+._Dr.eye span.l,._Dr.eye span.subEntry span.l~span.vg span.v{font-weight:600;font-size:90%;color:#369;margin-left:1.1em}
+._Dr.eye span.drv{font-weight:600}
+._Dr.eye span.drvg span.drv{margin-right:.5em}
+._Dr.eye span.subEntry span.pos{font-size:90%}
+._Dr.eye span.subEntry>span.l+span.pr,._Dr.eye span.subEntry>span.pr+span.posg{margin-left:.6em}
+._Dr.eye span.etym>span.lbl{color:-apple-system-secondary-label}
+._Dr.eye span.etym span.dgg{display:block;margin-top:.2em;margin-right:1em}
+._Dr.eye span.gg,._Dr.eye span.lg{font-size:80%;color:#46b2a9}
+._Dr.eye span.Name{font-style:italic}
+._Dr.eye span.altName{font-weight:600}
+._Dr.eye span.cite[highlight=true]{font-style:italic}
+._Dr.eye span.cite[highlight=false]{font-weight:400}
+._Dr.eye span.co{font-style:italic}
+._Dr.eye span.co.x_ni{font-style:normal}
+._Dr.eye span.com{font-weight:400}
+._Dr.eye span.con{font-style:normal;font-weight:600;color:-apple-system-secondary-label}
+._Dr.eye span.date{font-weight:400}
+._Dr.eye span.date+span.italic{font-style:italic}
+._Dr.eye span.lang{font-weight:400}
+._Dr.eye span.ex>span.lbl{font-weight:400}
+._Dr.eye span.ff{font-style:italic;font-weight:600}
+._Dr.eye span.rel{font-weight:600}
+._Dr.eye span.sp{font-weight:600}
+._Dr.eye span.sp span.gp{font-weight:400}
+._Dr.eye span.trans{font-weight:300;font-size:90%;color:grey}
+._Dr.eye span.trg span.trans{font-weight:400}
+._Dr.eye span.trg.x_xd2>span.trans,._Dr.eye span.trgg.x_xd2>span.trg>span.trans{font-weight:500}
+._Dr.eye span.trg.x_xd2>span.trans span.tgr,._Dr.eye span.trgg.x_xd2>span.trg>span.trans span.tgr{font-weight:400}
+._Dr.eye span.x_xdh.sn:first-child+span.exg.x_xd2>span.trg.x_xd3>span.trans{font-weight:500}
+._Dr.eye span.x_xdh.sn:first-child+span.exg.x_xd2>span.trg.x_xd3>span.trans span.tgr{font-weight:400}
+._Dr.eye span.semb.x_xd2>span.trg.x_xd3>span.trans{font-weight:500}
+._Dr.eye span.efg span.ef{font-weight:400}
+._Dr.eye span.finf{font-style:italic}
+._Dr.eye span.fl{font-weight:600}
+._Dr.eye span.lp[highlight=true]{font-weight:600}
+._Dr.eye span.lp[highlight=false]{font-style:normal}
+._Dr.eye span.hwtrans{font-weight:400}
+._Dr.eye span.oup_label{font-style:italic;color:-apple-system-secondary-label}
+._Dr.eye span.oup_label.x_ni{font-style:normal}
+._Dr.eye span.xr{font-weight:500}
+._Dr.eye span.xr span.gp{font-variant:normal}
+._Dr.eye span.hg span.hw span.sy_underline,._Dr.eye span.hg span.vg span.v span.sy_underline,._Dr.eye span.pr span.ph span.str,._Dr.eye span.sy_underline{text-decoration:underline}
+._Dr.eye span.xu{font-weight:600}
+._Dr.eye span.bold{font-weight:600}
+._Dr.eye span.italic{font-style:italic}
+._Dr.eye span.underline{text-decoration:underline}
+._Dr.eye span.r{font-weight:400;font-style:normal}
+._Dr.eye span.sup{vertical-align:super;font-size:70%}
+._Dr.eye span.sub,._Dr.eye span.subEnt{vertical-align:sub;font-size:70%}
+._Dr.eye span.sc{font-variant:small-caps}
+._Dr.eye span.bi{font-weight:500;font-style:italic}
+._Dr.eye span.in{vertical-align:sub;font-size:70%}
+._Dr.eye span.ini{vertical-align:sub;font-size:70%;font-style:italic}
+._Dr.eye span.su{vertical-align:super;font-size:70%}
+._Dr.eye span.sub{vertical-align:sub;font-size:70%}
+._Dr.eye span.sui{vertical-align:super;font-size:70%;font-style:italic}
+._Dr.eye span.sup{vertical-align:super;font-size:70%}
+._Dr.eye span.subEnt{vertical-align:sub;font-size:70%}
+._Dr.eye span.nu{vertical-align:super;font-size:70%}
+._Dr.eye span.dn{vertical-align:sub;font-size:70%}
+._Dr.eye span.usageLbl{font-weight:400;font-size:90%;color:-apple-system-secondary-label}
+._Dr.eye span.hw span.usageLbl{font-size:80%}
+._Dr.eye span.general-text.t_label,._Dr.eye span.general-text.t_label_block{font-variant:small-caps;margin-right:.3em;color:-apple-system-secondary-label}
+._Dr.eye span.general-text.t_label_block{display:block}
+._Dr.eye span.dgg span.gp.t_label,._Dr.eye span.etym span.gp.t_label,._Dr.eye span.gp.t_label.tg_REMISIO,._Dr.eye span.gp.t_label.tg_antList,._Dr.eye span.gp.t_label.tg_etym,._Dr.eye span.gp.t_label.tg_see,._Dr.eye span.gp.t_label.tg_synList{margin-right:.3em;color:-apple-system-secondary-label}
+._Dr.eye span.ehw span.general-text.en_er,._Dr.eye span.hw span.general-text.en_er,._Dr.eye span.sg span.general-text.en_er,._Dr.eye span.vhw span.general-text.en_er{font-size:80%}
+._Dr.eye span.frmg span.frm{font-weight:600}
+._Dr.eye span.frmg span.frm.x_nb{font-weight:400}
+._Dr.eye span.idmsec span.idm{font-weight:600}
+._Dr.eye span.pvb span.pvsec span.pvg span.pv,._Dr.eye span.pvb span.pvsec span.pvg span.pvv{font-weight:600}
+._Dr.eye span.pvsec span.gramb span.pgr,._Dr.eye span.pvsec span.gramb span.semb span.pgr{font-weight:600;color:-apple-system-secondary-label}
+._Dr.eye span.cb span.csec span.cwg span.cvg span.cv,._Dr.eye span.cb span.csec span.cwg span.cw,._Dr.eye span.csec span.cwg span.cw{font-weight:600}
+._Dr.eye span.gr,._Dr.eye span.ind{color:grey;font-size:85%}
+._Dr.eye span.fld,._Dr.eye span.lev{font-size:90%;color:-apple-system-secondary-label}
+._Dr.eye span.trans.ty_pinyin,._Dr.eye span.trg.x_xd2>span.trans span.trans.ty_pinyin,._Dr.eye span.trg.x_xd2>span.trans.ty_pinyin,._Dr.eye span.trgg.x_xd2>span.trg>span.trans span.trans.ty_pinyin,._Dr.eye span.trgg.x_xd2>span.trg>span.trans.ty_pinyin{font-weight:400;margin-left:.2em;margin-right:.2em;color:-apple-system-secondary-label}
+._Dr.eye span.box{display:block;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px;margin-top:.1em}
+._Dr.eye html.apple_client-panel span.box{margin-left:0;margin-right:0}
+._Dr.eye span.synGroup>span.syn.t_core{font-variant:small-caps;font-size:120%;vertical-align:-1%}
+._Dr.eye span.synGroup>span.syn.t_core>span.gp{font-variant:normal;font-size:90%}
+._Dr.eye span.antList>span.gp.ty_label.tg_antList{font-variant:small-caps;color:-apple-system-secondary-label;font-size:80%}
+._Dr.eye span.feature{display:block;margin-top:2.5em;margin-right:1em}
+._Dr.eye html.apple_client-panel span.feature{margin-top:1em}
+._Dr.eye span.feature-title{display:block;color:-apple-system-secondary-label;font-weight:500;font-size:90%;line-height:23px;padding-top:1px;padding-left:9px;padding-right:9px;margin-top:2em;border-style:solid;border-width:1px 1px 1px 1px;border-color:-apple-system-tertiary-label;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-webkit-border-bottom-left-radius:0;-webkit-border-bottom-right-radius:0}
+._Dr.eye html.apple_client-panel span.feature-title{margin-top:1em}
+._Dr.eye span.feature-body{display:block;color:-apple-system-label;padding-left:10px;padding-right:10px;padding-top:5px;padding-bottom:9px;border-style:solid;border-width:0 1px 1px 1px;border-color:-apple-system-tertiary-label;-webkit-border-top-left-radius:0;-webkit-border-top-right-radius:0;-webkit-border-bottom-left-radius:4px;-webkit-border-bottom-right-radius:4px}
+._Dr.eye span.feature-body table{table-layout:fixed;width:100%;margin:0;border:none}
+._Dr.eye span.feature-caption{display:block;color:-apple-system-secondary-label;font-weight:400;font-size:90%;padding-left:3px;padding-right:3px;padding-top:3px;padding-bottom:9px}
+._Dr.eye span.feature span.list{display:block}
+._Dr.eye span.feature span.list+span.list{margin-top:.25em}
+._Dr.eye span.feature.t_wordLinks span.list span.item.t_related{font-weight:600;font-variant:small-caps}
+._Dr.eye span.feature.t_wordLinks span.list span.item.t_related+span.item.t_description{margin-left:.5em}
+._Dr.eye span.list span.item,._Dr.eye span.np,._Dr.eye span.para{display:block;margin-top:.25em}
+._Dr.eye span.feature.t_rightWord span.heading,._Dr.eye span.feature.t_usage span.heading,._Dr.eye span.feature.t_wordNote span.heading{font-weight:500}
+._Dr.eye span.feature.t_wordNote span.heading{display:block}
+._Dr.eye span.ll{font-weight:500}
+._Dr.eye span.ll span.gp{font-weight:400}
+._Dr.eye span.feature.t_toolkit>span.feature-body>table tbody tr td.lemma{font-weight:600;font-size:110%}
+._Dr.eye span.feature.t_quotes span.para span.eg span.ref{display:block}
+._Dr.eye span.feature.t_encyclopaedic{display:block;margin-right:1em;margin-top:1em;margin-bottom:2em;border:solid 1px -apple-system-tertiary-label;padding:.13em .49em .13em .49em;-webkit-border-radius:3px}
+._Dr.eye span.eg.x_blk,._Dr.eye span.lbl.x_blk,._Dr.eye span.xrg.x_blk{display:block}
+._Dr.eye span.eg span.ex.x_ni{font-style:normal;font-weight:200}
+._Dr.eye span.eg span.ex.x_ni span.bold{font-style:normal;font-weight:600}
+._Dr.eye span.ff.x_ni,._Dr.eye span.gg.x_ni,._Dr.eye span.lg.x_ni{font-style:normal;font-size:90%;margin-left:0;margin-right:-5px;color:#20b2aa}
+._Dr.eye img.gi{width:1em;height:1em}
+._Dr.eye img.image.th{display:block;width:96%;margin-top:1em}
+._Dr.eye html.apple_client-panel .entry>span.x_xh0:first-child,._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child,._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xdh,._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn),._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xdh{display:inline}
+._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd0,._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd1,._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd0,._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd1{margin-left:1em}
+._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd0.hasSn,._Dr.eye html.apple_client-panel span.x_xd0:not(.hasSn):first-child>span.x_xd1.hasSn,._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd0.hasSn,._Dr.eye html.apple_client-panel span.x_xh0+span.x_xd0:not(.hasSn)>span.x_xd1.hasSn{margin-left:2em}
+._Dr.eye html.apple_client-panel span.hg>span.hgSub1,._Dr.eye html.apple_client-panel span.hwg>span.hgSub1{display:inline;margin-left:1em}
+._Dr.eye body{font-family:-apple-system,'PingFang TC'}
+._Dr.eye span.sn{font-family:'PingFang TC',-apple-system}
+._Dr.eye span.infg span.sy+span.inf{margin-left:0;color:#00008b}
+._Dr.eye .entry[id^=z_] span.hg span.hw{font-size:210%;line-height:150%;font-family:STKaitiTC-Bold,'PingFang TC'}
+._Dr.eye html.apple_client-panel .entry[id^=z_] span.hg span.hw{font-size:120%;line-height:130%}
+._Dr.eye span.hg span.hw ruby{-webkit-ruby-position:inter-character}
+._Dr.eye span.hg span.hw ruby+ruby{margin-left:-.5em}
+._Dr.eye html.apple_client-panel span.hg span.hw ruby+ruby{margin-left:0}
+._Dr.eye span.hg span.hw>ruby>rt{text-align:center;padding-left:.1em;padding-top:.35em;font-size:35%;line-height:100%;letter-spacing:-1px}
+._Dr.eye span.hw>ruby>rt>a>span.tone{display:block;float:right;width:0;margin-left:.7em;text-indent:-.9em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t1{margin-left:0;text-indent:-1.5em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t1.c2{text-indent:-3.5em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t1.c3{text-indent:-5em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t2{margin-left:.6em;text-indent:-.9em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t3{margin-left:.6em;text-indent:-.9em}
+._Dr.eye span.hw>ruby>rt>a>span.tone.t4{margin-left:.6em;text-indent:-.9em}
+._Dr.eye span.hw a[type=bopomofo]{color:text;text-decoration:none}
+._Dr.eye span.hg span.pr span.ph.t_bopomofo{font-size:80%;vertical-align:13%;font-family:STKaitiTC-Black;word-spacing:.2em}
+._Dr.eye html.apple_client-panel span.hg span.pr span.ph.t_bopomofo{font-size:70%;vertical-align:3%}
+._Dr.eye html.apple_client-panel span.hg span.hw+span.pr,._Dr.eye html.apple_client-panel span.hg span.hw+span.xrg+span.pr{margin-left:.5em}
+._Dr.eye span.hg span.pr span.ph.t_bopomofo{display:none}
+._Dr.eye html.apple_client-panel span.hg span.hw ruby rt{display:none}
+._Dr.eye html.apple_client-panel span.hg span.pr span.ph.t_bopomofo{display:inherit;margin-right:.5em}
+._Dr.eye span.x_xd0 span.x_xdh span.gp.tg_pr,._Dr.eye span.x_xh0 span.gp.tg_pr{color:red;font-size:14px}
+._Dr.eye span.sy{font-weight:300;color:grey}
+._Dr.eye span.inf{font-weight:400}
+._Dr.eye span.eg span.ex{font-style:normal;font-weight:500;font-size:90%;color:#4682b4}
+._Dr.eye .entry[id^=z_] span.eg span.ex{font-weight:400}
+._Dr.eye .entry[id^=z_] span.eg span.ex{font-family:'PingFang TC',-apple-system}
+._Dr.eye .entry[id^=e_] span.ex span.rf{font-style:italic}
+._Dr.eye span.trg{color:grey;font-weight:300}
+._Dr.eye .entry[id^=e_] span.trans{font-family:'PingFang TC',-apple-system}
+._Dr.eye span.x_xd0>span.x_xdh>span.infg{font-size:85%;color:grey}
+._Dr.eye html.apple_client-panel span.x_xd0>span.x_xdh>span.infg{display:none}
+._Dr.eye span.x_xd2>span.x_xdh.trg>span.trans,._Dr.eye span.x_xd2>span.x_xdh>span.trg>span.trans,._Dr.eye span.x_xd2>span.x_xdt.trg>span.trans,._Dr.eye span.x_xd2>span.x_xdt>span.trg>span.trans{font-weight:400;font-size:95%;color:#862424}
+._Dr.eye span.x_xd3{margin-top:.3em;margin-bottom:.3em}

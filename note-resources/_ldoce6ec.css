@@ -1,0 +1,893 @@
+* {
+ 
+}
+.abbr {
+  font-weight: bold;
+}
+.ac,
+.ac {
+  padding-left: 2px;
+  padding-right: 2px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: blue;
+}
+.add_exa {
+  font-style: italic;
+  display: block;
+}
+.amequiv {
+  font-weight: bold;
+}
+.arrow {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 2px;
+  font-size: smaller;
+}
+.at-link {
+  border: 1px solid #e4e4e4;
+  border-radius: 9px;
+  padding: 0.1em 0.5em;
+  margin: 0.5em 0;
+  background-color: rgba(199, 110, 6, 0.1);
+}
+.at-link {
+  display: none;
+}
+.badcollo {
+  text-decoration: line-through;
+}
+.badexa {
+  text-decoration: line-through;
+  font-style: italic;
+}
+.brequiv {
+  font-weight: bold;
+}
+.buttons {
+  display: block;
+}
+.chwd .hw {
+  color: white;
+}
+.chwd a {
+  display: inline-block;
+  background-color: #2494f5;
+  border-color: #357ebd;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 3px;
+  text-decoration: none;
+  font-size: 80%;
+  border-radius: 2px;
+}
+.chwd {
+  margin-top: 0;
+  border-bottom: 1px dotted darkgray;
+}
+.collo {
+  font-weight: bold;
+  font-size: 110%;
+  color: #C00000;
+}
+.collo collot{
+  font-weight: 400;
+  font-size: 70%;
+  color: black;
+}
+.collo colloc{
+  font-weight: 400;
+  font-size: 70%;
+  color: black;
+}
+.collobox .section {
+  background-color: #f7f8f9;
+}
+.collobox,
+.thesbox,
+.usagebox,
+.grambox,
+.f2nbox {
+  border-radius: 2px;
+  border-width: 1px;
+  display: block;
+  margin-bottom: 1ex;
+  clear: both;
+  margin-top: 1ex;
+  padding-left: 3px;
+  border-style: solid;
+}
+.collobox {
+  background-color: #1d3e99;
+  border-color: #1d3e99;
+}
+.colloc.key {
+  color: blue;
+}
+.colloc {
+  font-weight: bold;
+}
+.collocate,
+.exponent {
+  display: block;
+  margin-top: 5px;
+}
+.collocate.inline {
+  display: inline;
+}
+.collocations .colloc {
+  display: inline-block;
+  font-weight: bold;
+  margin-left: -2px;
+}
+.collocations .last {
+  margin-bottom: 20px;
+}
+.colloexa {
+  display: block;
+}
+.colloinexa {
+  color: #0070C0;
+  font-style: italic;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.comp {
+  font-weight: bold;
+}
+.compareword {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.cross {
+  color: red;
+  font-weight: bold;
+}
+.cyan {
+  color: #00a2e8;
+  font-size: larger;
+}
+.def {
+  color: black;
+}
+.def en {
+  font-weight: 600;
+  font-size: 100%;
+  color: black;
+}
+.def tran{
+  font-weight: 400;
+  font-size: 80%;
+  color: black;
+}
+.defbold {
+  font-weight: bold;
+}
+.deriv {
+  font-weight: bold;
+  color: blue;
+}
+.dict-faq img[src*="cover"] {
+  max-height: 8em;
+}
+.entry div.content {
+  display: none;
+  margin-bottom: 10px;
+}
+.entry,
+.entry.lozenge,
+.verbtable {
+  /* margin-top:.5em */
+}
+.entry {
+  line-height: 150%;
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000;
+}
+.errorbox {
+  display: block;
+}
+.etymbox {
+  margin-top: 1em;
+  display: block;
+}
+.etymology {
+  margin-top: 10px;
+}
+.etymorigin {
+  font-style: italic;
+}
+.etymrefhom {
+  font-size: 80%;
+  vertical-align: super;
+  font-style: normal;
+}
+.etymrefhwd {
+  font-style: italic;
+}
+.etymsense {
+  display: block;
+}
+.etymtran {
+  font-weight: bold;
+}
+.example {
+  font-style: normal;
+  display: block;
+  color: #0eadad;
+  
+  padding-left: 10px;
+  font-weight: normal;
+}
+
+.example example{
+  color: gray;
+  font-size: 80%;
+}
+
+.exp {
+  font-weight: bold;
+  color: blue;
+}
+.expandable {
+  cursor: pointer;
+}
+.expl {
+  display: block; /* padding:0 3px; */
+}
+.expr {
+  font-weight: bold;
+  color: blue;
+}
+.f2nbox .heading {
+  color: #0576d0;
+}
+.f2nbox {
+  border-color: #949090;
+}
+.freq,
+.freq {
+  padding-left: 2px;
+  padding-right: 2px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: red;
+}
+.frequent {
+  color: red;
+}
+.fullform {
+  font-weight: bold;
+}
+.geo,
+span.geo {
+  font-weight: normal;
+  font-style: normal;
+  color: #0088DD;
+  font-size: 95%;
+}
+.gloss,
+.collgloss {
+  font-weight: normal;
+  font-style: normal;
+  color: black;
+}
+.goodcollo {
+  font-weight: bold;
+}
+.gram {
+  color: #737573;
+  font-size: 100%;
+  color: green;
+}
+.grambox .expl,
+.grambox .compareword {
+  background-color: #e2f4fd;
+  display: block;
+  padding-left: 3px;
+}
+.grambox .heading.newline {
+  background-color: #6cd0f6;
+}
+.grambox {
+  background-color: #00adee;
+  border-color: #00adee;
+}
+.grammar {
+  display: block;
+}
+.gramrefcont {
+  display: block;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  padding-left: 3px;
+  padding-bottom: 1px;
+}
+.group .pos {
+  font-weight: bold;
+  display: block;
+}
+.group,
+.w {
+  display: block;
+}
+.group {
+  margin-top: 10px;
+}
+.header {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+.heading.newline {
+  display: block;
+}
+.heading {
+  font-weight: bold;
+  line-height: 100%;
+  font-variant: all-small-caps;
+  font-size: 120%;
+  color: white;
+}
+.hint .expl {
+  display: inline;
+}
+.hintbold {
+  font-weight: bold;
+}
+.hintitalic {
+  font-style: italic;
+}
+.homnum {
+  vertical-align: super;
+  font-size: 8pt;
+  color: blue;
+  font-weight: bold;
+}
+.hs0:before {
+  content: "Ã¢â‚¬Â§";
+}
+.hwd {
+  display: none;
+}
+.hyphenation {
+  font-weight: bold;
+  font-size: 170%;
+  color: #FF0000;
+}
+.imgholder img {
+  max-height: 4em;
+}
+.imgholder {
+  cursor: pointer;
+  display: block;
+  margin-bottom: 1ex;
+  padding: 2px;
+  clear: both;
+}
+.item {
+  display: block;
+}
+.last {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.level {
+  color: red;
+  font-size: 100%;
+}
+.lexunit {
+  font-weight: bold;
+  font-size: 110%;
+  color: #C00000;
+}
+.lexvar {
+  font-weight: bold;
+  color: #C00000
+}
+.linkword {
+  font-style: italic;
+}
+.menuitem .signpost {
+  background-color: transparent;
+  color: black;
+  margin-left: 0;
+  font-size: 90%;
+}
+.menuitem {
+  display: block;
+}
+.nodeword {
+  color: #0070C0;
+  font-style: italic;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.no-sound img {
+  border: 1px solid gray;
+  border-radius: 3px;
+  max-height: 0.9em;
+}
+.opp {
+  font-weight: bold;
+  font-size: 110%;
+  color: #FF0000;
+}
+.orthvar {
+  font-weight: bold;
+}
+.pastpart {
+  font-weight: bold;
+  color: #FF0000;
+}
+.pasttense {
+  font-weight: bold;
+}
+.phrase {
+  display: block;
+}
+.phrasetext {
+  font-weight: bold;
+}
+.phrv {
+  font-weight: bold;
+}
+.phrvbentry {
+  display: block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.phrvbhwd {
+  font-weight: bold;
+  color: #C00000;
+  font-size: 125%;
+}
+.phrvbs .heading {
+  display: block;
+  color: blue;
+  font-weight: bold;
+}
+.phrvbs {
+  display: block;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.pluralform {
+  font-weight: bold;
+}
+.popheader.popcollo {
+  background-color: #1d3e99;
+}
+.popheader.pope_menu {
+  background-color: #57c0e0;
+}
+.popheader.popetym {
+  background-color: green;
+}
+.popheader.popexa {
+  background-color: red;
+}
+.popheader.popphrase {
+  background-color: purple;
+}
+.popheader.popthes {
+  background-color: #652d91;
+}
+.popheader.popwf {
+  background-color: #ffd448;
+}
+.popheader {
+  display: block;
+  color: white;
+  font-weight: bold;
+  padding-left: 3px;
+}
+.popup-button:hover {
+  cursor: pointer;
+}
+.popup-button {
+  border-radius: 2px;
+  border: 1px solid #7e92c7;
+  color: #7e92c7;
+  font-size: 90%;
+  padding: 0px 2px 0px 2px;
+  display: inline-block;
+  line-height: 120%;
+  margin-right: 2px;
+  font-variant: all-small-caps;
+  margin-bottom: 3px;
+}
+.popup-button {
+  user-select: none;
+}
+.popup-button-hover {
+  background-color: #dfe3f8;
+  cursor: pointer;
+}
+.popverbs {
+  display: block;
+  color: white;
+  font-weight: bold;
+  background-color: #ec008d;
+  padding-left: 3px;
+  margin-bottom: 5px;
+}
+.pos {
+  font-style: italic;
+  color: #04a00a;
+  font-weight: normal;
+  font-size: 100%;
+}
+.prespart {
+  font-weight: bold;
+}
+.pronstrong {
+  font-style: italic;
+}
+.propform {
+  font-weight: bold;
+  font-size: 125%;
+  display: block;
+  color: #C00000;
+}
+.propformprep {
+  font-weight: bold;
+  font-size: 110%;
+  display: block;
+  color: #9A00C0;
+}
+.ptandpp {
+  font-weight: bold;
+}
+.refhomnum {
+  vertical-align: super;
+  font-size: 60%;
+}
+.refhwd,
+.refsensenum {
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+.reflex {
+  font-weight: bold;
+}
+.refsensenum {
+  font-size: 80%;
+}
+.registerlab {
+  font-style: normal;
+  color: #0088DD;
+  font-size: 95%;
+}
+.relatedwd {
+  font-weight: bold;
+}
+.runon {
+  display: block;
+  margin-top: 8px;
+}
+.secheading,
+.subheading {
+  text-transform: uppercase;
+}
+.secheading.no_convert {
+  text-transform: none;
+}
+.section {
+  display: block;
+  padding: 0 3px;
+}
+.sense {
+  display: block;
+}
+.signpost {
+  color: white;
+  background-color: #FF4500;
+  margin-left: 0.2em;
+  font-weight: 600;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  font-size: 85%;
+  padding: 1px 3px 1px 3px;
+}
+.spokensect {
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 2px;
+  display: block;
+  margin-bottom: 1ex;
+  clear: both;
+  margin-top: 1ex;
+  border-color: #00a2e8;
+  padding: 3px;
+}
+.spokensecthead {
+  display: block;
+  color: #00a2e8;
+  font-weight: bold;
+}
+.str {
+  font-size: large;
+  font-weight: bold;
+}
+.subheading,
+.secheading {
+  display: block;
+  font-weight: bold;
+  font-weight: bold;
+  color: white;
+  background-color: #8187BF;
+  margin-left: -3px;
+  margin-right: -3px;
+  font-variant: small-caps;
+  padding-left: 3px;
+}
+.subsense {
+  display: block;
+}
+.superl {
+  font-weight: bold;
+}
+.syn {
+  font-weight: bold;
+  font-size: 110%;
+  color: #FF0000;
+}
+.t3perssing {
+  font-weight: bold;
+}
+.thesaurus .secheading,
+.thesbox .secheading {
+  background-color: #a186bd;
+}
+.thesaurus .section,
+.collocations .section {
+  margin-bottom: 10px;
+}
+.thesaurus .sense {
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-top: 0;
+}
+.thesbox .section {
+  background-color: #f7f6f9;
+}
+.thesbox {
+  background-color: #652d91;
+  border-color: #652d91;
+}
+.thespropform {
+  font-weight: bold;
+}
+.thesref .refhwd,
+.thesref .refhomnum {
+  color: blue;
+  font-weight: bold;
+}
+.thesref span.thesaurus {
+  color: blue;
+  font-variant: small-caps;
+}
+.thesref.newline {
+  display: block;
+}
+.usagebox .expl {
+  background-color: #e2f4fd;
+}
+.usagebox {
+  background-color: #00a2e8;
+  border-color: #00a2e8;
+}
+.verbtable .aux {
+  font-weight: bold;
+}
+.verbtable .geo {
+  font-style: italic;
+  color: #000;
+  font-size: 100%;
+  font-weight: normal;
+}
+.verbtable .lemma {
+  color: blue;
+  font-size: 120%;
+  font-weight: bold;
+}
+.verbtable .verb_form {
+  color: blue;
+  font-weight: bold;
+}
+.verbtable table {
+  border-collapse: separate;
+  border-spacing: 1px;
+  margin-top: 10px;
+}
+.verbtable td.col1 {
+  font-weight: bold;
+}
+.verbtable td.col2 {
+  font-style: italic;
+}
+.verbtable td {
+  padding: 0 5px 0 2px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d2d2d2;
+}
+.w {
+  font-weight: bold;
+}
+.ws-head.ref {
+  display: block;
+  margin-top: 10px;
+}
+.ws-head {
+  font-weight: bold;
+  color: blue;
+  font-size: larger;
+}
+.wswd {
+  font-weight: bold;
+  display: block;
+}
+a:hover {
+  text-decoration: underline;
+}
+a {
+  color: #36f;
+  text-decoration: none;
+}
+COLLOC {
+  margin-left: 5px;
+}
+COLLOCEN {
+}
+COLLOT {
+  margin-left: 5px;
+}
+COLLOTEN {
+}
+EN {
+}
+Error {
+  margin-left: 5px;
+}
+ErrorEN {
+}
+EXAEN {
+}
+EXAMPLE {
+  margin-left: 5px;
+  font-style: normal;
+}
+F2N {
+  /* margin-left:5px */
+}
+F2NEN {
+}
+Gram {
+  margin-left: 5px;
+}
+GramEN {
+}
+HINT {
+  margin-left: 5px;
+}
+HintEN {
+}
+i {
+  font-style: normal;
+}
+img[src*="spkr_"] {
+  max-height: 1em;
+  margin-bottom: -3px;
+  margin-right: 2px;
+}
+img[src*="spkr_g"] {
+  max-height: 0.7em;
+  margin-bottom: 0;
+}
+img[src*="img/spkr_b"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("b.png");
+}
+img[src*="img/spkr_g"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("g.png");
+}
+img[src*="img/spkr_r"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("r.png");
+}
+
+object {
+  font-weight: normal;
+}
+SIGN {
+  margin-left: 5px;
+}
+SIGNEN {
+}
+span.infllab {
+  font-style: italic;
+  font-weight: normal;
+}
+span.italic {
+  color: black;
+  font-style: italic;
+  font-weight: normal;
+}
+span.keycollo {
+  font-weight: bold;
+  color: blue;
+}
+span.neutral {
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  color: black;
+  text-decoration: none;
+}
+span.sensenum {
+  font-style: normal;
+  color: #0088DD;
+  padding-right: 3px;
+  font-weight: 600;
+}
+span.synopp {
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: blue;
+}
+span.warning {
+  font-style: normal;
+  font-weight: bold;
+  color: red;
+}
+span[onclick*="toggle"] {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+TRAN {
+  margin-left: 5px;
+}
+ul.exas li {
+  font-style: italic;
+  color: black;
+}
+ul.exas {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 2em;
+  padding-right: 1em;
+}
+Usage {
+  margin-left: 5px;
+}
+UsageEN {
+}

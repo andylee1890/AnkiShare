@@ -1,0 +1,1205 @@
+{
+    "1342699063933": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Greek",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Mounce",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Explanations",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Youdao",
+                        "dict_unique": "Youdao",
+                        "fld_name": "English",
+                        "fld_ord": 2,
+                        "ignore": false,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "FeqNt",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Chapter",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Gromacki",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Greekte",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1424386168963": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "单词",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Phonetic Symbols",
+                        "dict_fld_ord": null,
+                        "dict_name": "MDX server",
+                        "dict_unique": "RemoteMdx",
+                        "fld_name": "音标",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "American Pronunciation",
+                        "dict_fld_ord": 3,
+                        "dict_name": "MDX-LDOCE6",
+                        "dict_unique": "Ldoce6",
+                        "fld_name": "发音",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Definition",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Dr.eye",
+                        "dict_unique": "Dreye",
+                        "fld_name": "dreye",
+                        "fld_ord": 3,
+                        "ignore": false,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Definition",
+                        "dict_fld_ord": 4,
+                        "dict_name": "Bing",
+                        "dict_unique": "Bing",
+                        "fld_name": "词性1",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "释义1",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Explanations",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Youdao",
+                        "dict_unique": "Youdao",
+                        "fld_name": "词性2",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "释义2",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Basic definition",
+                        "dict_fld_ord": 4,
+                        "dict_name": "iciba",
+                        "dict_unique": "ICIBA",
+                        "fld_name": "词性3",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Images",
+                        "dict_fld_ord": 4,
+                        "dict_name": "MDX-LDOCE6",
+                        "dict_unique": "Ldoce6",
+                        "fld_name": "释义3",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "图片",
+                        "fld_ord": 10,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "单词释义比例词典-带词性",
+                        "dict_unique": "b1f79a15fed5b1bdca4442bc0d6a950f",
+                        "fld_name": "Lesson",
+                        "fld_ord": 11,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "有道词语辨析",
+                        "dict_unique": "a473f588642fb0936f0b1cfbaf782799",
+                        "fld_name": "新概念例句",
+                        "fld_ord": 12,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "nec3",
+                        "dict_unique": "9272c68b0c12da119ad5bdb61f7d9120",
+                        "fld_name": "释义比例",
+                        "fld_ord": 13,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "有道词语辨析",
+                        "dict_unique": "a473f588642fb0936f0b1cfbaf782799",
+                        "fld_name": "拓展",
+                        "fld_ord": 14,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "简明",
+                        "fld_ord": 15,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "http://localhost:8000/",
+                        "dict_fld_ord": null,
+                        "dict_name": "MDX server",
+                        "dict_unique": "RemoteMdx",
+                        "fld_name": "牛津双解",
+                        "fld_ord": 16,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Synonyms",
+                        "dict_fld_ord": 4,
+                        "dict_name": "eudict",
+                        "dict_unique": "Eudict",
+                        "fld_name": "词组短语",
+                        "fld_ord": 17,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "例句",
+                        "fld_ord": 18,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1505749238623": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "正面",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "背面",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "audio",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "Lesson",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "Question",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "points",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "notes",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "words",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1539170905806": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "单词",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "Lesson",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "flags",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Phonetic Symbols (US)",
+                        "dict_fld_ord": 1,
+                        "dict_name": "Youdao",
+                        "dict_unique": "Youdao",
+                        "fld_name": "音标",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "American Pronunciation",
+                        "dict_fld_ord": 5,
+                        "dict_name": "Youdao",
+                        "dict_unique": "Youdao",
+                        "fld_name": "美式发音",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Definition",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Dr.eye",
+                        "dict_unique": "Dreye",
+                        "fld_name": "dreyefull",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "词根词缀",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "词根词缀2",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "新概念例句",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Original examples",
+                        "dict_fld_ord": 6,
+                        "dict_name": "eudict",
+                        "dict_unique": "Eudict",
+                        "fld_name": "examples",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "拓展",
+                        "fld_ord": 10,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "释义比例",
+                        "fld_ord": 11,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "简明",
+                        "fld_ord": 12,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "图片",
+                        "fld_ord": 13,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "牛津双解",
+                        "fld_ord": 14,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE6++ En-Cn V3-0",
+                        "dict_unique": "48c043d2bd0fd661fc027cc999da733b",
+                        "fld_name": "口语词频",
+                        "fld_ord": 15,
+                        "ignore": false,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "写作词频",
+                        "fld_ord": 16,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "synonyms",
+                        "fld_ord": 17,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "牛津高阶英汉双解词典(第8版)",
+                        "dict_unique": "f898a248780eadb5e2abe6f6a2236af1",
+                        "fld_name": "etymonline",
+                        "fld_ord": 18,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1542561589445": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "单词",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "音标",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "发音",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "图片",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "词性1",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "释义1",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "词性2",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Explanations",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Youdao",
+                        "dict_unique": "Youdao",
+                        "fld_name": "释义2",
+                        "fld_ord": 7,
+                        "ignore": false,
+                        "skip_valued": false,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1613895458309": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "英文单词",
+                        "fld_ord": 0,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "英美音标",
+                        "fld_ord": 1,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Phonetic Symbols",
+                        "dict_fld_ord": 1,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "中文释义",
+                        "fld_ord": 2,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Images",
+                        "dict_fld_ord": 2,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "英文例句",
+                        "fld_ord": 3,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Pictogram",
+                        "dict_fld_ord": 3,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "中文例句",
+                        "fld_ord": 4,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Definition",
+                        "dict_fld_ord": 4,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "音标（牛津简明）",
+                        "fld_ord": 5,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Examples",
+                        "dict_fld_ord": 5,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "中文（牛津简明）",
+                        "fld_ord": 6,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Translation",
+                        "dict_fld_ord": 6,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "vocab简明",
+                        "fld_ord": 7,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "vocab扩展",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "柯林斯星级",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "柯林斯解释",
+                        "fld_ord": 10,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1614566441419": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "正面",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "nec3",
+                        "dict_unique": "66ba018b4c61a37391b066776477fdbe",
+                        "fld_name": "key",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "背面",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "牛津",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "朗文",
+                        "fld_ord": 4,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "中心词汇",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "6cf51e9dfeb7a9356a28326843f5f45c",
+                        "fld_name": "词汇解释",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1625030775618": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "正面",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "背面",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "牛津",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "LDOCE5++ V 2-15",
+                        "dict_unique": "0f6f7de6c383f73c61ab098309e4c4f3",
+                        "fld_name": "Longman",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": false,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "Collins",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "[英-汉] 《新概念英語句典》[5486](090523)",
+                        "dict_unique": "84ab049eac4a7ffbc5578b14165a4553",
+                        "fld_name": "简明",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "cloze_str": "{{c1::%s}}",
+    "dicts": {
+        "Baicizhan": {
+            "enabled": true
+        },
+        "BaiduFy": {
+            "enabled": true
+        },
+        "Baidu_Chinese": {
+            "enabled": true
+        },
+        "Bing": {
+            "enabled": true
+        },
+        "BingXtk": {
+            "enabled": true
+        },
+        "Bing_Images": {
+            "enabled": false
+        },
+        "CambridgeCS": {
+            "enabled": true
+        },
+        "CambridgeCT": {
+            "enabled": false
+        },
+        "CambridgeEE": {
+            "enabled": true
+        },
+        "Dreye": {
+            "enabled": true
+        },
+        "Esdict": {
+            "enabled": true
+        },
+        "Eudict": {
+            "enabled": true
+        },
+        "Frdic": {
+            "enabled": false
+        },
+        "ICIBA": {
+            "enabled": true
+        },
+        "Ldoce6": {
+            "enabled": true
+        },
+        "Longman": {
+            "enabled": false
+        },
+        "Ludwig": {
+            "enabled": true
+        },
+        "MiniDict": {
+            "enabled": true
+        },
+        "Oxford": {
+            "enabled": true
+        },
+        "OxfordLearning": {
+            "enabled": true
+        },
+        "RemoteMdx": {
+            "enabled": true
+        },
+        "TxtTest": {
+            "enabled": true
+        },
+        "Vocabulary": {
+            "enabled": true
+        },
+        "Yahoo_Dict": {
+            "enabled": false
+        },
+        "Youdao": {
+            "enabled": true
+        },
+        "Youdaofr": {
+            "enabled": false
+        },
+        "Youdaoko": {
+            "enabled": false
+        }
+    },
+    "dirs": [
+        "D:/data/dict/oalecd8e",
+        "D:/data/dict/LDOCE6full",
+        "D:/data/dict",
+        "D:/data/dict/LDOCE5 2.15 up",
+        "D:/data/temp/makedict",
+        "/Users/atwoodlae/Downloads/share/dict"
+    ],
+    "export_media": false,
+    "force_update": true,
+    "ignore_accents": false,
+    "ignore_mdx_wordcase": true,
+    "last_folder": "/Users/atwoodlae/Downloads/share/dict",
+    "last_model": 1539170905806,
+    "sound_str": "[sound:{0}]",
+    "thread_number": 2,
+    "use_filename": true,
+    "version": "v2.0.0b",
+    "用户1_last": 1539170905806
+}

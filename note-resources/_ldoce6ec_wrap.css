@@ -1,0 +1,894 @@
+._ldoce6ec * {
+    font-size: 100%;
+}
+._ldoce6ec .abbr {
+  font-weight: bold;
+}
+._ldoce6ec .ac,
+._ldoce6ec .ac {
+  padding-left: 2px;
+  padding-right: 2px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec .add_exa {
+  font-style: italic;
+  display: block;
+}
+._ldoce6ec .amequiv {
+  font-weight: bold;
+}
+._ldoce6ec .arrow {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 2px;
+  font-size: smaller;
+}
+._ldoce6ec .at-link {
+  border: 1px solid #e4e4e4;
+  border-radius: 9px;
+  padding: 0.1em 0.5em;
+  margin: 0.5em 0;
+  background-color: rgba(199, 110, 6, 0.1);
+}
+._ldoce6ec .at-link {
+  display: none;
+}
+._ldoce6ec .badcollo {
+  text-decoration: line-through;
+}
+._ldoce6ec .badexa {
+  text-decoration: line-through;
+  font-style: italic;
+}
+._ldoce6ec .brequiv {
+  font-weight: bold;
+}
+._ldoce6ec .buttons {
+  display: block;
+}
+._ldoce6ec .chwd .hw {
+  color: white;
+}
+._ldoce6ec .chwd a {
+  display: inline-block;
+  background-color: #2494f5;
+  border-color: #357ebd;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 3px;
+  text-decoration: none;
+  font-size: 80%;
+  border-radius: 2px;
+}
+._ldoce6ec .chwd {
+  margin-top: 0;
+  border-bottom: 1px dotted darkgray;
+}
+._ldoce6ec .collo {
+  font-weight: bold;
+  font-size: 110%;
+  color: #C00000;
+}
+._ldoce6ec .collo collot{
+  font-weight: 400;
+  font-size: 70%;
+  color: black;
+}
+._ldoce6ec .collo colloc{
+  font-weight: 400;
+  font-size: 70%;
+  color: black;
+}
+._ldoce6ec .collobox .section {
+  background-color: #f7f8f9;
+}
+._ldoce6ec .collobox,
+._ldoce6ec .thesbox,
+._ldoce6ec .usagebox,
+._ldoce6ec .grambox,
+._ldoce6ec .f2nbox {
+  border-radius: 2px;
+  border-width: 1px;
+  display: block;
+  margin-bottom: 1ex;
+  clear: both;
+  margin-top: 1ex;
+  padding-left: 3px;
+  border-style: solid;
+}
+._ldoce6ec .collobox {
+  background-color: #1d3e99;
+  border-color: #1d3e99;
+}
+._ldoce6ec .colloc.key {
+  color: blue;
+}
+._ldoce6ec .colloc {
+  font-weight: bold;
+}
+._ldoce6ec .collocate,
+._ldoce6ec .exponent {
+  display: block;
+  margin-top: 5px;
+}
+._ldoce6ec .collocate.inline {
+  display: inline;
+}
+._ldoce6ec .collocations .colloc {
+  display: inline-block;
+  font-weight: bold;
+  margin-left: -2px;
+}
+._ldoce6ec .collocations .last {
+  margin-bottom: 20px;
+}
+._ldoce6ec .colloexa {
+  display: block;
+}
+._ldoce6ec .colloinexa {
+  color: #0070C0;
+  font-style: italic;
+  font-weight: 600;
+  text-decoration: underline;
+}
+._ldoce6ec .comp {
+  font-weight: bold;
+}
+._ldoce6ec .compareword {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+._ldoce6ec .cross {
+  color: red;
+  font-weight: bold;
+}
+._ldoce6ec .cyan {
+  color: #00a2e8;
+  font-size: larger;
+}
+._ldoce6ec .def {
+  color: black;
+}
+._ldoce6ec .def en {
+  font-weight: 600;
+  font-size: 100%;
+  color: black;
+}
+._ldoce6ec .def tran{
+  font-weight: 400;
+  font-size: 80%;
+  color: black;
+}
+._ldoce6ec .defbold {
+  font-weight: bold;
+}
+._ldoce6ec .deriv {
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec .dict-faq img[src*="cover"] {
+  max-height: 8em;
+}
+._ldoce6ec .entry div.content {
+  display: none;
+  margin-bottom: 10px;
+}
+._ldoce6ec .entry,
+._ldoce6ec .entry.lozenge,
+._ldoce6ec .verbtable {
+  
+}
+._ldoce6ec .entry {
+  line-height: 150%;
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000;
+}
+._ldoce6ec .errorbox {
+  display: block;
+}
+._ldoce6ec .etymbox {
+  margin-top: 1em;
+  display: block;
+}
+._ldoce6ec .etymology {
+  margin-top: 10px;
+}
+._ldoce6ec .etymorigin {
+  font-style: italic;
+}
+._ldoce6ec .etymrefhom {
+  font-size: 80%;
+  vertical-align: super;
+  font-style: normal;
+}
+._ldoce6ec .etymrefhwd {
+  font-style: italic;
+}
+._ldoce6ec .etymsense {
+  display: block;
+}
+._ldoce6ec .etymtran {
+  font-weight: bold;
+}
+._ldoce6ec .example {
+  font-style: normal;
+  display: block;
+  color: #0eadad;
+  
+  padding-left: 10px;
+  font-weight: normal;
+}
+
+._ldoce6ec .example example{
+  color: gray;
+  font-size: 80%;
+}
+
+._ldoce6ec .exp {
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec .expandable {
+  cursor: pointer;
+}
+._ldoce6ec .expl {
+  display: block; 
+}
+._ldoce6ec .expr {
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec .f2nbox .heading {
+  color: #0576d0;
+}
+._ldoce6ec .f2nbox {
+  border-color: #949090;
+}
+._ldoce6ec .freq,
+._ldoce6ec .freq {
+  padding-left: 2px;
+  padding-right: 2px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: red;
+}
+._ldoce6ec .frequent {
+  color: red;
+}
+._ldoce6ec .fullform {
+  font-weight: bold;
+}
+._ldoce6ec .geo,
+._ldoce6ec span.geo {
+  font-weight: normal;
+  font-style: normal;
+  color: #0088DD;
+  font-size: 95%;
+}
+._ldoce6ec .gloss,
+._ldoce6ec .collgloss {
+  font-weight: normal;
+  font-style: normal;
+  color: black;
+}
+._ldoce6ec .goodcollo {
+  font-weight: bold;
+}
+._ldoce6ec .gram {
+  color: #737573;
+  font-size: 100%;
+  color: green;
+}
+._ldoce6ec .grambox .expl,
+._ldoce6ec .grambox .compareword {
+  background-color: #e2f4fd;
+  display: block;
+  padding-left: 3px;
+}
+._ldoce6ec .grambox .heading.newline {
+  background-color: #6cd0f6;
+}
+._ldoce6ec .grambox {
+  background-color: #00adee;
+  border-color: #00adee;
+}
+._ldoce6ec .grammar {
+  display: block;
+}
+._ldoce6ec .gramrefcont {
+  display: block;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  padding-left: 3px;
+  padding-bottom: 1px;
+}
+._ldoce6ec .group .pos {
+  font-weight: bold;
+  display: block;
+}
+._ldoce6ec .group,
+._ldoce6ec .w {
+  display: block;
+}
+._ldoce6ec .group {
+  margin-top: 10px;
+}
+._ldoce6ec .header {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+._ldoce6ec .heading.newline {
+  display: block;
+}
+._ldoce6ec .heading {
+  font-weight: bold;
+  line-height: 100%;
+  font-variant: all-small-caps;
+  font-size: 120%;
+  color: white;
+}
+._ldoce6ec .hint .expl {
+  display: inline;
+}
+._ldoce6ec .hintbold {
+  font-weight: bold;
+}
+._ldoce6ec .hintitalic {
+  font-style: italic;
+}
+._ldoce6ec .homnum {
+  vertical-align: super;
+  font-size: 8pt;
+  color: blue;
+  font-weight: bold;
+}
+._ldoce6ec .hs0:before {
+  content: "Ã¢â‚¬Â§";
+}
+._ldoce6ec .hwd {
+  display: none;
+}
+._ldoce6ec .hyphenation {
+  font-weight: bold;
+  font-size: 130%;
+  color: #FF0000;
+}
+._ldoce6ec .imgholder img {
+  max-height: 4em;
+}
+._ldoce6ec .imgholder {
+  cursor: pointer;
+  display: block;
+  margin-bottom: 1ex;
+  padding: 2px;
+  clear: both;
+}
+._ldoce6ec .item {
+  display: block;
+}
+._ldoce6ec .last {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+._ldoce6ec .level {
+  color: red;
+  font-size: 100%;
+}
+._ldoce6ec .lexunit {
+  font-weight: bold;
+  font-size: 110%;
+  color: #C00000;
+}
+._ldoce6ec .lexvar {
+  font-weight: bold;
+  color: #C00000
+}
+._ldoce6ec .linkword {
+  font-style: italic;
+}
+._ldoce6ec .menuitem .signpost {
+  background-color: transparent;
+  color: black;
+  margin-left: 0;
+  font-size: 90%;
+}
+._ldoce6ec .menuitem {
+  display: block;
+}
+._ldoce6ec .nodeword {
+  color: #0070C0;
+  font-style: italic;
+  font-weight: 600;
+  text-decoration: underline;
+}
+._ldoce6ec .no-sound img {
+  border: 1px solid gray;
+  border-radius: 3px;
+  max-height: 0.9em;
+}
+._ldoce6ec .opp {
+  font-weight: bold;
+  font-size: 110%;
+  color: #FF0000;
+}
+._ldoce6ec .orthvar {
+  font-weight: bold;
+}
+._ldoce6ec .pastpart {
+  font-weight: bold;
+  color: #FF0000;
+}
+._ldoce6ec .pasttense {
+  font-weight: bold;
+}
+._ldoce6ec .phrase {
+  display: block;
+}
+._ldoce6ec .phrasetext {
+  font-weight: bold;
+}
+._ldoce6ec .phrv {
+  font-weight: bold;
+}
+._ldoce6ec .phrvbentry {
+  display: block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+._ldoce6ec .phrvbhwd {
+  font-weight: bold;
+  color: #C00000;
+  font-size: 125%;
+}
+._ldoce6ec .phrvbs .heading {
+  display: block;
+  color: blue;
+  font-weight: bold;
+}
+._ldoce6ec .phrvbs {
+  display: block;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+._ldoce6ec .pluralform {
+  font-weight: bold;
+}
+._ldoce6ec .popheader.popcollo {
+  background-color: #1d3e99;
+}
+._ldoce6ec .popheader.pope_menu {
+  background-color: #57c0e0;
+}
+._ldoce6ec .popheader.popetym {
+  background-color: green;
+}
+._ldoce6ec .popheader.popexa {
+  background-color: red;
+}
+._ldoce6ec .popheader.popphrase {
+  background-color: purple;
+}
+._ldoce6ec .popheader.popthes {
+  background-color: #652d91;
+}
+._ldoce6ec .popheader.popwf {
+  background-color: #ffd448;
+}
+._ldoce6ec .popheader {
+  display: block;
+  color: white;
+  font-weight: bold;
+  padding-left: 3px;
+}
+._ldoce6ec .popup-button:hover {
+  cursor: pointer;
+}
+._ldoce6ec .popup-button {
+  border-radius: 2px;
+  border: 1px solid #7e92c7;
+  color: #7e92c7;
+  font-size: 90%;
+  padding: 0px 2px 0px 2px;
+  display: inline-block;
+  line-height: 120%;
+  margin-right: 2px;
+  font-variant: all-small-caps;
+  margin-bottom: 3px;
+}
+._ldoce6ec .popup-button {
+  user-select: none;
+}
+._ldoce6ec .popup-button-hover {
+  background-color: #dfe3f8;
+  cursor: pointer;
+}
+._ldoce6ec .popverbs {
+  display: block;
+  color: white;
+  font-weight: bold;
+  background-color: #ec008d;
+  padding-left: 3px;
+  margin-bottom: 5px;
+}
+._ldoce6ec .pos {
+  font-style: italic;
+  color: #04a00a;
+  font-weight: normal;
+  font-size: 100%;
+}
+._ldoce6ec .prespart {
+  font-weight: bold;
+}
+._ldoce6ec .pronstrong {
+  font-style: italic;
+}
+._ldoce6ec .propform {
+  font-weight: bold;
+  font-size: 125%;
+  display: block;
+  color: #C00000;
+}
+._ldoce6ec .propformprep {
+  font-weight: bold;
+  font-size: 110%;
+  display: block;
+  color: #9A00C0;
+}
+._ldoce6ec .ptandpp {
+  font-weight: bold;
+}
+._ldoce6ec .refhomnum {
+  vertical-align: super;
+  font-size: 60%;
+}
+._ldoce6ec .refhwd,
+._ldoce6ec .refsensenum {
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+._ldoce6ec .reflex {
+  font-weight: bold;
+}
+._ldoce6ec .refsensenum {
+  font-size: 80%;
+}
+._ldoce6ec .registerlab {
+  font-style: normal;
+  color: #0088DD;
+  font-size: 95%;
+}
+._ldoce6ec .relatedwd {
+  font-weight: bold;
+}
+._ldoce6ec .runon {
+  display: block;
+  margin-top: 8px;
+}
+._ldoce6ec .secheading,
+._ldoce6ec .subheading {
+  text-transform: uppercase;
+}
+._ldoce6ec .secheading.no_convert {
+  text-transform: none;
+}
+._ldoce6ec .section {
+  display: block;
+  padding: 0 3px;
+}
+._ldoce6ec .sense {
+  display: block;
+}
+._ldoce6ec .signpost {
+  color: white;
+  background-color: #FF4500;
+  margin-left: 0.2em;
+  font-weight: 600;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  font-size: 85%;
+  padding: 1px 3px 1px 3px;
+}
+._ldoce6ec .spokensect {
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 2px;
+  display: block;
+  margin-bottom: 1ex;
+  clear: both;
+  margin-top: 1ex;
+  border-color: #00a2e8;
+  padding: 3px;
+}
+._ldoce6ec .spokensecthead {
+  display: block;
+  color: #00a2e8;
+  font-weight: bold;
+}
+._ldoce6ec .str {
+  font-size: large;
+  font-weight: bold;
+}
+._ldoce6ec .subheading,
+._ldoce6ec .secheading {
+  display: block;
+  font-weight: bold;
+  font-weight: bold;
+  color: white;
+  background-color: #8187BF;
+  margin-left: -3px;
+  margin-right: -3px;
+  font-variant: small-caps;
+  padding-left: 3px;
+}
+._ldoce6ec .subsense {
+  display: block;
+}
+._ldoce6ec .superl {
+  font-weight: bold;
+}
+._ldoce6ec .syn {
+  font-weight: bold;
+  font-size: 110%;
+  color: #FF0000;
+}
+._ldoce6ec .t3perssing {
+  font-weight: bold;
+}
+._ldoce6ec .thesaurus .secheading,
+._ldoce6ec .thesbox .secheading {
+  background-color: #a186bd;
+}
+._ldoce6ec .thesaurus .section,
+._ldoce6ec .collocations .section {
+  margin-bottom: 10px;
+}
+._ldoce6ec .thesaurus .sense {
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-top: 0;
+}
+._ldoce6ec .thesbox .section {
+  background-color: #f7f6f9;
+}
+._ldoce6ec .thesbox {
+  background-color: #652d91;
+  border-color: #652d91;
+}
+._ldoce6ec .thespropform {
+  font-weight: bold;
+}
+._ldoce6ec .thesref .refhwd,
+._ldoce6ec .thesref .refhomnum {
+  color: blue;
+  font-weight: bold;
+}
+._ldoce6ec .thesref span.thesaurus {
+  color: blue;
+  font-variant: small-caps;
+}
+._ldoce6ec .thesref.newline {
+  display: block;
+}
+._ldoce6ec .usagebox .expl {
+  background-color: #e2f4fd;
+}
+._ldoce6ec .usagebox {
+  background-color: #00a2e8;
+  border-color: #00a2e8;
+}
+._ldoce6ec .verbtable .aux {
+  font-weight: bold;
+}
+._ldoce6ec .verbtable .geo {
+  font-style: italic;
+  color: #000;
+  font-size: 100%;
+  font-weight: normal;
+}
+._ldoce6ec .verbtable .lemma {
+  color: blue;
+  font-size: 120%;
+  font-weight: bold;
+}
+._ldoce6ec .verbtable .verb_form {
+  color: blue;
+  font-weight: bold;
+}
+._ldoce6ec .verbtable table {
+  border-collapse: separate;
+  border-spacing: 1px;
+  margin-top: 10px;
+}
+._ldoce6ec .verbtable td.col1 {
+  font-weight: bold;
+}
+._ldoce6ec .verbtable td.col2 {
+  font-style: italic;
+}
+._ldoce6ec .verbtable td {
+  padding: 0 5px 0 2px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d2d2d2;
+}
+._ldoce6ec .w {
+  font-weight: bold;
+}
+._ldoce6ec .ws-head.ref {
+  display: block;
+  margin-top: 10px;
+}
+._ldoce6ec .ws-head {
+  font-weight: bold;
+  color: blue;
+  font-size: larger;
+}
+._ldoce6ec .wswd {
+  font-weight: bold;
+  display: block;
+}
+._ldoce6ec a:hover {
+  text-decoration: underline;
+}
+._ldoce6ec a {
+  color: #36f;
+  text-decoration: none;
+}
+._ldoce6ec COLLOC {
+  margin-left: 5px;
+}
+._ldoce6ec COLLOCEN {
+}
+._ldoce6ec COLLOT {
+  margin-left: 5px;
+}
+._ldoce6ec COLLOTEN {
+}
+._ldoce6ec EN {
+}
+._ldoce6ec Error {
+  margin-left: 5px;
+}
+._ldoce6ec ErrorEN {
+}
+._ldoce6ec EXAEN {
+}
+._ldoce6ec EXAMPLE {
+  margin-left: 5px;
+  font-style: normal;
+}
+._ldoce6ec F2N {
+  
+}
+._ldoce6ec F2NEN {
+}
+._ldoce6ec Gram {
+  margin-left: 5px;
+}
+._ldoce6ec GramEN {
+}
+._ldoce6ec HINT {
+  margin-left: 5px;
+}
+._ldoce6ec HintEN {
+}
+._ldoce6ec i {
+  font-style: normal;
+}
+._ldoce6ec img[src*="spkr_"] {
+  max-height: 1em;
+  margin-bottom: -3px;
+  margin-right: 2px;
+  display: none;
+}
+._ldoce6ec img[src*="spkr_g"] {
+  max-height: 0.7em;
+  margin-bottom: 0;
+}
+._ldoce6ec img[src*="img/spkr_b"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("b.png");
+}
+._ldoce6ec img[src*="img/spkr_g"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("g.png");
+}
+._ldoce6ec img[src*="img/spkr_r"] {
+  max-width: 15px;
+  max-height: 15px;
+  content: url("r.png");
+}
+
+._ldoce6ec object {
+  font-weight: normal;
+}
+._ldoce6ec SIGN {
+  margin-left: 5px;
+}
+._ldoce6ec SIGNEN {
+}
+._ldoce6ec span.infllab {
+  font-style: italic;
+  font-weight: normal;
+}
+._ldoce6ec span.italic {
+  color: black;
+  font-style: italic;
+  font-weight: normal;
+}
+._ldoce6ec span.keycollo {
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec span.neutral {
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  color: black;
+  text-decoration: none;
+}
+._ldoce6ec span.sensenum {
+  font-style: normal;
+  color: #0088DD;
+  padding-right: 3px;
+  font-weight: 600;
+}
+._ldoce6ec span.synopp {
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 2px 2px 2px 2px;
+  border-style: solid;
+  border-width: 1px;
+  font-variant: small-caps;
+  font-size: 80%;
+  font-weight: bold;
+  color: blue;
+}
+._ldoce6ec span.warning {
+  font-style: normal;
+  font-weight: bold;
+  color: red;
+}
+._ldoce6ec span[onclick*="toggle"] {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+._ldoce6ec TRAN {
+  margin-left: 5px;
+}
+._ldoce6ec ul.exas li {
+  font-style: italic;
+  color: black;
+}
+._ldoce6ec ul.exas {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 2em;
+  padding-right: 1em;
+}
+._ldoce6ec Usage {
+  margin-left: 5px;
+}
+._ldoce6ec UsageEN {
+}

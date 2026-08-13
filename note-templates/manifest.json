@@ -1,48 +1,23 @@
 {
   "models": [
     {
-      "model_name": "Greek",
-      "path": "01-Greek",
-      "cards": 1
-    },
-    {
       "model_name": "NCE Extra",
-      "path": "02-NCE Extra",
-      "cards": 1
-    },
-    {
-      "model_name": "NCE Phrase Notes",
-      "path": "03-NCE Phrase Notes",
-      "cards": 1
-    },
-    {
-      "model_name": "NCE Word Notes",
-      "path": "04-NCE Word Notes",
+      "path": "01-NCE Extra",
       "cards": 1
     },
     {
       "model_name": "单词基本模板",
-      "path": "05-单词基本模板",
+      "path": "02-单词基本模板",
       "cards": 3
-    },
-    {
-      "model_name": "单词模板full",
-      "path": "06-单词模板full",
-      "cards": 3
-    },
-    {
-      "model_name": "图片遮盖",
-      "path": "07-图片遮盖",
-      "cards": 1
     },
     {
       "model_name": "新概念英语课文",
-      "path": "08-新概念英语课文",
+      "path": "03-新概念英语课文",
       "cards": 1
     },
     {
       "model_name": "词根词缀模板",
-      "path": "09-词根词缀模板",
+      "path": "04-词根词缀模板",
       "cards": 1
     }
   ]

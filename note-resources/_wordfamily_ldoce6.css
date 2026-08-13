@@ -1,0 +1,179 @@
+.entry{line-height:150%;color:#000;display:block}
+.abbr{font-weight:700}
+.ac{padding-left:2px;padding-right:2px;border-radius:2px 2px 2px 2px;border-style:solid;border-width:1px;font-variant:small-caps;font-size:80%;font-weight:700;color:#00f}
+.amequiv{font-weight:700}
+.brequiv{font-weight:700}
+.collo{font-weight:700}
+.colloexa{display:block}
+.colloinexa{font-style:italic;font-weight:700}
+.comp{font-weight:700}
+.deriv{font-weight:700;color:#00f}
+.errorbox{display:block}
+.etymsense{display:block}
+.etymrefhwd{font-style:italic}
+.etymrefhom{font-size:80%;vertical-align:super;font-style:normal}
+.etymorigin{font-style:italic}
+.etymtran{font-weight:700}
+.etymbox{margin-top:1em;display:block}
+.example{font-style:italic;display:block;color:#00f}
+.freq{padding-left:2px;padding-right:2px;border-radius:2px 2px 2px 2px;border-style:solid;border-width:1px;font-variant:small-caps;font-size:80%;font-weight:700;color:red}
+.level{color:red;font-size:160%}
+.fullform{font-weight:700}
+.geo,span.geo{font-weight:400;font-style:italic;color:purple}
+.collgloss,.gloss{font-weight:400;font-style:normal;color:#000}
+.gram{color:green}
+.hintbold{font-weight:700}
+.hintitalic{font-style:italic}
+hinttitle{font-weight:700}
+.homnum{vertical-align:super;font-size:8pt;color:#00f;font-weight:700}
+.hwd{display:none}
+.hyphenation{font-weight:700;font-size:120%;color:#00f}
+.frequent{color:red}
+.lexunit{font-weight:700}
+.lexvar{font-weight:700}
+.linkword{font-style:italic}
+note{display:block}
+object{font-weight:400}
+.opp{font-weight:700}
+.orthvar{font-weight:700}
+.pastpart{font-weight:700}
+pastpartx{font-weight:700}
+.pasttense{font-weight:700}
+pasttensex{font-weight:700}
+.phrvbentry{display:block;margin-top:10px;margin-left:10px}
+.phrvbhwd{font-weight:700;color:#00f}
+.pluralform{font-weight:700}
+.pos{font-style:italic;color:green;font-weight:400}
+.prespart{font-weight:700}
+prespartx{font-weight:700}
+.propform{font-weight:700;display:block}
+.propformprep{font-weight:700;display:block}
+.ptandpp{font-weight:700}
+ptandppx{font-weight:700}
+.refhomnum{vertical-align:super;font-size:60%}
+.refhwd,.refsensenum,refsense{font-style:normal;font-variant:small-caps;text-transform:lowercase}
+.refsensenum{font-size:80%}
+crossrefto .reflex{display:none}
+.reflex{font-weight:700}
+.registerlab{font-style:italic;color:purple}
+.relatedwd{font-weight:700}
+.runon{display:block;margin-top:8px}
+.sense{display:block;margin-bottom:14px;margin-top:6px}
+.signpost{color:#fff;background-color:#35a3ff;margin-left:.5em;font-weight:700;font-variant:small-caps;text-transform:uppercase;font-size:80%;padding:1px 2px 1px 1px}
+.spokensect{border-top:solid;border-bottom:solid;border-width:2px;display:block;margin-bottom:1ex;clear:both;margin-top:1ex;border-color:#00a2e8;padding:3px}
+.spokensecthead{display:block;color:#00a2e8;font-weight:700}
+.pronstrong{font-style:italic}
+.subsense{display:block}
+.superl{font-weight:700}
+.syn{font-weight:700}
+.t3perssing{font-weight:700}
+t3perssingx{font-weight:700}
+unclassified{font-weight:700}
+span.neutral{font-style:normal;font-weight:400;font-variant:normal;color:#000;text-decoration:none}
+.cross{color:red;font-weight:700}
+span.italic{color:#000;font-style:italic;font-weight:400}
+.badexa{text-decoration:line-through;font-style:italic}
+.hint .expl{display:inline}
+span.infllab{font-style:italic;font-weight:400}
+span.warning{font-style:normal;font-weight:700;color:red}
+span.sensenum{font-style:normal;font-weight:700;margin-right:3px;color:#00f}
+span.synopp{padding-left:3px;padding-right:3px;border-radius:2px 2px 2px 2px;border-style:solid;border-width:1px;font-variant:small-caps;font-size:80%;font-weight:700;color:#00f}
+.secheading,.subheading{display:block;font-weight:700;font-weight:700;color:#fff;background-color:#8187bf;margin-left:-3px;margin-right:-3px;font-variant:small-caps;padding-left:3px}
+.collocate,.exponent{display:block;padding-bottom:5px;margin-top:5px}
+.collocate.inline{display:inline}
+.expl{display:block;padding:0 3px}
+.colloc{font-weight:700}
+.exp{font-weight:700}
+.expr{font-weight:700}
+.colloc.key{color:#00f}
+span.keycollo{font-weight:700;color:#00f}
+.thespropform{font-weight:700}
+collexa{font-style:italic}
+collexa .colloinexa{font-weight:400}
+thesexa{font-style:italic}
+learneritem{display:block}
+.goodcollo{font-weight:700}
+.badcollo{text-decoration:line-through}
+.defbold{font-weight:700}
+topic{font-variant:small-caps;color:#00f}
+.thesref.newline{display:block}
+.heading.newline{display:block}
+.thesref span.thesaurus{color:#00f;font-variant:small-caps}
+.thesref .refhomnum,.thesref .refhwd{color:#00f;font-weight:700}
+i{font-style:italic}
+.imgholder{cursor:pointer;display:block;margin-bottom:1ex;padding:2px;clear:both}
+.imgholder img{border:1px solid #ddd}
+.buttons{display:block}
+.popup-button{background-color:#f0f2fc;border-radius:2px;border:1px solid #7e92c7;color:#7e92c7;text-transform:uppercase;font-size:66%;padding:2px 3px;text-decoration:none}
+.popup-button-hover{background-color:#dfe3f8;cursor:pointer}
+.popverbs{display:block;color:#fff;font-weight:700;background-color:#ec008d;padding-left:3px;margin-bottom:5px}
+.verbtable .lemma{color:#00f;font-size:120%;font-weight:700}
+.verbtable table{border-collapse:separate;border-spacing:1px;margin-top:10px}
+.verbtable td{padding:0 5px 0 2px;border-style:solid;border-width:1px;border-color:#d2d2d2}
+.header{font-weight:700;font-variant:small-caps}
+.verbtable td.col1{font-weight:700}
+.verbtable td.col2{font-style:italic}
+.verbtable .geo{font-style:italic;color:#000;font-size:normal;font-weight:400}
+.verbtable .aux{font-weight:700}
+.verbtable .verb_form{color:#00f;font-weight:700}
+.collocations .last{margin-bottom:20px}
+.collocations .colloc{display:inline-block;font-weight:700;margin-left:-2px}
+.collobox,.f2nbox,.grambox,.thesbox,.usagebox,spoken{border-radius:9px 9px 9px 9px;border-style:solid;border-width:2px;display:block;margin-bottom:1ex;clear:both;margin-top:1ex}
+.f2nbox{border-color:#00a2e8}
+.f2nbox .heading{color:#00a2e8}
+.heading{color:#fff;font-weight:700;line-height:100%;padding:3px}
+.section{display:block;padding:0 3px}
+.last{border-bottom-left-radius:9px;border-bottom-right-radius:9px}
+.thesbox{background-color:#652d91;border-color:#652d91}
+.thesbox .section{background-color:#e8e2f0}
+.collobox{background-color:#1d3e99;border-color:#1d3e99}
+.collobox .section{background-color:#e2f4fd}
+.usagebox{background-color:#00a2e8;border-color:#00a2e8}
+.usagebox .expl{background-color:#e2f4fd}
+.grambox{background-color:#00adee;border-color:#00adee}
+.grambox .compareword,.grambox .expl{background-color:#e2f4fd;display:block;padding-left:3px}
+.compareword{padding-top:5px;padding-bottom:5px}
+.gramrefcont{display:block;text-transform:lowercase;font-variant:small-caps;padding-left:3px;padding-bottom:1px}
+.thesaurus .sense{padding-left:3px;padding-right:3px;margin-top:0}
+.collocations .section,.thesaurus .section{margin-bottom:10px}
+.thesaurus .secheading,.thesbox .secheading{background-color:#a186bd}
+.add_exa{font-style:italic;display:block}
+.nodeword{color:#00f;font-weight:700}
+.phrase{display:block}
+.phrasetext{font-weight:700}
+.expandable{cursor:pointer}
+.entry div.content{display:none;margin-bottom:10px}
+.group,.w{display:block}
+.group .pos{font-weight:700;display:block}
+.item{display:block}
+.w{font-weight:700}
+.popheader{display:block;color:#fff;font-weight:700;padding-left:3px}
+.popheader.popexa{background-color:red}
+.popheader.popphrase{background-color:purple}
+.popheader.popcollo{background-color:#1d3e99}
+.popheader.popthes{background-color:#652d91}
+.popheader.popetym{background-color:green}
+.popheader.popwf{background-color:#ffd448}
+.popheader.pope_menu{background-color:#57c0e0}
+.ws-head{font-weight:700;color:#00f;font-size:larger}
+.ws-head.ref{display:block;margin-top:10px}
+.wswd{font-weight:700;display:block}
+.cyan{color:#00a2e8;font-size:larger}
+.menuitem{display:block}
+ul.exas li{font-style:italic;color:#00f;margin-bottom:3px}
+.grammar{display:block}
+.str{font-size:large;font-weight:700}
+.etymology{margin-top:10px}
+.group{margin-top:10px}
+.menuitem .signpost{background-color:#fff;color:#000;margin-left:0;font-size:90%}
+.phrvbs{display:block;margin-top:10px;margin-left:5px}
+.phrvbs .heading{display:block;color:#00f;font-weight:700}
+.phrv{font-weight:700}
+.secheading,.subheading{font-variant:normal;text-transform:uppercase}
+.secheading.no_convert{text-transform:none}
+.grambox .heading.newline{background-color:#6cd0f6}
+img[src*="img/spkr_"]{margin-bottom:-5px}
+.chwd{margin-top:10px;margin-left:8px;margin-right:8px}
+.chwd a{display:inline-block;background-color:green;color:#fff;padding-top:2px;padding-bottom:3px;padding-left:5px;padding-right:5px;margin-right:3px;margin-bottom:3px;text-decoration:none;font-size:80%;border-radius:2px}
+.chwd .hw{color:#fff}
+.entry,.entry.lozenge,.verbtable{margin-top:10px;margin-left:10px;margin-right:10px}
