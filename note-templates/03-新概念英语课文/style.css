@@ -8,7 +8,11 @@
  font-size: 20px;
  text-align: center;
  background-color: white;
- line-height: 25px; 
+ line-height: 25px;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	min-height: calc(100vh - 16px);
 }
 
 h1 {
@@ -79,7 +83,7 @@ h1 {
 }
 
 .english-anchor-footer {
-	margin: 28px 0 8px;
+	margin: auto 0 8px;
 	padding-top: 10px;
 	border-top: 1px solid #e5e7eb;
 	font-size: 11px;
