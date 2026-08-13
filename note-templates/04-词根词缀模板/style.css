@@ -4,10 +4,6 @@
 	color: black;
 	background-color: white;
 	line-height: 15px;
-	box-sizing: border-box;
-	display: flex;
-	flex-direction: column;
-	min-height: calc(100vh - 16px);
 }
 @font-face { font-family: kt; src: url('_kt.ttf'); }
 @font-face { font-family: times; src: url('_times.ttf'); }
@@ -60,8 +56,8 @@ h1 {
 }
 
 .english-anchor-footer {
-	margin: auto 0 8px;
-	padding-top: 10px;
+	margin: 28px 0 8px;
+	padding: 10px 0 0;
 	border-top: 1px solid #e5e7eb;
 	font-size: 11px;
 	line-height: 1.4;
@@ -70,3 +66,9 @@ h1 {
 }
 .english-anchor-footer a { color: #1686b8; text-decoration: none; }
 .english-anchor-footer span::before { content: " · "; color: #b0b5bd; }
+.english-anchor-footer--sticky {
+	position: sticky;
+	bottom: 0;
+	background: white;
+	z-index: 1;
+}

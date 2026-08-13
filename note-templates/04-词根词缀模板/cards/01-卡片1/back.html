@@ -78,6 +78,20 @@
     script.src   = "colcobuildoverhaul_config.ini";
     document.getElementsByTagName('head')[0].appendChild(script);
 </script>
+<script type="text/javascript">
+(function () {
+  function spaceFooter() {
+    var footer = document.querySelector('.english-anchor-footer');
+    if (!footer) return;
+    footer.style.marginTop = '';
+    var gap = window.innerHeight - footer.getBoundingClientRect().bottom - 8;
+    if (gap > 0) footer.style.marginTop = (28 + gap) + 'px';
+  }
+  spaceFooter();
+  setTimeout(spaceFooter, 100);
+  window.addEventListener('resize', spaceFooter);
+})();
+</script>
 <footer class="english-anchor-footer">
   <a href="https://englishanchor.online">English Anchor</a>
   <span>英语学习资源</span>
