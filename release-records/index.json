@@ -12,6 +12,17 @@
   "statusValues": {
     "published": "公开 Release 和可下载 APKG 均有效。"
   },
+  "resources": [
+    {
+      "id": "anki-note-resources",
+      "type": "note-resources",
+      "name": "Anki 样式资源包",
+      "description": "卡片模板依赖的 CSS、JavaScript 和配置文件；解压到 Anki 用户数据目录下对应账户的 collection.media。",
+      "latestVersion": "note-resources-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/note-resources-v1.0.0",
+      "versions": ["note-resources-v1.0.0"]
+    }
+  ],
   "decks": [
     {
       "id": "nce2-practice-and-progress",
@@ -142,6 +153,23 @@
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg"
       },
       "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "note-resources-v1.0.0",
+      "type": "note-resources",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-14",
+      "title": "Anki 样式资源包 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/note-resources-v1.0.0",
+      "asset": {
+        "fileName": "AnkiShare-note-resources-v1.0.0.zip",
+        "sizeBytes": 281273,
+        "sizeMiB": 0.27,
+        "sha256": "46c0a1a5c809b754649049bcbb3d6ff5bc8b56200d68a10e5ebe8b08c3ee4990",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/note-resources-v1.0.0/AnkiShare-note-resources-v1.0.0.zip"
+      },
       "websiteUrl": "https://englishanchor.online"
     }
   ]

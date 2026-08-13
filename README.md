@@ -27,6 +27,23 @@
 | NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-13 | `nce4-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg) |
 | 新概念短语 | 新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料 | 2026-08-14 | `nce-phrases-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg) |
 
+### Anki 样式资源包
+
+这不是卡组，不能通过 Anki 的“导入文件”功能导入。它是卡片模板依赖的 CSS、JavaScript 和配置文件集合，用于修复词典等外部样式在本地 Anki 中失效的问题：
+
+[下载 note-resources-v1.0.0](https://github.com/andylee1890/AnkiShare/releases/download/note-resources-v1.0.0/AnkiShare-note-resources-v1.0.0.zip)
+
+使用方法（Anki Desktop）：
+
+1. 退出 Anki，确保 Anki 已完全关闭。
+2. 打开上面的 Release 链接，下载 `AnkiShare-note-resources-v1.0.0.zip`。
+3. 找到 Anki 的用户数据目录。Windows 默认位置是 `%APPDATA%\\Anki2`，例如 `C:\\Users\\Administrator\\AppData\\Roaming\\Anki2`。
+4. 进入正在使用的账户目录，例如 `账户 1`，再进入其中的 `collection.media` 目录：`C:\\Users\\Administrator\\AppData\\Roaming\\Anki2\\账户 1\\collection.media`。
+5. 先备份 `collection.media`，然后把 ZIP 内的全部文件（以 `_` 开头的 CSS、JS、JSON、INI 文件）直接解压到这个 `collection.media` 目录的根部。解压后应当能看到类似 `账户 1\\collection.media\\_oxford.css` 的路径，不要多套一层 `note-resources` 文件夹。
+6. 重新启动 Anki，打开卡片预览或学习页面检查样式。如果你使用了多个 Anki 配置文件或账户，请把资源复制到实际使用的每个账户的 `collection.media` 中。
+
+资源包只补充媒体目录中的模板依赖，不会修改卡片内容、牌组、复习记录或 Anki 数据库；覆盖同名文件前请保留自己的备份。
+
 > 下载后请使用 Anki Desktop、AnkiMobile、AnkiDroid 或其他兼容 Anki `.apkg` 格式的应用导入。
 
 ## 这个项目是什么
@@ -45,6 +62,8 @@ Anki 仍然是本地卡片制作和最终导出的工作台。项目不依赖 An
 - `note-templates/`：从 Anki 导出的笔记类型、字段、卡片正反面模板与 CSS，可审阅、可版本控制。
 - `note-resources/`：卡片模板依赖的 CSS、JavaScript 等媒体资源标准源；维护后同步到本地 Anki 的 `collection.media`。
 - `release-records/index.json`：面向 English Anchor 网站的卡组与 Release 主索引，包含当前版本、历史版本、下载地址、文件大小和 SHA-256。
+
+样式资源包的 Release 与卡组 Release 分开维护。`note-resources-v*` 只包含可复制到 Anki `collection.media` 的模板依赖文件，不是 `.apkg` 卡组；网站读取索引时应根据 `type` 字段区分 `deck` 与 `note-resources`。
 
 ## 版本与发布
 
