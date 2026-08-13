@@ -22,7 +22,9 @@
 
 | 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| NCE2 實踐與進步（Practice & Progress） | 《新概念英语》第二册课文、句型和学习笔记 | 待发布 | 待发布 | [前往 Releases](../../releases) |
+| NCE2 實踐與進步（Practice & Progress） | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 待发布 | `nce2-v1.0.0` | [前往 Releases](../../releases) |
+| NCE3 培養技能（Developing Skills） | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 待发布 | `nce3-v1.0.0` | [前往 Releases](../../releases) |
+| NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 待发布 | `nce4-v1.0.0` | [前往 Releases](../../releases) |
 
 > 下载后请使用 Anki Desktop、AnkiMobile、AnkiDroid 或其他兼容 Anki `.apkg` 格式的应用导入。
 
@@ -31,6 +33,10 @@
 AnkiShare 是 English Anchor 的卡组制作与发布配套项目。这里维护卡片模板和发布说明；实际的 `.apkg` 文件不提交到 Git，而是作为 GitHub Release 附件发布。
 
 Anki 仍然是本地卡片制作和最终导出的工作台。项目不依赖 AnkiWeb 存储，卡组文件由项目维护者自行发布和更新。
+
+三个牌组均以课文句子为学习单位。第二册属于入门阶段，已补全四个单元的笔记；第三册和第四册提供更密集的语法、词汇、表达和知识点整理。部分句子没有额外笔记并不表示卡片缺失，而是根据句子本身的学习价值保留简洁内容。
+
+第三册的历史 AnkiWeb 页面为[新概念第三册课文【按句子背诵、带笔记】](https://ankiweb.net/shared/info/1533041577)，第四册的历史页面为[新概念第四册课文【按句子背诵、带笔记】](https://ankiweb.net/shared/info/1169581791)。历史页面中的文件和说明可能早于本项目当前版本；GitHub Releases 中的 APKG 才是当前发布文件。
 
 ## 项目内容
 
