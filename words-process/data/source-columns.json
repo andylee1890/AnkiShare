@@ -1,0 +1,567 @@
+[
+  {
+    "actual_nonblank": 852,
+    "actual_unique_casefold": 850,
+    "actual_unique_exact": 852,
+    "actual_unique_normalized": 852,
+    "column": 1,
+    "declared_count": 853,
+    "duplicate_normalized_count": 0,
+    "id": "nce1",
+    "kind": "canonical",
+    "label": "NCE1",
+    "source_header": "NCE1 Words 全部\n\n总数: 853"
+  },
+  {
+    "actual_nonblank": 802,
+    "actual_unique_casefold": 802,
+    "actual_unique_exact": 802,
+    "actual_unique_normalized": 802,
+    "column": 2,
+    "declared_count": 803,
+    "duplicate_normalized_count": 0,
+    "id": "nce2",
+    "kind": "canonical",
+    "label": "NCE2",
+    "source_header": "NCE2 Words 全部\n\n总数:803"
+  },
+  {
+    "actual_nonblank": 1032,
+    "actual_unique_casefold": 1018,
+    "actual_unique_exact": 1018,
+    "actual_unique_normalized": 1018,
+    "column": 3,
+    "declared_count": 1033,
+    "duplicate_normalized_count": 14,
+    "id": "nce3",
+    "kind": "canonical",
+    "label": "NCE3",
+    "source_header": "NCE3 Words 全部\n\n总数:1033"
+  },
+  {
+    "actual_nonblank": 781,
+    "actual_unique_casefold": 772,
+    "actual_unique_exact": 773,
+    "actual_unique_normalized": 773,
+    "column": 4,
+    "declared_count": 782,
+    "duplicate_normalized_count": 8,
+    "id": "nce4",
+    "kind": "canonical",
+    "label": "NCE4",
+    "source_header": "NCE4 Words 全部\n\n总数：782"
+  },
+  {
+    "actual_nonblank": 3466,
+    "actual_unique_casefold": 3274,
+    "actual_unique_exact": 3278,
+    "actual_unique_normalized": 3278,
+    "column": 5,
+    "declared_count": 3466,
+    "duplicate_normalized_count": 188,
+    "id": "nce1234",
+    "kind": "derived",
+    "label": "NCE1-NCE4 union",
+    "source_header": "NCE1234 Words 全部\n总数：3466",
+    "validation_rule": {
+      "inputs": [
+        "nce1",
+        "nce2",
+        "nce3",
+        "nce4"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 3024,
+    "actual_unique_casefold": 3024,
+    "actual_unique_exact": 3024,
+    "actual_unique_normalized": 3024,
+    "column": 6,
+    "declared_count": 3025,
+    "duplicate_normalized_count": 0,
+    "id": "longman_3000",
+    "kind": "canonical",
+    "label": "Longman 3000",
+    "source_header": "Longman 3000\n总数：3025"
+  },
+  {
+    "actual_nonblank": 1265,
+    "actual_unique_casefold": 1265,
+    "actual_unique_exact": 1265,
+    "actual_unique_normalized": 1265,
+    "column": 7,
+    "declared_count": 1265,
+    "duplicate_normalized_count": 0,
+    "id": "longman_academic",
+    "kind": "canonical",
+    "label": "Longman Academic",
+    "source_header": "Longman 学术\n总数：1265"
+  },
+  {
+    "actual_nonblank": 4537,
+    "actual_unique_casefold": 4537,
+    "actual_unique_exact": 4537,
+    "actual_unique_normalized": 4537,
+    "column": 8,
+    "declared_count": 4357,
+    "duplicate_normalized_count": 0,
+    "id": "cet4",
+    "kind": "canonical",
+    "label": "CET-4",
+    "source_header": "4级\n总数:4357"
+  },
+  {
+    "actual_nonblank": 2219,
+    "actual_unique_casefold": 2219,
+    "actual_unique_exact": 2219,
+    "actual_unique_normalized": 2219,
+    "column": 9,
+    "declared_count": 2219,
+    "duplicate_normalized_count": 0,
+    "id": "cet6",
+    "kind": "canonical",
+    "label": "CET-6",
+    "source_header": "6级\n总数:2219"
+  },
+  {
+    "actual_nonblank": 5494,
+    "actual_unique_casefold": 5490,
+    "actual_unique_exact": 5492,
+    "actual_unique_normalized": 5492,
+    "column": 10,
+    "declared_count": 5494,
+    "duplicate_normalized_count": 2,
+    "id": "postgraduate",
+    "kind": "canonical",
+    "label": "Postgraduate Entrance Exam",
+    "source_header": "考研\n总数:5494"
+  },
+  {
+    "actual_nonblank": 3675,
+    "actual_unique_casefold": 3675,
+    "actual_unique_exact": 3675,
+    "actual_unique_normalized": 3675,
+    "column": 11,
+    "declared_count": 3676,
+    "duplicate_normalized_count": 0,
+    "id": "ielts",
+    "kind": "canonical",
+    "label": "IELTS",
+    "source_header": "新东方雅思红宝书加强版\n总数：3676"
+  },
+  {
+    "actual_nonblank": 3606,
+    "actual_unique_casefold": 3606,
+    "actual_unique_exact": 3606,
+    "actual_unique_normalized": 3606,
+    "column": 12,
+    "declared_count": 3606,
+    "duplicate_normalized_count": 0,
+    "id": "toefl",
+    "kind": "canonical",
+    "label": "TOEFL",
+    "source_header": "Toelf红宝书\n总数：3606"
+  },
+  {
+    "actual_nonblank": 6682,
+    "actual_unique_casefold": 6682,
+    "actual_unique_exact": 6682,
+    "actual_unique_normalized": 6682,
+    "column": 13,
+    "declared_count": 6683,
+    "duplicate_normalized_count": 0,
+    "id": "gre",
+    "kind": "canonical",
+    "label": "GRE",
+    "source_header": "gre\n总数：6683"
+  },
+  {
+    "actual_nonblank": 3814,
+    "actual_unique_casefold": 3814,
+    "actual_unique_exact": 3814,
+    "actual_unique_normalized": 3814,
+    "column": 14,
+    "declared_count": 3814,
+    "duplicate_normalized_count": 0,
+    "id": "longman_core",
+    "kind": "derived",
+    "label": "Longman 3000 plus Academic",
+    "source_header": "Longman 3000+Academic\n去重后\n总数：3814",
+    "validation_rule": {
+      "inputs": [
+        "longman_3000",
+        "longman_academic"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 4963,
+    "actual_unique_casefold": 4963,
+    "actual_unique_exact": 4963,
+    "actual_unique_normalized": 4963,
+    "column": 15,
+    "declared_count": 4963,
+    "duplicate_normalized_count": 0,
+    "id": "nce_longman",
+    "kind": "derived",
+    "label": "NCE1-NCE4 plus Longman 3000",
+    "source_header": "NCE1234 + Longman 3000 \n去重后\n总数：4963",
+    "validation_rule": {
+      "inputs": [
+        "nce1234",
+        "longman_3000"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 5653,
+    "actual_unique_casefold": 5653,
+    "actual_unique_exact": 5653,
+    "actual_unique_normalized": 5653,
+    "column": 16,
+    "declared_count": 5653,
+    "duplicate_normalized_count": 0,
+    "id": "nce_longman_academic",
+    "kind": "derived",
+    "label": "NCE1-NCE4 plus Longman core",
+    "source_header": "NCE1234 + Longman 3000+Academic\n去重后\n总数：5653",
+    "validation_rule": {
+      "inputs": [
+        "nce1234",
+        "longman_core"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 1773,
+    "actual_unique_casefold": 1773,
+    "actual_unique_exact": 1773,
+    "actual_unique_normalized": 1773,
+    "column": 17,
+    "declared_count": 1773,
+    "duplicate_normalized_count": 0,
+    "id": "nce_not_longman",
+    "kind": "derived",
+    "label": "NCE1-NCE4 not in Longman",
+    "source_header": "NCE1234与Longman 不重叠部分\n(NCE)\n总数：1773",
+    "validation_rule": {
+      "inputs": [
+        "nce1234",
+        "longman_core"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 2379,
+    "actual_unique_casefold": 2379,
+    "actual_unique_exact": 2379,
+    "actual_unique_normalized": 2379,
+    "column": 18,
+    "declared_count": 2379,
+    "duplicate_normalized_count": 0,
+    "id": "longman_not_nce",
+    "kind": "derived",
+    "label": "Longman not in NCE1-NCE4",
+    "source_header": "NCE1234与Longman 不重叠部分\n(Longman)\n总数：2379",
+    "validation_rule": {
+      "inputs": [
+        "longman_core",
+        "nce1234"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 7511,
+    "actual_unique_casefold": 7511,
+    "actual_unique_exact": 7511,
+    "actual_unique_normalized": 7511,
+    "column": 19,
+    "declared_count": 7511,
+    "duplicate_normalized_count": 0,
+    "id": "nce_longman_toefl",
+    "kind": "derived",
+    "label": "NCE plus Longman core plus TOEFL",
+    "source_header": "NCE1234 + Longman 3000 + Academic + 托福\n去重后\n总数：7511",
+    "validation_rule": {
+      "inputs": [
+        "nce1234",
+        "longman_core",
+        "toefl"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 1858,
+    "actual_unique_casefold": 1858,
+    "actual_unique_exact": 1858,
+    "actual_unique_normalized": 1858,
+    "column": 20,
+    "declared_count": 1858,
+    "duplicate_normalized_count": 0,
+    "id": "toefl_increment",
+    "kind": "derived",
+    "label": "TOEFL increment",
+    "source_header": "托福去除（NCE1234 + Longman 3000+Academic）\n总数：1858",
+    "validation_rule": {
+      "inputs": [
+        "toefl",
+        "nce_longman_academic"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 5717,
+    "actual_unique_casefold": 5717,
+    "actual_unique_exact": 5717,
+    "actual_unique_normalized": 5717,
+    "column": 21,
+    "declared_count": 5717,
+    "duplicate_normalized_count": 0,
+    "id": "cet_union",
+    "kind": "derived",
+    "label": "CET-4 plus CET-6",
+    "source_header": "四六级去重\n总数:5717",
+    "validation_rule": {
+      "inputs": [
+        "cet4",
+        "cet6"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 1263,
+    "actual_unique_casefold": 1263,
+    "actual_unique_exact": 1263,
+    "actual_unique_normalized": 1263,
+    "column": 22,
+    "declared_count": 1263,
+    "duplicate_normalized_count": 0,
+    "id": "cet_increment",
+    "kind": "derived",
+    "label": "CET increment",
+    "source_header": "四六级去除(NCE1234 + Longman 3000 + Academic + 托福)\n总数: 1263",
+    "validation_rule": {
+      "inputs": [
+        "cet_union",
+        "nce_longman_toefl"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 8775,
+    "actual_unique_casefold": 8775,
+    "actual_unique_exact": 8775,
+    "actual_unique_normalized": 8775,
+    "column": 23,
+    "declared_count": 8775,
+    "duplicate_normalized_count": 0,
+    "id": "nce_longman_toefl_cet",
+    "kind": "derived",
+    "label": "NCE plus Longman plus TOEFL plus CET",
+    "source_header": "NCE1234 + Longman 3000 + Academic + 托福+四六级\n去重后\n总数：8775",
+    "validation_rule": {
+      "inputs": [
+        "nce_longman_toefl",
+        "cet_union"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 802,
+    "actual_unique_casefold": 802,
+    "actual_unique_exact": 802,
+    "actual_unique_normalized": 802,
+    "column": 24,
+    "declared_count": 802,
+    "duplicate_normalized_count": 0,
+    "id": "ielts_increment",
+    "kind": "derived",
+    "label": "IELTS increment",
+    "source_header": "雅思去除(NCE1234 + Longman 3000 + Academic + 托福+四六级) 去重后\n总数：802",
+    "validation_rule": {
+      "inputs": [
+        "ielts",
+        "nce_longman_toefl_cet"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 9577,
+    "actual_unique_casefold": 9577,
+    "actual_unique_exact": 9577,
+    "actual_unique_normalized": 9577,
+    "column": 25,
+    "declared_count": 9577,
+    "duplicate_normalized_count": 0,
+    "id": "nce_longman_toefl_cet_ielts",
+    "kind": "derived",
+    "label": "NCE plus Longman plus TOEFL plus CET plus IELTS",
+    "source_header": "NCE1234 + Longman 3000 + Academic + 托福+四六级 + 雅思 去重后\n总数：9577",
+    "validation_rule": {
+      "inputs": [
+        "nce_longman_toefl_cet",
+        "ielts"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 5064,
+    "actual_unique_casefold": 5064,
+    "actual_unique_exact": 5064,
+    "actual_unique_normalized": 5064,
+    "column": 26,
+    "declared_count": 5064,
+    "duplicate_normalized_count": 0,
+    "id": "gre_increment_base",
+    "kind": "derived",
+    "label": "GRE increment over NCE Longman TOEFL",
+    "source_header": "gre去除（托福+ NCE1234 + Longman 3000+Academic）\n总数：5064",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 4779,
+    "actual_unique_casefold": 4779,
+    "actual_unique_exact": 4779,
+    "actual_unique_normalized": 4779,
+    "column": 27,
+    "declared_count": 4779,
+    "duplicate_normalized_count": 0,
+    "id": "gre_increment_cet",
+    "kind": "derived",
+    "label": "GRE increment over NCE Longman TOEFL CET",
+    "source_header": "gre去除（托福+ NCE1234 + Longman 3000+Academic+四六级）\n总数：4779",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl_cet"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 4498,
+    "actual_unique_casefold": 4498,
+    "actual_unique_exact": 4498,
+    "actual_unique_normalized": 4498,
+    "column": 28,
+    "declared_count": 4498,
+    "duplicate_normalized_count": 0,
+    "id": "gre_increment_ielts",
+    "kind": "derived",
+    "label": "GRE increment over NCE Longman TOEFL CET IELTS",
+    "source_header": "gre去除（托福+ NCE1234 + Longman 3000+Academic+四六级+雅思）\n总数：4498",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl_cet_ielts"
+      ],
+      "op": "difference"
+    }
+  },
+  {
+    "actual_nonblank": 12575,
+    "actual_unique_casefold": 12575,
+    "actual_unique_exact": 12575,
+    "actual_unique_normalized": 12575,
+    "column": 29,
+    "declared_count": 12575,
+    "duplicate_normalized_count": 0,
+    "id": "gre_union_base",
+    "kind": "derived",
+    "label": "GRE union with NCE Longman TOEFL",
+    "source_header": "gre+托福+ NCE1234 + Longman 3000+Academic\n去重后\n总数：12575",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 13838,
+    "actual_unique_casefold": 13553,
+    "actual_unique_exact": 13553,
+    "actual_unique_normalized": 13553,
+    "column": 30,
+    "declared_count": 13838,
+    "duplicate_normalized_count": 285,
+    "id": "gre_union_cet",
+    "kind": "derived",
+    "label": "GRE union with NCE Longman TOEFL CET",
+    "source_header": "gre+托福+ NCE1234 + Longman 3000+Academic+四六级\n去重后\n总数：13838",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl_cet"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 14074,
+    "actual_unique_casefold": 14074,
+    "actual_unique_exact": 14074,
+    "actual_unique_normalized": 14074,
+    "column": 31,
+    "declared_count": 14074,
+    "duplicate_normalized_count": 0,
+    "id": "gre_union_ielts",
+    "kind": "derived",
+    "label": "GRE union with NCE Longman TOEFL CET IELTS",
+    "source_header": "gre+托福+ NCE1234 + Longman 3000+Academic+四六级+雅思\n去重后\n总数：14074",
+    "validation_rule": {
+      "inputs": [
+        "gre",
+        "nce_longman_toefl_cet_ielts"
+      ],
+      "op": "union"
+    }
+  },
+  {
+    "actual_nonblank": 13933,
+    "actual_unique_casefold": 13916,
+    "actual_unique_exact": 13916,
+    "actual_unique_normalized": 13916,
+    "column": 32,
+    "declared_count": 13933,
+    "duplicate_normalized_count": 17,
+    "id": "legacy_full_union",
+    "kind": "derived",
+    "label": "Legacy full union",
+    "source_header": "NCE1/NCE2/NCE3/NCE4/Longman/麦克米伦/toelf/gre 全部去重\n总数：13933"
+  },
+  {
+    "actual_nonblank": 14828,
+    "actual_unique_casefold": 14808,
+    "actual_unique_exact": 14808,
+    "actual_unique_normalized": 14808,
+    "column": 33,
+    "declared_count": null,
+    "duplicate_normalized_count": 20,
+    "id": "all",
+    "kind": "derived",
+    "label": "All",
+    "source_header": "all"
+  }
+]

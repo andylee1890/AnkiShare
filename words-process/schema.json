@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "normalization": "normalized: Unicode NFKC, trim, collapse Unicode whitespace; comparison_normalized: normalized plus casefold",
+  "entries.jsonl": {
+    "entry_id": "Stable ID derived only from normalized",
+    "display": "Canonical display selected deterministically from source occurrences",
+    "normalized": "Case-preserving identity key; never a replacement for raw source text",
+    "comparison_normalized": "Case-insensitive comparison key; never used to merge entries",
+    "display_variants": "All unique raw display forms after whitespace cleanup",
+    "canonical_source_group_ids": "Canonical source memberships",
+    "derived_source_group_ids": "Derived worksheet memberships",
+    "source_occurrence_count": "All nonblank source cells mapped to this entry",
+    "review_status": "unreviewed | needs-review | verified",
+    "quality_flags": "Machine-detected signals only"
+  },
+  "memberships.jsonl": {
+    "entry_id": "Foreign key to entries.jsonl",
+    "group_id": "Stable group ID from group-definitions.json",
+    "source_column": "One-based initial-import column number",
+    "source_row": "One-based initial-import row number",
+    "source_header": "Resolved through source-columns.json by source_column; retained there once rather than duplicated per row",
+    "raw_value": "Trimmed source cell value without lexical correction",
+    "normalized": "Case-preserving identity key used to link the entry",
+    "comparison_normalized": "Case-insensitive comparison key used only for review signals"
+  }
+}

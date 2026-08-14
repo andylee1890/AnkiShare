@@ -8,6 +8,11 @@
     "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/release-records/index.json",
     "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/release-records/index.json"
   },
+  "posterIndex": {
+    "path": "docs/artwork/posters/index.json",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/index.json",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/index.json"
+  },
   "purpose": "English Anchor Anki 卡组的可供网站消费的发布主索引。",
   "statusValues": {
     "published": "公开 Release 和可下载 APKG 均有效。"
@@ -32,6 +37,7 @@
       "series": "New Concept English",
       "book": 2,
       "level": "入门",
+      "posterId": "nce2-vocabulary",
       "description": "第二册课文逐句学习，配有中文理解、句型和学习笔记。",
       "features": ["课文逐句学习", "中文理解", "句型笔记", "四个单元笔记已补全"],
       "latestVersion": "nce2-v1.0.2",
@@ -46,6 +52,7 @@
       "series": "New Concept English",
       "book": 3,
       "level": "进阶",
+      "posterId": "nce3-vocabulary",
       "description": "第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
       "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "知识点整理"],
       "latestVersion": "nce3-v1.0.0",
@@ -61,6 +68,7 @@
       "series": "New Concept English",
       "book": 4,
       "level": "高阶",
+      "posterId": "nce4-vocabulary",
       "description": "第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
       "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "第四册笔记已补全"],
       "latestVersion": "nce4-v1.0.0",

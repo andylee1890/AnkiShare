@@ -22,9 +22,9 @@
 
 | 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |
 | --- | --- | --- | --- | --- |
-| NCE2 實踐與進步（Practice & Progress） | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 2026-08-14 | `nce2-v1.0.2` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg) |
-| NCE3 培養技能（Developing Skills） | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-14 | `nce3-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg) |
-| NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-13 | `nce4-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg) |
+| <img src="./docs/artwork/posters/card/new-concept-english-2-official.webp" alt="NCE2 封面" width="40" height="50" /> NCE2 實踐與進步（Practice & Progress） | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 2026-08-14 | `nce2-v1.0.2` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg) |
+| <img src="./docs/artwork/posters/card/new-concept-english-3-official.webp" alt="NCE3 封面" width="40" height="50" /> NCE3 培養技能（Developing Skills） | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-14 | `nce3-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg) |
+| <img src="./docs/artwork/posters/card/new-concept-english-4.webp" alt="NCE4 封面" width="40" height="50" /> NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-13 | `nce4-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg) |
 | 新概念短语 | 新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料 | 2026-08-14 | `nce-phrases-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg) |
 
 ### Anki 样式资源包

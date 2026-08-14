@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-14T22:40:00+08:00",
+  "repository": "andylee1890/AnkiShare",
+  "posterIndex": {
+    "path": "docs/artwork/posters/index.json",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/index.json",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/index.json"
+  },
+  "purpose": "English Anchor Anki 卡组封面资产索引。release-records/index.json 可通过 posterId 关联到此索引。",
+  "posters": [
+    {
+      "id": "nce1-vocabulary",
+      "deckId": "nce1-vocabulary",
+      "name": "新概念英语第一册词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "docs/artwork/posters/new-concept-english-1-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/new-concept-english-1-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/new-concept-english-1-official.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/new-concept-english-1-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/new-concept-english-1-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/new-concept-english-1-official.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "source": "https://book.douban.com/subject/1006720/",
+      "sourceImage": "https://img3.doubanio.com/view/subject/l/public/s10401903.jpg"
+    },
+    {
+      "id": "nce2-vocabulary",
+      "deckId": "nce2-vocabulary",
+      "name": "新概念英语第二册词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "docs/artwork/posters/new-concept-english-2-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/new-concept-english-2-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/new-concept-english-2-official.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/new-concept-english-2-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/new-concept-english-2-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/new-concept-english-2-official.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "source": "https://book.douban.com/subject/1025721/",
+      "sourceImage": "https://img9.doubanio.com/view/subject/l/public/s1148774.jpg"
+    },
+    {
+      "id": "nce3-vocabulary",
+      "deckId": "nce3-vocabulary",
+      "name": "新概念英语第三册词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "docs/artwork/posters/new-concept-english-3-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/new-concept-english-3-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/new-concept-english-3-official.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/new-concept-english-3-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/new-concept-english-3-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/new-concept-english-3-official.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "source": "https://book.douban.com/subject/1039389/",
+      "sourceImage": "https://img1.doubanio.com/view/subject/l/public/s1072510.jpg"
+    },
+    {
+      "id": "nce4-vocabulary",
+      "deckId": "nce4-vocabulary",
+      "name": "新概念英语第四册词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "local-source-material",
+      "original": {
+        "path": "docs/artwork/posters/new-concept-english-4.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/new-concept-english-4.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/new-concept-english-4.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/new-concept-english-4.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/new-concept-english-4.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/new-concept-english-4.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "longman-3000-vocabulary",
+      "deckId": "longman-3000-vocabulary",
+      "name": "朗文3000",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/longman-3000-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/longman-3000-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/longman-3000-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/longman-3000-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/longman-3000-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/longman-3000-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" },
+      "source": "https://openlibrary.org/isbn/9781405863056",
+      "sourceImage": "https://covers.openlibrary.org/b/isbn/9781405863056-L.jpg"
+    },
+    {
+      "id": "longman-academic-vocabulary",
+      "deckId": "longman-academic-vocabulary",
+      "name": "朗文学术词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/longman-academic-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/longman-academic-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/longman-academic-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/longman-academic-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/longman-academic-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/longman-academic-vocabulary.webp", "width": 480, "height": 600, "fit": "contain" },
+      "source": "https://openlibrary.org/works/OL21124406W",
+      "sourceImage": "https://covers.openlibrary.org/b/id/13598852-L.jpg"
+    },
+    {
+      "id": "cet4-vocabulary",
+      "deckId": "cet4-vocabulary",
+      "name": "大学英语四级词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/cet4-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/cet4-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/cet4-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/cet4-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/cet4-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/cet4-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" },
+      "source": "https://book.douban.com/subject/1264314/",
+      "sourceImage": "https://img9.doubanio.com/view/subject/l/public/s10516906.jpg"
+    },
+    {
+      "id": "cet6-vocabulary",
+      "deckId": "cet6-vocabulary",
+      "name": "大学英语六级词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/cet6-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/cet6-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/cet6-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/cet6-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/cet6-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/cet6-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" },
+      "source": "https://book.douban.com/subject/3258245/",
+      "sourceImage": "https://img9.doubanio.com/view/subject/l/public/s3458245.jpg"
+    },
+    {
+      "id": "postgraduate-vocabulary",
+      "deckId": "postgraduate-vocabulary",
+      "name": "考研英语词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/postgraduate-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/postgraduate-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/postgraduate-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/postgraduate-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/postgraduate-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/postgraduate-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" },
+      "source": "https://book.douban.com/subject/33388621/",
+      "sourceImage": "https://img9.doubanio.com/view/subject/l/public/s34841055.jpg"
+    },
+    {
+      "id": "ielts-vocabulary",
+      "deckId": "ielts-vocabulary",
+      "name": "雅思词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/ielts-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/ielts-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/ielts-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/ielts-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/ielts-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/ielts-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" },
+      "source": "https://www.amazon.com/dp/052170975X",
+      "sourceImage": "https://images-na.ssl-images-amazon.com/images/P/052170975X.01.LZZZZZZZ.jpg"
+    },
+    {
+      "id": "toefl-vocabulary",
+      "deckId": "toefl-vocabulary",
+      "name": "托福词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/toefl-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/toefl-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/toefl-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/toefl-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/toefl-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/toefl-vocabulary.webp", "width": 480, "height": 600, "fit": "contain" },
+      "source": "https://openlibrary.org/works/OL4308474W",
+      "sourceImage": "https://covers.openlibrary.org/b/id/10597382-L.jpg"
+    },
+    {
+      "id": "gre-vocabulary",
+      "deckId": "gre-vocabulary",
+      "name": "GRE词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": { "path": "docs/artwork/posters/gre-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/gre-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/gre-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/gre-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/gre-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/gre-vocabulary.webp", "width": 480, "height": 600, "fit": "contain" },
+      "source": "https://openlibrary.org/works/OL5955598W",
+      "sourceImage": "https://covers.openlibrary.org/b/id/1437627-L.jpg"
+    }
+  ]
+}
