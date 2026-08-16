@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T01:00:00+08:00",
+  "generatedAt": "2026-08-16T19:47:00+08:00",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -71,10 +71,10 @@
       },
       "description": "第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
       "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "知识点整理"],
-      "latestVersion": "nce3-v1.0.0",
-      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.0",
+      "latestVersion": "nce3-v1.0.1",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.1",
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
-      "versions": ["nce3-v1.0.0"]
+      "versions": ["nce3-v1.0.1", "nce3-v1.0.0"]
     },
     {
       "id": "nce4-fluency-in-english",
@@ -95,10 +95,10 @@
       },
       "description": "第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
       "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "第四册笔记已补全"],
-      "latestVersion": "nce4-v1.0.0",
-      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.0",
+      "latestVersion": "nce4-v1.0.1",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.1",
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
-      "versions": ["nce4-v1.0.0"]
+      "versions": ["nce4-v1.0.1", "nce4-v1.0.0"]
     },
     {
       "id": "new-concept-english-phrases",
@@ -696,6 +696,42 @@
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/TOEFL-Vocabulary.apkg"
       },
       "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "nce3-v1.0.1",
+      "deckId": "nce3-developing-skills",
+      "version": "1.0.1",
+      "status": "published",
+      "publishedAt": "2026-08-16",
+      "title": "NCE3 培養技能（Developing Skills） v1.0.1",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.1",
+      "asset": {
+        "fileName": "NCE3-Developing-Skills.apkg",
+        "sizeBytes": 209237890,
+        "sizeMiB": 199.55,
+        "sha256": "43217126898f1c1be63be55ef7682ffbf7c3bbcfb845332739e23eba2c560254",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.apkg"
+      },
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "nce4-v1.0.1",
+      "deckId": "nce4-fluency-in-english",
+      "version": "1.0.1",
+      "status": "published",
+      "publishedAt": "2026-08-16",
+      "title": "NCE4 流利英語（Fluency in English） v1.0.1",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.1",
+      "asset": {
+        "fileName": "NCE4-Fluency-in-English.apkg",
+        "sizeBytes": 156412006,
+        "sizeMiB": 149.17,
+        "sha256": "3712e1705450ff4ace8f9be0db4ce1326cd37e280dcffd72b692b0e8f625b827",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.apkg"
+      },
+      "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
       "websiteUrl": "https://englishanchor.online"
     },
     {
