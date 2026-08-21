@@ -519,7 +519,18 @@
       "name": "小学英语基础词汇",
       "nameEnglish": "Primary School English Vocabulary",
       "series": "School English",
-      "level": "",
+      "level": "小学英语",
+      "posterId": "primary-school-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/primary-school-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/primary-school-vocabulary.webp",
+        "alt": "小学英语基础词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "小学阶段英语基础词汇，提供认读、拼写和听写三种练习。",
+      "features": ["424 条词条", "RECITE、SPELLING、DICTATION", "小学英语"],
       "latestVersion": "primary-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/primary-school-vocabulary-v1.0.0",
       "versions": [
@@ -534,7 +545,18 @@
       "name": "中考英语词汇",
       "nameEnglish": "Middle School English Vocabulary",
       "series": "School English",
-      "level": "",
+      "level": "中学英语",
+      "posterId": "middle-school-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/middle-school-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/middle-school-vocabulary.webp",
+        "alt": "中考英语词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "中考阶段英语核心词汇，提供认读、拼写和听写三种练习。",
+      "features": ["1,804 条词条", "RECITE、SPELLING、DICTATION", "中考英语"],
       "latestVersion": "middle-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/middle-school-vocabulary-v1.0.0",
       "versions": [
@@ -549,7 +571,18 @@
       "name": "高中英语词汇",
       "nameEnglish": "High School English Vocabulary",
       "series": "School English",
-      "level": "",
+      "level": "高中英语",
+      "posterId": "high-school-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/high-school-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/high-school-vocabulary.webp",
+        "alt": "高中英语词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "高中阶段英语核心词汇，提供认读、拼写和听写三种练习。",
+      "features": ["3,268 条词条", "RECITE、SPELLING、DICTATION", "高中英语"],
       "latestVersion": "high-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/high-school-vocabulary-v1.0.0",
       "versions": [
@@ -564,7 +597,18 @@
       "name": "英语专业入学考试词汇",
       "nameEnglish": "NPEE English Vocabulary",
       "series": "School English",
-      "level": "",
+      "level": "英语专业入学考试",
+      "posterId": "npee-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/npee-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/npee-vocabulary.webp",
+        "alt": "英语专业入学考试词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "英语专业入学考试词汇，提供认读、拼写和听写三种练习。",
+      "features": ["5,299 条词条", "RECITE、SPELLING、DICTATION", "英语专业入学考试"],
       "latestVersion": "npee-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/npee-vocabulary-v1.0.0",
       "versions": [
@@ -674,8 +718,8 @@
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce1-vocabulary-v1.0.0",
       "asset": {
         "fileName": "New-Concept-English-1-Vocabulary.apkg",
-        "sizeBytes": 50635146,
-        "sizeMiB": 48.29,
+        "sizeBytes": 38259712,
+        "sizeMiB": 36.49,
         "sha256": "fa771f7430bf883b073895a9952dc1bd5474404b4b1c3db8bee379acd1d90175",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/New-Concept-English-1-Vocabulary.apkg"
       },
@@ -928,6 +972,8 @@
         "fileName": "Primary-School-English-Vocabulary.apkg",
         "noteCount": 424,
         "cardCount": 1272,
+        "sizeBytes": 50635146,
+        "sizeMiB": 48.29,
         "sha256": "5af69c60a73df5dfadf0da2fd4986d1d04f9c1497311b0e315af29db51864e1a",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/Primary-School-English-Vocabulary.apkg"
       },
@@ -945,6 +991,8 @@
         "fileName": "Middle-School-English-Vocabulary.apkg",
         "noteCount": 1804,
         "cardCount": 5412,
+        "sizeBytes": 100348552,
+        "sizeMiB": 95.70,
         "sha256": "7991f435bad840da4a2198c532f8db2ccf83aade0b4bd7825b647682f9c06462",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/Middle-School-English-Vocabulary.apkg"
       },
@@ -962,6 +1010,8 @@
         "fileName": "High-School-English-Vocabulary.apkg",
         "noteCount": 3268,
         "cardCount": 9804,
+        "sizeBytes": 150773095,
+        "sizeMiB": 143.79,
         "sha256": "0c4dd9018a982dca07c2f09f080917273e8a996d8a98c75bad2559489091bc97",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/High-School-English-Vocabulary.apkg"
       },
@@ -979,6 +1029,8 @@
         "fileName": "NPEE-English-Vocabulary.apkg",
         "noteCount": 5299,
         "cardCount": 15897,
+        "sizeBytes": 194056625,
+        "sizeMiB": 185.07,
         "sha256": "117a57040afe67323b16e96f19b0a5f804dc5052bcec68d9e16d0a9011742d08",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/NPEE-English-Vocabulary.apkg"
       },
