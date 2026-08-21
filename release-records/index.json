@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T19:47:00+08:00",
+  "generatedAt": "2026-08-21T20:00:00+08:00",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -25,7 +25,9 @@
       "description": "卡片模板依赖的 CSS、JavaScript 和配置文件；解压到 Anki 用户数据目录下对应账户的 collection.media。",
       "latestVersion": "note-resources-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/note-resources-v1.0.0",
-      "versions": ["note-resources-v1.0.0"]
+      "versions": [
+        "note-resources-v1.0.0"
+      ]
     }
   ],
   "decks": [
@@ -47,10 +49,17 @@
         "fit": "cover"
       },
       "description": "第二册课文逐句学习，配有中文理解、句型和学习笔记。",
-      "features": ["课文逐句学习", "中文理解", "句型笔记", "四个单元笔记已补全"],
+      "features": [
+        "课文逐句学习",
+        "中文理解",
+        "句型笔记",
+        "四个单元笔记已补全"
+      ],
       "latestVersion": "nce2-v1.0.2",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce2-v1.0.2",
-      "versions": ["nce2-v1.0.2"]
+      "versions": [
+        "nce2-v1.0.2"
+      ]
     },
     {
       "id": "nce3-developing-skills",
@@ -70,11 +79,19 @@
         "fit": "cover"
       },
       "description": "第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
-      "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "知识点整理"],
+      "features": [
+        "课文逐句背诵",
+        "语法笔记",
+        "词汇与表达",
+        "知识点整理"
+      ],
       "latestVersion": "nce3-v1.0.1",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-v1.0.1",
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
-      "versions": ["nce3-v1.0.1", "nce3-v1.0.0"]
+      "versions": [
+        "nce3-v1.0.1",
+        "nce3-v1.0.0"
+      ]
     },
     {
       "id": "nce4-fluency-in-english",
@@ -94,11 +111,19 @@
         "fit": "cover"
       },
       "description": "第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记。",
-      "features": ["课文逐句背诵", "语法笔记", "词汇与表达", "第四册笔记已补全"],
+      "features": [
+        "课文逐句背诵",
+        "语法笔记",
+        "词汇与表达",
+        "第四册笔记已补全"
+      ],
       "latestVersion": "nce4-v1.0.1",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-v1.0.1",
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
-      "versions": ["nce4-v1.0.1", "nce4-v1.0.0"]
+      "versions": [
+        "nce4-v1.0.1",
+        "nce4-v1.0.0"
+      ]
     },
     {
       "id": "new-concept-english-phrases",
@@ -116,10 +141,17 @@
         "fit": "contain"
       },
       "description": "新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料。",
-      "features": ["高频短语", "固定搭配", "释义与例句", "词典资料"],
+      "features": [
+        "高频短语",
+        "固定搭配",
+        "释义与例句",
+        "词典资料"
+      ],
       "latestVersion": "nce-phrases-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-phrases-v1.0.0",
-      "versions": ["nce-phrases-v1.0.0"]
+      "versions": [
+        "nce-phrases-v1.0.0"
+      ]
     },
     {
       "id": "nce1-vocabulary",
@@ -138,10 +170,16 @@
         "fit": "cover"
       },
       "description": "新概念英语第一册核心词汇，按单词提供认读、拼写和听写练习。",
-      "features": ["850 条词条", "RECITE、SPELLING、DICTATION", "新概念英语第一册"],
+      "features": [
+        "850 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语第一册"
+      ],
       "latestVersion": "nce1-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce1-vocabulary-v1.0.0",
-      "versions": ["nce1-vocabulary-v1.0.0"],
+      "versions": [
+        "nce1-vocabulary-v1.0.0"
+      ],
       "noteCount": 850,
       "cardCount": 2550
     },
@@ -162,10 +200,16 @@
         "fit": "cover"
       },
       "description": "新概念英语第二册核心词汇，按单词提供认读、拼写和听写练习。",
-      "features": ["801 条词条", "RECITE、SPELLING、DICTATION", "新概念英语第二册"],
+      "features": [
+        "801 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语第二册"
+      ],
       "latestVersion": "nce2-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce2-vocabulary-v1.0.0",
-      "versions": ["nce2-vocabulary-v1.0.0"],
+      "versions": [
+        "nce2-vocabulary-v1.0.0"
+      ],
       "noteCount": 801,
       "cardCount": 2403
     },
@@ -186,10 +230,16 @@
         "fit": "cover"
       },
       "description": "新概念英语第三册核心词汇，按单词提供认读、拼写和听写练习。",
-      "features": ["1,001 条词条", "RECITE、SPELLING、DICTATION", "新概念英语第三册"],
+      "features": [
+        "1,001 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语第三册"
+      ],
       "latestVersion": "nce3-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce3-vocabulary-v1.0.0",
-      "versions": ["nce3-vocabulary-v1.0.0"],
+      "versions": [
+        "nce3-vocabulary-v1.0.0"
+      ],
       "noteCount": 1001,
       "cardCount": 3003
     },
@@ -210,10 +260,16 @@
         "fit": "cover"
       },
       "description": "新概念英语第四册核心词汇，按单词提供认读、拼写和听写练习。",
-      "features": ["755 条词条", "RECITE、SPELLING、DICTATION", "新概念英语第四册"],
+      "features": [
+        "755 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语第四册"
+      ],
       "latestVersion": "nce4-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce4-vocabulary-v1.0.0",
-      "versions": ["nce4-vocabulary-v1.0.0"],
+      "versions": [
+        "nce4-vocabulary-v1.0.0"
+      ],
       "noteCount": 755,
       "cardCount": 2265
     },
@@ -234,10 +290,16 @@
         "fit": "cover"
       },
       "description": "朗文 3000 核心高频词汇，适合构建通用英语词汇基础。",
-      "features": ["3,020 条词条", "RECITE、SPELLING、DICTATION", "朗文核心词汇"],
+      "features": [
+        "3,020 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "朗文核心词汇"
+      ],
       "latestVersion": "longman-3000-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/longman-3000-v1.0.0",
-      "versions": ["longman-3000-v1.0.0"],
+      "versions": [
+        "longman-3000-v1.0.0"
+      ],
       "noteCount": 3020,
       "cardCount": 9060
     },
@@ -258,10 +320,16 @@
         "fit": "contain"
       },
       "description": "面向学术阅读与写作的朗文词汇集合。",
-      "features": ["1,265 条词条", "RECITE、SPELLING、DICTATION", "学术英语"],
+      "features": [
+        "1,265 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "学术英语"
+      ],
       "latestVersion": "longman-academic-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/longman-academic-vocabulary-v1.0.0",
-      "versions": ["longman-academic-vocabulary-v1.0.0"],
+      "versions": [
+        "longman-academic-vocabulary-v1.0.0"
+      ],
       "noteCount": 1265,
       "cardCount": 3795
     },
@@ -282,10 +350,16 @@
         "fit": "cover"
       },
       "description": "大学英语四级考试词汇，提供认读、拼写和听写三种练习。",
-      "features": ["4,518 条词条", "RECITE、SPELLING、DICTATION", "CET-4"],
+      "features": [
+        "4,518 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "CET-4"
+      ],
       "latestVersion": "cet4-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/cet4-vocabulary-v1.0.0",
-      "versions": ["cet4-vocabulary-v1.0.0"],
+      "versions": [
+        "cet4-vocabulary-v1.0.0"
+      ],
       "noteCount": 4518,
       "cardCount": 13554
     },
@@ -306,10 +380,16 @@
         "fit": "cover"
       },
       "description": "大学英语六级考试词汇，提供认读、拼写和听写三种练习。",
-      "features": ["2,209 条词条", "RECITE、SPELLING、DICTATION", "CET-6"],
+      "features": [
+        "2,209 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "CET-6"
+      ],
       "latestVersion": "cet6-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/cet6-vocabulary-v1.0.0",
-      "versions": ["cet6-vocabulary-v1.0.0"],
+      "versions": [
+        "cet6-vocabulary-v1.0.0"
+      ],
       "noteCount": 2209,
       "cardCount": 6627
     },
@@ -330,10 +410,16 @@
         "fit": "cover"
       },
       "description": "考研英语词汇，提供认读、拼写和听写三种练习。",
-      "features": ["5,374 条词条", "RECITE、SPELLING、DICTATION", "考研英语"],
+      "features": [
+        "5,374 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "考研英语"
+      ],
       "latestVersion": "postgraduate-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/postgraduate-vocabulary-v1.0.0",
-      "versions": ["postgraduate-vocabulary-v1.0.0"],
+      "versions": [
+        "postgraduate-vocabulary-v1.0.0"
+      ],
       "noteCount": 5374,
       "cardCount": 16122
     },
@@ -354,10 +440,16 @@
         "fit": "cover"
       },
       "description": "雅思词汇，提供认读、拼写和听写三种练习。",
-      "features": ["3,659 条词条", "RECITE、SPELLING、DICTATION", "IELTS"],
+      "features": [
+        "3,659 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "IELTS"
+      ],
       "latestVersion": "ielts-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/ielts-vocabulary-v1.0.0",
-      "versions": ["ielts-vocabulary-v1.0.0"],
+      "versions": [
+        "ielts-vocabulary-v1.0.0"
+      ],
       "noteCount": 3659,
       "cardCount": 10977
     },
@@ -378,10 +470,16 @@
         "fit": "contain"
       },
       "description": "托福词汇，提供认读、拼写和听写三种练习。",
-      "features": ["3,595 条词条", "RECITE、SPELLING、DICTATION", "TOEFL"],
+      "features": [
+        "3,595 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "TOEFL"
+      ],
       "latestVersion": "toefl-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/toefl-vocabulary-v1.0.0",
-      "versions": ["toefl-vocabulary-v1.0.0"],
+      "versions": [
+        "toefl-vocabulary-v1.0.0"
+      ],
       "noteCount": 3595,
       "cardCount": 10785
     },
@@ -402,12 +500,78 @@
         "fit": "contain"
       },
       "description": "GRE 词汇，提供认读、拼写和听写三种练习。",
-      "features": ["6,668 条词条", "RECITE、SPELLING、DICTATION", "GRE"],
+      "features": [
+        "6,668 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "GRE"
+      ],
       "latestVersion": "gre-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/gre-vocabulary-v1.0.0",
-      "versions": ["gre-vocabulary-v1.0.0"],
+      "versions": [
+        "gre-vocabulary-v1.0.0"
+      ],
       "noteCount": 6668,
       "cardCount": 20004
+    },
+    {
+      "id": "primary-school-vocabulary",
+      "slug": "primary-school-vocabulary",
+      "name": "小学英语基础词汇",
+      "nameEnglish": "Primary School English Vocabulary",
+      "series": "School English",
+      "level": "",
+      "latestVersion": "primary-school-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/primary-school-vocabulary-v1.0.0",
+      "versions": [
+        "primary-school-vocabulary-v1.0.0"
+      ],
+      "noteCount": 424,
+      "cardCount": 1272
+    },
+    {
+      "id": "middle-school-vocabulary",
+      "slug": "middle-school-vocabulary",
+      "name": "中考英语词汇",
+      "nameEnglish": "Middle School English Vocabulary",
+      "series": "School English",
+      "level": "",
+      "latestVersion": "middle-school-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/middle-school-vocabulary-v1.0.0",
+      "versions": [
+        "middle-school-vocabulary-v1.0.0"
+      ],
+      "noteCount": 1804,
+      "cardCount": 5412
+    },
+    {
+      "id": "high-school-vocabulary",
+      "slug": "high-school-vocabulary",
+      "name": "高中英语词汇",
+      "nameEnglish": "High School English Vocabulary",
+      "series": "School English",
+      "level": "",
+      "latestVersion": "high-school-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/high-school-vocabulary-v1.0.0",
+      "versions": [
+        "high-school-vocabulary-v1.0.0"
+      ],
+      "noteCount": 3268,
+      "cardCount": 9804
+    },
+    {
+      "id": "npee-vocabulary",
+      "slug": "npee-vocabulary",
+      "name": "英语专业入学考试词汇",
+      "nameEnglish": "NPEE English Vocabulary",
+      "series": "School English",
+      "level": "",
+      "latestVersion": "npee-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/npee-vocabulary-v1.0.0",
+      "versions": [
+        "npee-vocabulary-v1.0.0"
+      ],
+      "noteCount": 5299,
+      "cardCount": 15897
     }
   ],
   "releases": [
@@ -750,6 +914,74 @@
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/GRE-Vocabulary.apkg"
       },
       "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "primary-school-vocabulary-v1.0.0",
+      "deckId": "primary-school-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-21",
+      "title": "小学英语基础词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/primary-school-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "Primary-School-English-Vocabulary.apkg",
+        "noteCount": 424,
+        "cardCount": 1272,
+        "sha256": "5af69c60a73df5dfadf0da2fd4986d1d04f9c1497311b0e315af29db51864e1a",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/Primary-School-English-Vocabulary.apkg"
+      },
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "middle-school-vocabulary-v1.0.0",
+      "deckId": "middle-school-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-21",
+      "title": "中考英语词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/middle-school-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "Middle-School-English-Vocabulary.apkg",
+        "noteCount": 1804,
+        "cardCount": 5412,
+        "sha256": "7991f435bad840da4a2198c532f8db2ccf83aade0b4bd7825b647682f9c06462",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/Middle-School-English-Vocabulary.apkg"
+      },
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "high-school-vocabulary-v1.0.0",
+      "deckId": "high-school-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-21",
+      "title": "高中英语词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/high-school-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "High-School-English-Vocabulary.apkg",
+        "noteCount": 3268,
+        "cardCount": 9804,
+        "sha256": "0c4dd9018a982dca07c2f09f080917273e8a996d8a98c75bad2559489091bc97",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/High-School-English-Vocabulary.apkg"
+      },
+      "websiteUrl": "https://englishanchor.online"
+    },
+    {
+      "tag": "npee-vocabulary-v1.0.0",
+      "deckId": "npee-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-08-21",
+      "title": "英语专业入学考试词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/npee-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "NPEE-English-Vocabulary.apkg",
+        "noteCount": 5299,
+        "cardCount": 15897,
+        "sha256": "117a57040afe67323b16e96f19b0a5f804dc5052bcec68d9e16d0a9011742d08",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/NPEE-English-Vocabulary.apkg"
+      },
       "websiteUrl": "https://englishanchor.online"
     }
   ]

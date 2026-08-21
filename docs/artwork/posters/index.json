@@ -182,6 +182,42 @@
       "card": { "path": "docs/artwork/posters/card/gre-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/gre-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/gre-vocabulary.webp", "width": 480, "height": 600, "fit": "contain" },
       "source": "https://openlibrary.org/works/OL5955598W",
       "sourceImage": "https://covers.openlibrary.org/b/id/1437627-L.jpg"
+    },
+    {
+      "id": "primary-school-vocabulary",
+      "deckId": "primary-school-vocabulary",
+      "name": "小学英语基础词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork",
+      "original": { "path": "docs/artwork/posters/primary-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/primary-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/primary-school-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/primary-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/primary-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/primary-school-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" }
+    },
+    {
+      "id": "middle-school-vocabulary",
+      "deckId": "middle-school-vocabulary",
+      "name": "中考英语词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork",
+      "original": { "path": "docs/artwork/posters/middle-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/middle-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/middle-school-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/middle-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/middle-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/middle-school-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" }
+    },
+    {
+      "id": "high-school-vocabulary",
+      "deckId": "high-school-vocabulary",
+      "name": "高中英语词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork",
+      "original": { "path": "docs/artwork/posters/high-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/high-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/high-school-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/high-school-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/high-school-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/high-school-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" }
+    },
+    {
+      "id": "npee-vocabulary",
+      "deckId": "npee-vocabulary",
+      "name": "英语专业入学考试词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork",
+      "original": { "path": "docs/artwork/posters/npee-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/npee-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/npee-vocabulary.webp" },
+      "card": { "path": "docs/artwork/posters/card/npee-vocabulary.webp", "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/npee-vocabulary.webp", "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/npee-vocabulary.webp", "width": 480, "height": 600, "fit": "cover" }
     }
   ]
 }
