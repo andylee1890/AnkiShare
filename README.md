@@ -21,7 +21,7 @@
 卡组通过 GitHub Releases 发布。下表记录每个卡组当前 Release 中可下载的最新版本；卡组更新后，会同步更新日期、版本和下载链接。
 
 | 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 | 条目清单 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | <img src="./docs/artwork/posters/card/new-concept-english-2-official.webp" alt="NCE2 封面" width="40" height="50" /> NCE2 實踐與進步（Practice & Progress） | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 2026-08-14 | `nce2-v1.0.2` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg) | [条目清单](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.json) |
 | <img src="./docs/artwork/posters/card/new-concept-english-3-official.webp" alt="NCE3 封面" width="40" height="50" /> NCE3 培養技能（Developing Skills） | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-16 | `nce3-v1.0.1` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.apkg) | [条目清单](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.json) |
 | <img src="./docs/artwork/posters/card/new-concept-english-4.webp" alt="NCE4 封面" width="40" height="50" /> NCE4 流利英語（Fluency in English） | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-16 | `nce4-v1.0.1` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.apkg) | [条目清单](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.json) |
