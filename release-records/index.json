@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T20:00:00+08:00",
+  "generatedAt": "2026-08-22T19:30:00+08:00",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -634,6 +634,14 @@
         "sha256": "fff65428fcbe865c21acb7985b9d2c6e55cb88c8543d254f0ef03758b0bdae75",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg"
       },
+      "entryManifest": {
+        "fileName": "NCE2-Practice-and-Progress.json",
+        "sizeBytes": 86767,
+        "sha256": "092d462f96b5a734e010d655b69fa18143ce0c98f94743dae0e9bb0f152c8e23",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.json",
+        "entryType": "sentence",
+        "entryCount": 1124
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -688,6 +696,14 @@
         "sha256": "663d5dab93fda0e09e16ee2b23bbfeb979dc38f22aac55fbb94d2476b0a03c30",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.apkg"
       },
+      "entryManifest": {
+        "fileName": "New-Concept-English-Phrases.json",
+        "sizeBytes": 31367,
+        "sha256": "b58537796c499be9452a90e3aa7dc5e2aa4e224c0ff8e2e51b1739a25c4362c9",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/New-Concept-English-Phrases.json",
+        "entryType": "phrase",
+        "entryCount": 1373
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -723,6 +739,14 @@
         "sha256": "fa771f7430bf883b073895a9952dc1bd5474404b4b1c3db8bee379acd1d90175",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/New-Concept-English-1-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "New-Concept-English-1-Vocabulary.json",
+        "sizeBytes": 11926,
+        "sha256": "91442fbf0e247f30ef10e87c375107ec1e89aecff4d6daed746da59d6b607bf7",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/New-Concept-English-1-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 850
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -740,6 +764,14 @@
         "sizeMiB": 34.09,
         "sha256": "fc00b9d8542ff6279f93a2f90f7ef6bc7444748a6e87deec629936fc817ab304",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/New-Concept-English-2-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "New-Concept-English-2-Vocabulary.json",
+        "sizeBytes": 11949,
+        "sha256": "25632c951b166679e030efcfe67ae998d02e5130c4a9fab6de1f03c915968796",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/New-Concept-English-2-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 801
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -759,6 +791,14 @@
         "sha256": "22c4755e7eb5913ec4827bd5dd583560e3b7490e3fa76a7169bdca29d3ba4bd5",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/New-Concept-English-3-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "New-Concept-English-3-Vocabulary.json",
+        "sizeBytes": 15576,
+        "sha256": "c47cf09f815b71c5f59bc1830b7d74d89a72b6665d4c168c87a35e128e9d72bb",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/New-Concept-English-3-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 1001
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -776,6 +816,14 @@
         "sizeMiB": 18.1,
         "sha256": "c1e97a9765e7b9ed2ec294fecc4e1e9ce39bccec96fdb9324556cc617f7fc3c6",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/New-Concept-English-4-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "New-Concept-English-4-Vocabulary.json",
+        "sizeBytes": 12244,
+        "sha256": "06e71a45aa2e92fcaffebe02a5dab000964be8e172281708ad9552364fb2709f",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/New-Concept-English-4-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 755
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -795,6 +843,14 @@
         "sha256": "4d99738eb8340d018d6b9a0c965094440c1aba66604caa81fc871f6facd8158c",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/Longman-3000.apkg"
       },
+      "entryManifest": {
+        "fileName": "Longman-3000.json",
+        "sizeBytes": 43611,
+        "sha256": "90b6abc8d70f732aada84749824da09ceb3c61f47cde5b49ee3444465580dbcd",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/Longman-3000.json",
+        "entryType": "word",
+        "entryCount": 3020
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -812,6 +868,14 @@
         "sizeMiB": 31,
         "sha256": "8f767eaa9bb051bcd37d76f2533a669ecef2aa239e5681a17abe75fac01fbb4f",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/Longman-Academic-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "Longman-Academic-Vocabulary.json",
+        "sizeBytes": 21485,
+        "sha256": "3a45e416dffed96aa35fcf0a1abb21f6a387ae3e776462cc0e534470b754ac16",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/Longman-Academic-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 1265
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -831,6 +895,14 @@
         "sha256": "750c3a2a2845a61b16e9155847d1b834edd98630c90433cb6eaa8be57416209b",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/College-English-Test-Band-4-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "College-English-Test-Band-4-Vocabulary.json",
+        "sizeBytes": 65479,
+        "sha256": "7b4f6b57c7a0573590217e3e48658551b857915d2da528ab9ffcb346e39ca0d0",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/College-English-Test-Band-4-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 4518
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -848,6 +920,14 @@
         "sizeMiB": 57.88,
         "sha256": "b09a2c8cad2f0ba16b965d951b415155adb7e5b8418629a6864c7ea9146eb378",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/College-English-Test-Band-6-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "College-English-Test-Band-6-Vocabulary.json",
+        "sizeBytes": 33999,
+        "sha256": "49b134e9e1bf168145d93ea0021f95754076799a70243633a24d471f2c912555",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/College-English-Test-Band-6-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 2209
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -867,6 +947,14 @@
         "sha256": "d2b9b3bb5a31b317edffe0e94960e1dd96037443c40cae16d8e1f69241e8e7a3",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/Postgraduate-Entrance-Examination-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "Postgraduate-Entrance-Examination-Vocabulary.json",
+        "sizeBytes": 78384,
+        "sha256": "c75dd71ffb4852974734fa449eb2a0e774047b64b1776b9afcb1415ed216a67f",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/Postgraduate-Entrance-Examination-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 5374
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -884,6 +972,14 @@
         "sizeMiB": 96.28,
         "sha256": "8a1d2723a0173ac105e57af9c0301a63641c91f04d0639cc72fcb7037b30631d",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/IELTS-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "IELTS-Vocabulary.json",
+        "sizeBytes": 57393,
+        "sha256": "32d5c395fb1ffb58c0a08005172aae6142ece27db264fbb00e32645e3c6368ed",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/IELTS-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 3659
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -903,6 +999,14 @@
         "sha256": "d506eb840aea0f8f196b6a6f57d1c7239c6dcf0c369480f804c93db378bc2c12",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/TOEFL-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "TOEFL-Vocabulary.json",
+        "sizeBytes": 55479,
+        "sha256": "f1f3da6909cda039a353de370476082825a35413f52234e32ef843e3ede15500",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/TOEFL-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 3595
+      },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
     },
@@ -920,6 +1024,14 @@
         "sizeMiB": 199.55,
         "sha256": "43217126898f1c1be63be55ef7682ffbf7c3bbcfb845332739e23eba2c560254",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.apkg"
+      },
+      "entryManifest": {
+        "fileName": "NCE3-Developing-Skills.json",
+        "sizeBytes": 139138,
+        "sha256": "5b768d383182307b85c7dbfeca9d734aad4759dfdc08a6a3dd9d5f925b3579e7",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.json",
+        "entryType": "sentence",
+        "entryCount": 1361
       },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
       "websiteUrl": "https://englishanchor.online"
@@ -939,6 +1051,14 @@
         "sha256": "3712e1705450ff4ace8f9be0db4ce1326cd37e280dcffd72b692b0e8f625b827",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.apkg"
       },
+      "entryManifest": {
+        "fileName": "NCE4-Fluency-in-English.json",
+        "sizeBytes": 111136,
+        "sha256": "d584d8ccc3bb05e9e0b597453e166a1434ac48489c38ff01b2fb80230f4a370b",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.json",
+        "entryType": "sentence",
+        "entryCount": 787
+      },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
       "websiteUrl": "https://englishanchor.online"
     },
@@ -956,6 +1076,14 @@
         "sizeMiB": 98,
         "sha256": "9735ec82ea6f3d7ffb056ca3601848e476b2f30b4d71f2d7b5a667edea3410a1",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/GRE-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "GRE-Vocabulary.json",
+        "sizeBytes": 105209,
+        "sha256": "f31f8c1ac1ce65a2c362fb2c769b974eeb210361087f9bd164a0a0e4be1f660c",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/GRE-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 6668
       },
       "sourceReleaseUrl": null,
       "websiteUrl": "https://englishanchor.online"
@@ -977,6 +1105,14 @@
         "sha256": "5af69c60a73df5dfadf0da2fd4986d1d04f9c1497311b0e315af29db51864e1a",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/Primary-School-English-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "Primary-School-English-Vocabulary.json",
+        "sizeBytes": 5579,
+        "sha256": "cd5e4c793451b48c90a78f524dff1c78cd8ed860c01adb178299fb8756ebada6",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/Primary-School-English-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 424
+      },
       "websiteUrl": "https://englishanchor.online"
     },
     {
@@ -995,6 +1131,14 @@
         "sizeMiB": 95.70,
         "sha256": "7991f435bad840da4a2198c532f8db2ccf83aade0b4bd7825b647682f9c06462",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/Middle-School-English-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "Middle-School-English-Vocabulary.json",
+        "sizeBytes": 24792,
+        "sha256": "af185ea9dcc4862d949ef349707477c0447bcbb2c5045572811fd82a1f67d6cb",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/Middle-School-English-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 1804
       },
       "websiteUrl": "https://englishanchor.online"
     },
@@ -1015,6 +1159,14 @@
         "sha256": "0c4dd9018a982dca07c2f09f080917273e8a996d8a98c75bad2559489091bc97",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/High-School-English-Vocabulary.apkg"
       },
+      "entryManifest": {
+        "fileName": "High-School-English-Vocabulary.json",
+        "sizeBytes": 46780,
+        "sha256": "a582416c75a41aa5b74109f802025232018e434aacd965ab6d128401e007b9d5",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/High-School-English-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 3268
+      },
       "websiteUrl": "https://englishanchor.online"
     },
     {
@@ -1033,6 +1185,14 @@
         "sizeMiB": 185.07,
         "sha256": "117a57040afe67323b16e96f19b0a5f804dc5052bcec68d9e16d0a9011742d08",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/NPEE-English-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "NPEE-English-Vocabulary.json",
+        "sizeBytes": 77276,
+        "sha256": "d5383562b6d86b4bcfbb0d0ca506fa7eeb75130d1d8a4f5f114bb6687bfe0aa1",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/NPEE-English-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 5299
       },
       "websiteUrl": "https://englishanchor.online"
     }
