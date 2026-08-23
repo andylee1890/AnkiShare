@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T06:59:11.319Z",
+  "generatedAt": "2026-08-23T07:23:19.064Z",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -674,6 +674,29 @@
         "sampleCount": 24,
         "notes": 1124,
         "cards": 1124
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce2-practice-and-progress",
+        "releaseTag": "nce2-v1.0.2",
+        "version": "1.0.2",
+        "directory": "preview-decks/nce2-practice-and-progress",
+        "manifest": {
+          "fileName": "nce2-practice-and-progress-preview-manifest.json",
+          "sizeBytes": 213,
+          "sha256": "99b43a127a9671899511be8e82600cc1eba3d09d06ffe4ee0a873ac3206bda16",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/nce2-practice-and-progress-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce2-practice-and-progress-preview.json",
+          "sizeBytes": 61599,
+          "sha256": "2e5665cb708adc6e9d36412ea47a22e5438b7cdd72ae70cbc945e7564ca21ad5",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/nce2-practice-and-progress-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 1124,
+        "cards": 1124
       }
     },
     {
@@ -781,6 +804,29 @@
         "sampleCount": 24,
         "notes": 1373,
         "cards": 1373
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "new-concept-english-phrases",
+        "releaseTag": "nce-phrases-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/new-concept-english-phrases",
+        "manifest": {
+          "fileName": "new-concept-english-phrases-preview-manifest.json",
+          "sizeBytes": 222,
+          "sha256": "382dfaa4b9b9825a5c260c81f045f2b4aabe06d33a20c9b44987fb7bf5d6a620",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/new-concept-english-phrases-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "new-concept-english-phrases-preview.json",
+          "sizeBytes": 160230,
+          "sha256": "ba9df0854dc9d711108cb90962a07b9c423131e20258fc560b8223e9b9bc018e",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/new-concept-english-phrases-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 1373,
+        "cards": 1373
       }
     },
     {
@@ -839,6 +885,29 @@
         "sampleCount": 24,
         "notes": 850,
         "cards": 2550
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce1-vocabulary",
+        "releaseTag": "nce1-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce1-vocabulary",
+        "manifest": {
+          "fileName": "nce1-vocabulary-preview-manifest.json",
+          "sizeBytes": 219,
+          "sha256": "0ac65063794b26af2bfe10429f77cecbc93ada66631f6d874b2697e4406d5039",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/nce1-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce1-vocabulary-preview.json",
+          "sizeBytes": 2179047,
+          "sha256": "fb603bff80cee53936204c9ac146cfd10d6b811a4d507ec0952b490dc63b3ee5",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/nce1-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 850,
+        "cards": 2550
       }
     },
     {
@@ -878,6 +947,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 801,
+        "cards": 2403
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce2-vocabulary",
+        "releaseTag": "nce2-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce2-vocabulary",
+        "manifest": {
+          "fileName": "nce2-vocabulary-preview-manifest.json",
+          "sizeBytes": 219,
+          "sha256": "afdbc6c2f8d4c79e459dcfa3518b10562aec7a47dcaf3741385ef0a43afcad9d",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/nce2-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce2-vocabulary-preview.json",
+          "sizeBytes": 2539580,
+          "sha256": "0226acde1c900bbdeabf225b497c6cacbe465c6723acfd9d5d0d9839adcf7b9c",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/nce2-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 801,
         "cards": 2403
       }
@@ -921,6 +1013,29 @@
         "sampleCount": 24,
         "notes": 1001,
         "cards": 3003
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce3-vocabulary",
+        "releaseTag": "nce3-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce3-vocabulary",
+        "manifest": {
+          "fileName": "nce3-vocabulary-preview-manifest.json",
+          "sizeBytes": 219,
+          "sha256": "53d59d8094235e1103ed05cdd6829a3676556da2d1d9a50e3e86c7719d68afec",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/nce3-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce3-vocabulary-preview.json",
+          "sizeBytes": 2049655,
+          "sha256": "f4c2e4e89a712f96a8dca74025e2d8748809aa50cfc76ce123a14b27127f5dd4",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/nce3-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 1001,
+        "cards": 3003
       }
     },
     {
@@ -960,6 +1075,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 755,
+        "cards": 2265
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce4-vocabulary",
+        "releaseTag": "nce4-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce4-vocabulary",
+        "manifest": {
+          "fileName": "nce4-vocabulary-preview-manifest.json",
+          "sizeBytes": 219,
+          "sha256": "dda3ad6fffff921def59421d52b85e54d891d5f9ca083e5dfbd782cd9f53349b",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/nce4-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce4-vocabulary-preview.json",
+          "sizeBytes": 1532601,
+          "sha256": "80b19daa6786138508efc865756201f4ecd1b5dd266fbda9ba1f1b9870bbf81e",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/nce4-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 755,
         "cards": 2265
       }
@@ -1003,6 +1141,29 @@
         "sampleCount": 24,
         "notes": 3020,
         "cards": 9060
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "longman-3000-vocabulary",
+        "releaseTag": "longman-3000-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/longman-3000-vocabulary",
+        "manifest": {
+          "fileName": "longman-3000-vocabulary-preview-manifest.json",
+          "sizeBytes": 204,
+          "sha256": "d91f4fa365ce2bbeda465681e9e124593c7159e62819fa916d51b3fbd84bcf12",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/longman-3000-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "longman-3000-vocabulary-preview.json",
+          "sizeBytes": 3239871,
+          "sha256": "93da6f4b6061e0b1e253bc2646e07dfb55c7df1a6eba5497f2be7cdd2aa3a019",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/longman-3000-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 3020,
+        "cards": 9060
       }
     },
     {
@@ -1042,6 +1203,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 1265,
+        "cards": 3795
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "longman-academic-vocabulary",
+        "releaseTag": "longman-academic-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/longman-academic-vocabulary",
+        "manifest": {
+          "fileName": "longman-academic-vocabulary-preview-manifest.json",
+          "sizeBytes": 238,
+          "sha256": "0701e200b7c11c8c5097a5caa360612ddfcd9d31e2c5ddf5b299e74520d72541",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/longman-academic-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "longman-academic-vocabulary-preview.json",
+          "sizeBytes": 2001529,
+          "sha256": "4f19ec60a7e0b9a4922c3d3095d013d7783e483d460596e232d859afbebf2a1c",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/longman-academic-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 1265,
         "cards": 3795
       }
@@ -1085,6 +1269,29 @@
         "sampleCount": 24,
         "notes": 4518,
         "cards": 13554
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "cet4-vocabulary",
+        "releaseTag": "cet4-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/cet4-vocabulary",
+        "manifest": {
+          "fileName": "cet4-vocabulary-preview-manifest.json",
+          "sizeBytes": 225,
+          "sha256": "47a961204167cc919bc7d41b52d7ce58e2230ead49fef97a3243a901ad6f5ad7",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/cet4-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "cet4-vocabulary-preview.json",
+          "sizeBytes": 2493007,
+          "sha256": "c74c076bb41ff436a8d095027201917cb49989ba6dcda680f78f2ada2e4015a1",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/cet4-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 4518,
+        "cards": 13554
       }
     },
     {
@@ -1124,6 +1331,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 2209,
+        "cards": 6627
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "cet6-vocabulary",
+        "releaseTag": "cet6-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/cet6-vocabulary",
+        "manifest": {
+          "fileName": "cet6-vocabulary-preview-manifest.json",
+          "sizeBytes": 225,
+          "sha256": "84aedff3023f0c6a0795db1820f204ba498f2be4194752fabe55f4bc3dc98e04",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/cet6-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "cet6-vocabulary-preview.json",
+          "sizeBytes": 2187248,
+          "sha256": "cbc05b541be83ba01ba777faf3456644dd63b46a12957a4feae4ffeac3807e83",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/cet6-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 2209,
         "cards": 6627
       }
@@ -1167,6 +1397,29 @@
         "sampleCount": 24,
         "notes": 5374,
         "cards": 16122
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "postgraduate-vocabulary",
+        "releaseTag": "postgraduate-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/postgraduate-vocabulary",
+        "manifest": {
+          "fileName": "postgraduate-vocabulary-preview-manifest.json",
+          "sizeBytes": 247,
+          "sha256": "55f4bf91cd964d75647e4321bd13301f6c00c293a3b63ccef0dd1111f4a58d9f",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/postgraduate-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "postgraduate-vocabulary-preview.json",
+          "sizeBytes": 2165131,
+          "sha256": "a738b2e70e789da82108295dc6a803b88ae5d567f8fb41104d0e4e4d60046bb7",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/postgraduate-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 5374,
+        "cards": 16122
       }
     },
     {
@@ -1206,6 +1459,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 3659,
+        "cards": 10977
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "ielts-vocabulary",
+        "releaseTag": "ielts-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/ielts-vocabulary",
+        "manifest": {
+          "fileName": "ielts-vocabulary-preview-manifest.json",
+          "sizeBytes": 205,
+          "sha256": "02a999098f0c4fa28979a7a69ed5b961822b8e881237948e7d7f8478a8b47e71",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/ielts-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "ielts-vocabulary-preview.json",
+          "sizeBytes": 1853088,
+          "sha256": "db6003a922946005c98190ea565bc0eda77b996a74fe84493524f0c9f6672b0a",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/ielts-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 3659,
         "cards": 10977
       }
@@ -1249,6 +1525,29 @@
         "sampleCount": 24,
         "notes": 3595,
         "cards": 10785
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "toefl-vocabulary",
+        "releaseTag": "toefl-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/toefl-vocabulary",
+        "manifest": {
+          "fileName": "toefl-vocabulary-preview-manifest.json",
+          "sizeBytes": 205,
+          "sha256": "e9c9006afc46ea0689668475cb743d5497eb8f704a65ab7aa7caa0d325efdbee",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/toefl-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "toefl-vocabulary-preview.json",
+          "sizeBytes": 1458973,
+          "sha256": "90d4a1ae4a9e01b050cb9316e688248b250f68c2269432c35c75d4e78dbcf9bc",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/toefl-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 3595,
+        "cards": 10785
       }
     },
     {
@@ -1288,6 +1587,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 1361,
+        "cards": 1361
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce3-developing-skills",
+        "releaseTag": "nce3-v1.0.1",
+        "version": "1.0.1",
+        "directory": "preview-decks/nce3-developing-skills",
+        "manifest": {
+          "fileName": "nce3-developing-skills-preview-manifest.json",
+          "sizeBytes": 205,
+          "sha256": "1f06f898ecd5796325d8dede57b8e4ef5ef22bf9a2d93bf9700e8688960dba00",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/nce3-developing-skills-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce3-developing-skills-preview.json",
+          "sizeBytes": 143906,
+          "sha256": "cb918a67d08d0df8898fa909a72af8de7efa85bfcc8f38ad74579e35ff532ca2",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/nce3-developing-skills-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 1361,
         "cards": 1361
       }
@@ -1331,6 +1653,29 @@
         "sampleCount": 24,
         "notes": 787,
         "cards": 787
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce4-fluency-in-english",
+        "releaseTag": "nce4-v1.0.1",
+        "version": "1.0.1",
+        "directory": "preview-decks/nce4-fluency-in-english",
+        "manifest": {
+          "fileName": "nce4-fluency-in-english-preview-manifest.json",
+          "sizeBytes": 207,
+          "sha256": "ed310f272050582df3d726cb3e75c18ced33b31c81669b072491abed72904ebb",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/nce4-fluency-in-english-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce4-fluency-in-english-preview.json",
+          "sizeBytes": 201886,
+          "sha256": "f91d2b28b8396e26f1033bdbb697338ebff90b396f11cfc76194880572291e79",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/nce4-fluency-in-english-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 787,
+        "cards": 787
       }
     },
     {
@@ -1370,6 +1715,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 6668,
+        "cards": 20004
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "gre-vocabulary",
+        "releaseTag": "gre-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/gre-vocabulary",
+        "manifest": {
+          "fileName": "gre-vocabulary-preview-manifest.json",
+          "sizeBytes": 199,
+          "sha256": "317b926eaa92bef7959c2b7cae146deadf1cb841cc3108c9e1f3f284ae47a230",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/gre-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "gre-vocabulary-preview.json",
+          "sizeBytes": 712561,
+          "sha256": "3101337871e8e851da65d6e2574da5988abc7f228f941263713977ff4cd5b968",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/gre-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 6668,
         "cards": 20004
       }
@@ -1414,6 +1782,29 @@
         "sampleCount": 24,
         "notes": 424,
         "cards": 1272
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "primary-school-vocabulary",
+        "releaseTag": "primary-school-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/primary-school-vocabulary",
+        "manifest": {
+          "fileName": "primary-school-vocabulary-preview-manifest.json",
+          "sizeBytes": 240,
+          "sha256": "4bd825842ae74c78c7d4e98a27e32a573aba045beca82ece36c5e9fc58e80a7a",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/primary-school-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "primary-school-vocabulary-preview.json",
+          "sizeBytes": 5370973,
+          "sha256": "c554137b2b361a33bedfb2cb49cf2cc2c9ca407974d94a74cafd6766b82d3a4c",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/primary-school-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 424,
+        "cards": 1272
       }
     },
     {
@@ -1454,6 +1845,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 1804,
+        "cards": 5412
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "middle-school-vocabulary",
+        "releaseTag": "middle-school-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/middle-school-vocabulary",
+        "manifest": {
+          "fileName": "middle-school-vocabulary-preview-manifest.json",
+          "sizeBytes": 237,
+          "sha256": "1723c02e1444e9709a7c18b387c608c5b623eec5016cc0452931e75b3cb7cfc9",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/middle-school-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "middle-school-vocabulary-preview.json",
+          "sizeBytes": 3909578,
+          "sha256": "b7712dd762f1802aebf523fb689b7efdec8c98594161949d2e7d50c70691de50",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/middle-school-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 1804,
         "cards": 5412
       }
@@ -1498,6 +1912,29 @@
         "sampleCount": 24,
         "notes": 3268,
         "cards": 9804
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "high-school-vocabulary",
+        "releaseTag": "high-school-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/high-school-vocabulary",
+        "manifest": {
+          "fileName": "high-school-vocabulary-preview-manifest.json",
+          "sizeBytes": 231,
+          "sha256": "022f0c0ca770c43fd5eed0a7183be3342902738ec8818785119a6477e7c06f46",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/high-school-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "high-school-vocabulary-preview.json",
+          "sizeBytes": 2409553,
+          "sha256": "1561a8f9349478f65c308c9ddb816f800c91bc064daf8e8bf76da6b17ad67386",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/high-school-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 3268,
+        "cards": 9804
       }
     },
     {
@@ -1538,6 +1975,29 @@
         "type": "anki-preview",
         "previewSchemaVersion": 1,
         "sampleCount": 24,
+        "notes": 5299,
+        "cards": 15897
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "npee-vocabulary",
+        "releaseTag": "npee-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/npee-vocabulary",
+        "manifest": {
+          "fileName": "npee-vocabulary-preview-manifest.json",
+          "sizeBytes": 210,
+          "sha256": "bd5fb5db19a6ed776bf5ffbfcc105717d0b7a19534d191dcadd39e2d161842e8",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/npee-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "npee-vocabulary-preview.json",
+          "sizeBytes": 2142386,
+          "sha256": "536814039bbfcbafae67df300bd878440df5b502a20466d2174b35a870cbe379",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/npee-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
         "notes": 5299,
         "cards": 15897
       }
