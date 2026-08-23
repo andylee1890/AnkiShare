@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T19:30:00+08:00",
+  "generatedAt": "2026-08-23T06:59:11.319Z",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -530,7 +530,11 @@
         "fit": "cover"
       },
       "description": "小学阶段英语基础词汇，提供认读、拼写和听写三种练习。",
-      "features": ["424 条词条", "RECITE、SPELLING、DICTATION", "小学英语"],
+      "features": [
+        "424 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "小学英语"
+      ],
       "latestVersion": "primary-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/primary-school-vocabulary-v1.0.0",
       "versions": [
@@ -556,7 +560,11 @@
         "fit": "cover"
       },
       "description": "中考阶段英语核心词汇，提供认读、拼写和听写三种练习。",
-      "features": ["1,804 条词条", "RECITE、SPELLING、DICTATION", "中考英语"],
+      "features": [
+        "1,804 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "中考英语"
+      ],
       "latestVersion": "middle-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/middle-school-vocabulary-v1.0.0",
       "versions": [
@@ -582,7 +590,11 @@
         "fit": "cover"
       },
       "description": "高中阶段英语核心词汇，提供认读、拼写和听写三种练习。",
-      "features": ["3,268 条词条", "RECITE、SPELLING、DICTATION", "高中英语"],
+      "features": [
+        "3,268 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "高中英语"
+      ],
       "latestVersion": "high-school-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/high-school-vocabulary-v1.0.0",
       "versions": [
@@ -608,7 +620,11 @@
         "fit": "cover"
       },
       "description": "英语专业入学考试词汇，提供认读、拼写和听写三种练习。",
-      "features": ["5,299 条词条", "RECITE、SPELLING、DICTATION", "英语专业入学考试"],
+      "features": [
+        "5,299 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "英语专业入学考试"
+      ],
       "latestVersion": "npee-vocabulary-v1.0.0",
       "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/npee-vocabulary-v1.0.0",
       "versions": [
@@ -643,7 +659,22 @@
         "entryCount": 1124
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "1516df17d5efe3bd444115c8c36749b1bd033fc0a1baadbabfb0213e61120be5",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 61599,
+        "sha256": "2e5665cb708adc6e9d36412ea47a22e5438b7cdd72ae70cbc945e7564ca21ad5",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1124,
+        "cards": 1124
+      }
     },
     {
       "tag": "nce3-v1.0.0",
@@ -661,7 +692,22 @@
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg"
       },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 286,
+        "manifestSha256": "190cd3ac2d20e93342892b7306599c6e1121ea431df3fc181777bcdbb88e5857",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 143906,
+        "sha256": "cb918a67d08d0df8898fa909a72af8de7efa85bfcc8f38ad74579e35ff532ca2",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1361,
+        "cards": 1361
+      }
     },
     {
       "tag": "nce4-v1.0.0",
@@ -679,7 +725,22 @@
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg"
       },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 287,
+        "manifestSha256": "3390edf9a514d645acb6f505c257081b1b4ac8e84bb7fb4b7690642befb053c8",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 201886,
+        "sha256": "f91d2b28b8396e26f1033bdbb697338ebff90b396f11cfc76194880572291e79",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 787,
+        "cards": 787
+      }
     },
     {
       "tag": "nce-phrases-v1.0.0",
@@ -705,7 +766,22 @@
         "entryCount": 1373
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 298,
+        "manifestSha256": "c0d073628c5e1d102344529737c18cf5b56dcb2802d377939221f1599abbba75",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 160230,
+        "sha256": "ba9df0854dc9d711108cb90962a07b9c423131e20258fc560b8223e9b9bc018e",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-phrases-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1373,
+        "cards": 1373
+      }
     },
     {
       "tag": "note-resources-v1.0.0",
@@ -748,7 +824,22 @@
         "entryCount": 850
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "ab3419a8267a9c3648a48176f5bcdd93dcc5c4a1e82479e39f0182946bfda9a3",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2179047,
+        "sha256": "fb603bff80cee53936204c9ac146cfd10d6b811a4d507ec0952b490dc63b3ee5",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 850,
+        "cards": 2550
+      }
     },
     {
       "tag": "nce2-vocabulary-v1.0.0",
@@ -774,7 +865,22 @@
         "entryCount": 801
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "32c45fa452eee1d4ff49b7342c2ab652fc7fd4ed9f5ddba84c41b0c333531259",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2539580,
+        "sha256": "0226acde1c900bbdeabf225b497c6cacbe465c6723acfd9d5d0d9839adcf7b9c",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce2-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 801,
+        "cards": 2403
+      }
     },
     {
       "tag": "nce3-vocabulary-v1.0.0",
@@ -800,7 +906,22 @@
         "entryCount": 1001
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "50a40dd08aa446cfd1dfa308d3fd72b4c4bc512cba5cb055824faa544e2af9ab",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2049655,
+        "sha256": "f4c2e4e89a712f96a8dca74025e2d8748809aa50cfc76ce123a14b27127f5dd4",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1001,
+        "cards": 3003
+      }
     },
     {
       "tag": "nce4-vocabulary-v1.0.0",
@@ -826,7 +947,22 @@
         "entryCount": 755
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "cb2ae64bbd6a7175bdadde008856024a21c4e32c2977d021e46a4697c594e05a",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 1532601,
+        "sha256": "80b19daa6786138508efc865756201f4ecd1b5dd266fbda9ba1f1b9870bbf81e",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 755,
+        "cards": 2265
+      }
     },
     {
       "tag": "longman-3000-v1.0.0",
@@ -852,7 +988,22 @@
         "entryCount": 3020
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 295,
+        "manifestSha256": "317b1216981eb0b24046000d891b27b7402edd61d5ff02827805ae54d9ad238c",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 3239871,
+        "sha256": "93da6f4b6061e0b1e253bc2646e07dfb55c7df1a6eba5497f2be7cdd2aa3a019",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-3000-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3020,
+        "cards": 9060
+      }
     },
     {
       "tag": "longman-academic-vocabulary-v1.0.0",
@@ -878,7 +1029,22 @@
         "entryCount": 1265
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 314,
+        "manifestSha256": "0653a0652cfd91fc7dfb0c9ec75aa295f22c6fb70895cab0761e14438cd02b9e",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2001529,
+        "sha256": "4f19ec60a7e0b9a4922c3d3095d013d7783e483d460596e232d859afbebf2a1c",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-academic-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1265,
+        "cards": 3795
+      }
     },
     {
       "tag": "cet4-vocabulary-v1.0.0",
@@ -904,7 +1070,22 @@
         "entryCount": 4518
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "fe9dc1d3f92a3be21ba61c9ca59277261cd7d9b6ad24e006af75b5f76affbd4b",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2493007,
+        "sha256": "c74c076bb41ff436a8d095027201917cb49989ba6dcda680f78f2ada2e4015a1",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet4-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 4518,
+        "cards": 13554
+      }
     },
     {
       "tag": "cet6-vocabulary-v1.0.0",
@@ -930,7 +1111,22 @@
         "entryCount": 2209
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "a2f99b1784c83dd3c355280188065a5ad5476db3dd986410b958c669e4462fee",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2187248,
+        "sha256": "cbc05b541be83ba01ba777faf3456644dd63b46a12957a4feae4ffeac3807e83",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet6-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 2209,
+        "cards": 6627
+      }
     },
     {
       "tag": "postgraduate-vocabulary-v1.0.0",
@@ -956,7 +1152,22 @@
         "entryCount": 5374
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 306,
+        "manifestSha256": "67895278a82d02728739e92593f7f5b16e7c8c8cbc8d7fa36dbb3f5b08ef9456",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2165131,
+        "sha256": "a738b2e70e789da82108295dc6a803b88ae5d567f8fb41104d0e4e4d60046bb7",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/postgraduate-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 5374,
+        "cards": 16122
+      }
     },
     {
       "tag": "ielts-vocabulary-v1.0.0",
@@ -982,7 +1193,22 @@
         "entryCount": 3659
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 292,
+        "manifestSha256": "8ae70e6ddd3ecdab039b95d2463b1aa8fee688f2a9328a8ba3cb3d523de1e31f",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 1853088,
+        "sha256": "db6003a922946005c98190ea565bc0eda77b996a74fe84493524f0c9f6672b0a",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/ielts-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3659,
+        "cards": 10977
+      }
     },
     {
       "tag": "toefl-vocabulary-v1.0.0",
@@ -1008,7 +1234,22 @@
         "entryCount": 3595
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 292,
+        "manifestSha256": "fd40c57407038d97c614f6802ed9d448a7b54bcd968bf8291993ee06de7f7ad0",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 1458973,
+        "sha256": "90d4a1ae4a9e01b050cb9316e688248b250f68c2269432c35c75d4e78dbcf9bc",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/toefl-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3595,
+        "cards": 10785
+      }
     },
     {
       "tag": "nce3-v1.0.1",
@@ -1034,7 +1275,22 @@
         "entryCount": 1361
       },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1533041577",
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 286,
+        "manifestSha256": "d489de1e03c78fa874af6fcb357c9c9e8f4e8c34b7698c362819d7d79778b3ba",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 143906,
+        "sha256": "cb918a67d08d0df8898fa909a72af8de7efa85bfcc8f38ad74579e35ff532ca2",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1361,
+        "cards": 1361
+      }
     },
     {
       "tag": "nce4-v1.0.1",
@@ -1060,7 +1316,22 @@
         "entryCount": 787
       },
       "sourceReleaseUrl": "https://ankiweb.net/shared/info/1169581791",
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 287,
+        "manifestSha256": "c3c515c5ff48679c658022f9996bc73aa20bb7687ff5b0378452af6c4257b58a",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 201886,
+        "sha256": "f91d2b28b8396e26f1033bdbb697338ebff90b396f11cfc76194880572291e79",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 787,
+        "cards": 787
+      }
     },
     {
       "tag": "gre-vocabulary-v1.0.0",
@@ -1086,7 +1357,22 @@
         "entryCount": 6668
       },
       "sourceReleaseUrl": null,
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 288,
+        "manifestSha256": "3edc6068305ec5c938c0a5147171ed493f7c7b284f9c33561050eadf292a7b33",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 712561,
+        "sha256": "3101337871e8e851da65d6e2574da5988abc7f228f941263713977ff4cd5b968",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/gre-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 6668,
+        "cards": 20004
+      }
     },
     {
       "tag": "primary-school-vocabulary-v1.0.0",
@@ -1113,7 +1399,22 @@
         "entryType": "word",
         "entryCount": 424
       },
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 310,
+        "manifestSha256": "a0a0341e6fa557f3d7960bdf0ce331710d9bf57f2fbcd8a95b0a9b4440bb71eb",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 5370973,
+        "sha256": "c554137b2b361a33bedfb2cb49cf2cc2c9ca407974d94a74cafd6766b82d3a4c",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/primary-school-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 424,
+        "cards": 1272
+      }
     },
     {
       "tag": "middle-school-vocabulary-v1.0.0",
@@ -1128,7 +1429,7 @@
         "noteCount": 1804,
         "cardCount": 5412,
         "sizeBytes": 100348552,
-        "sizeMiB": 95.70,
+        "sizeMiB": 95.7,
         "sha256": "7991f435bad840da4a2198c532f8db2ccf83aade0b4bd7825b647682f9c06462",
         "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/Middle-School-English-Vocabulary.apkg"
       },
@@ -1140,7 +1441,22 @@
         "entryType": "word",
         "entryCount": 1804
       },
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 308,
+        "manifestSha256": "b8cf6027006829cf39e464681e435e5fcd3f62c39e2f5d07fcde3ff1974adf64",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 3909578,
+        "sha256": "b7712dd762f1802aebf523fb689b7efdec8c98594161949d2e7d50c70691de50",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/middle-school-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 1804,
+        "cards": 5412
+      }
     },
     {
       "tag": "high-school-vocabulary-v1.0.0",
@@ -1167,7 +1483,22 @@
         "entryType": "word",
         "entryCount": 3268
       },
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 304,
+        "manifestSha256": "d8afbf4bd24f780b777e3666f7c44429a2e154a56fe8b2e7a8eff182dad8b133",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2409553,
+        "sha256": "1561a8f9349478f65c308c9ddb816f800c91bc064daf8e8bf76da6b17ad67386",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/high-school-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3268,
+        "cards": 9804
+      }
     },
     {
       "tag": "npee-vocabulary-v1.0.0",
@@ -1194,7 +1525,22 @@
         "entryType": "word",
         "entryCount": 5299
       },
-      "websiteUrl": "https://englishanchor.online"
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "manifest.json",
+        "manifestSizeBytes": 290,
+        "manifestSha256": "095c1db0ace877d11b4b7fa1111f27c98bbfc1b4f4075051f8adb8ca29706a51",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/manifest.json",
+        "fileName": "preview.json",
+        "sizeBytes": 2142386,
+        "sha256": "536814039bbfcbafae67df300bd878440df5b502a20466d2174b35a870cbe379",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/npee-vocabulary-v1.0.0/preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 5299,
+        "cards": 15897
+      }
     }
   ]
 }
