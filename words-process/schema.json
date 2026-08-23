@@ -22,5 +22,39 @@
     "raw_value": "Trimmed source cell value without lexical correction",
     "normalized": "Case-preserving identity key used to link the entry",
     "comparison_normalized": "Case-insensitive comparison key used only for review signals"
+  },
+  "external-sources/<source-id>/source-catalog.json": {
+    "purpose": "Durable audit metadata for a third-party source. This registry is not a word-entry import and cannot modify the immutable baseline.",
+    "source_repository": "Repository or authoritative source URL",
+    "source_commit": "Resolved source revision used by the audit when available",
+    "repository_license": "Observed repository-level license verdict; absence is recorded as none found",
+    "anki_reference": "Read-only mother-pool comparison summary for deck:Words",
+    "files": "Per-file hash, extraction diagnostics, disposition and, where applicable, mother-pool overlap evidence"
+  },
+  "external-sources/<source-id>/candidate-groups.json": {
+    "purpose": "Potential canonical groups held outside group-definitions.json until source-specific admission is approved.",
+    "id": "Stable ASCII candidate ID; it must not be treated as a registered publishable group until admitted",
+    "admission_status": "blocked-license | pending-review | admitted | excluded",
+    "license_status": "Source-specific rights verdict",
+    "source_file_sha256": "Hash that ties the candidate to the audited source file",
+    "guid_namespace": "Null until admission; assign a permanent unique UUID only when the group is ready to be built and published",
+    "counts": "Source headword count and read-only overlap with deck:Words",
+    "selection": "Extraction and normalization method; must not copy definitions, examples, pronunciation or dictionary HTML into the public baseline"
+  },
+  "external-sources/<source-id>/data/entries.jsonl": {
+    "purpose": "Extension entries whose clean headwords already match a note in deck:Words but are absent from the immutable baseline",
+    "entry_id": "Stable external ID derived from comparison_normalized; it does not replace an immutable baseline entry ID",
+    "mother_pool": "Must be deck:Words",
+    "review_status": "verified only when supported by multiple independent source groups; single-source entries remain needs-review",
+    "canonical_source_group_ids": "Registered external source group IDs",
+    "quality_flags": "Machine-detected or manually recorded lexical concerns"
+  },
+  "external-sources/<source-id>/data/candidates.jsonl": {
+    "purpose": "Clean headwords not currently present in deck:Words; they are review candidates and cannot be used to build a card package until the mother pool is populated",
+    "admission_status": "missing-from-mother-pool",
+    "baseline_entry_id": "Optional foreign key when the same comparison_normalized already exists in the immutable baseline; it prevents a duplicate baseline identity",
+    "review_status": "verified when multiple independent source groups support the headword; otherwise needs-review",
+    "canonical_source_group_ids": "Source groups supporting the candidate",
+    "quality_flags": "Machine-detected concerns retained for review"
   }
 }

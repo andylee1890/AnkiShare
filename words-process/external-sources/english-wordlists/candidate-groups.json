@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "description": "Candidate groups derived from the read-only english-wordlists audit. Extension-ready groups remain outside the immutable baseline and must be built from the external extension layer.",
+  "groups": [
+    {
+      "id": "primary_school",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "小学英语基础词汇",
+      "deck_name": "小学英语基础词汇",
+      "source_file": "小学英语大纲词汇.txt",
+      "source_file_sha256": "b01bd357672846a5dac769139d989050ada2c77ed9aa8566ab07974597402c87",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "55bdcb89-de70-58b5-9221-4fd629c87e8d",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 439,
+        "extension_entries_in_mother_pool": 0,
+        "extension_verified": 0,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "middle_school",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "中考英语词汇",
+      "deck_name": "中考英语词汇",
+      "source_file": "中考英语词汇表.txt",
+      "source_file_sha256": "2f4a4218b1ab6f2306b062f4d37653d8a9dabe2c663e5f11e2519154daed8dc1",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "c06ec940-e141-5379-b9b0-d6d21638a398",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 1959,
+        "extension_entries_in_mother_pool": 9,
+        "extension_verified": 9,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "shanghai_middle_school",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "上海初中英语词汇",
+      "deck_name": "上海初中英语词汇",
+      "source_file": "上海市初中英语词汇表（2020年版）.pdf",
+      "source_file_sha256": "11f7bdb6eaba225e8c65cffb54ac37ae855a2aadc30f5083e657fde2b0407119",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "9b9109ca-586a-56a5-80ec-56447ebe5514",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 1840,
+        "extension_entries_in_mother_pool": 8,
+        "extension_verified": 8,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "high_school",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "高中英语词汇",
+      "deck_name": "高中英语词汇",
+      "source_file": "Highschool_edited.txt",
+      "source_file_sha256": "a885b8a03a87cd630ccded69870b63f5c367457eb541cbef75fc059d67dd4126",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "adfec6b0-f96a-5505-942c-e8c2ec3ac4c2",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 3445,
+        "extension_entries_in_mother_pool": 14,
+        "extension_verified": 14,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "taiwan_high_school",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "台湾高中英语参考词汇",
+      "deck_name": "台湾高中英语词汇",
+      "source_file": "台灣高中英文參考詞彙表.txt",
+      "source_file_sha256": "a6fa031b418d20f29c4bcf312ff900cd53f3619325fab5fb4ec1c621ad49a85a",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "6b59caad-ba38-5ede-bfe3-745bda03a6cd",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 5596,
+        "extension_entries_in_mother_pool": 86,
+        "extension_verified": 86,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "npee",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "英语专业入学考试词汇",
+      "deck_name": "英语专业入学考试词汇",
+      "source_file": "NPEE_Wordlist.txt",
+      "source_file_sha256": "c6986105f362693cd5566568572eaeeea167d0d72a35f18a673cffa99cb49263",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "ef17a990-af6b-5823-888c-8b50596b5188",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 5391,
+        "extension_entries_in_mother_pool": 0,
+        "extension_verified": 0,
+        "extension_needs_review": 0
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "tem4_tem8",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "英语专业四八级词汇",
+      "deck_name": "英语专业四八级词汇",
+      "source_file": "英语专业四八级词汇表.txt",
+      "source_file_sha256": "eecf05c922441f65023c878df20a7a20a3eb018fa1d01eef4ff715461fba5f4c",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "0acf1a11-f831-55e7-b700-cb37d9de13a9",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 12604,
+        "extension_entries_in_mother_pool": 363,
+        "extension_verified": 359,
+        "extension_needs_review": 4
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "tem8_starred",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "英语专业八级星标词汇",
+      "deck_name": "英语专业八级星标词汇",
+      "source_file": "英语专业星标八级词汇.txt",
+      "source_file_sha256": "15476c213d49ae13bac2c06c8a059bfd4fe49eed67bb2714faea7ffa4635a81b",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "bb42fdb5-dea9-581a-8508-805b152867d9",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 4010,
+        "extension_entries_in_mother_pool": 170,
+        "extension_verified": 169,
+        "extension_needs_review": 1
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "coca_20000",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "COCA 高频词汇",
+      "deck_name": "COCA 高频词汇",
+      "source_file": "COCA_20000.txt",
+      "source_file_sha256": "9b1ef80afea4a2c0f88118c800699231a3d8199bab8c639bbeaf66cd7a1456e6",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "546ab0ce-7d55-5d61-9c52-5ee4888df730",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 17627,
+        "extension_entries_in_mother_pool": 2166,
+        "extension_verified": 1292,
+        "extension_needs_review": 874
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    },
+    {
+      "id": "collins_frequency",
+      "kind": "canonical",
+      "group_type": "single",
+      "label": "柯林斯词频",
+      "deck_name": "柯林斯词频词汇",
+      "source_file": "柯林斯词频-5星至0星.xlsx",
+      "source_file_sha256": "e520aaa6d4ab4ee4d08af1b63df2ed0f143abfa272010c1137ba2cd52b5e744c",
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review",
+      "guid_namespace": "678ccf71-2381-5f7c-951f-06a20c0ba8f2",
+      "selection": {
+        "operation": "clean headword-only extraction, then intersect with deck:Words and subtract immutable baseline",
+        "normalization": "NFKC, trim, collapse whitespace, casefold for comparison",
+        "mother_pool_query": "deck:Words"
+      },
+      "counts": {
+        "clean_source_unique_casefold": 27152,
+        "extension_entries_in_mother_pool": 1248,
+        "extension_verified": 1244,
+        "extension_needs_review": 4
+      },
+      "reason": "content-level integration requested; dictionary definitions and HTML are not copied",
+      "next_gate": "review needs-review entries before building a public deck"
+    }
+  ]
+}

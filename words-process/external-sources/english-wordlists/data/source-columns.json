@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "description": "External source location fields for the english-wordlists extension layer.",
+  "sources": {
+    "primary_school": {
+      "file": "小学英语大纲词汇.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "middle_school": {
+      "file": "中考英语词汇表.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "shanghai_middle_school": {
+      "file": "上海市初中英语词汇表（2020年版）.pdf",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "high_school": {
+      "file": "Highschool_edited.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "taiwan_high_school": {
+      "file": "台灣高中英文參考詞彙表.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "npee": {
+      "file": "NPEE_Wordlist.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "tem4_tem8": {
+      "file": "英语专业四八级词汇表.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "tem8_starred": {
+      "file": "英语专业星标八级词汇.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "coca_20000": {
+      "file": "COCA_20000.txt",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    },
+    "collins_frequency": {
+      "file": "柯林斯词频-5星至0星.xlsx",
+      "source_repository": "https://github.com/mahavivo/english-wordlists",
+      "source_commit": "395cebd"
+    }
+  }
+}

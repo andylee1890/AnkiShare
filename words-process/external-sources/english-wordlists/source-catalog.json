@@ -1,0 +1,726 @@
+{
+  "schema_version": 1,
+  "source_repository": "https://github.com/mahavivo/english-wordlists",
+  "source_commit": "395cebd",
+  "repository_license": "none found",
+  "data_policy": "The extension layer contains clean headwords: entries already present in deck:Words are usable extension entries, while missing headwords remain candidates until the mother pool is populated. The immutable baseline remains unchanged. Dictionary definitions, examples, pronunciation and HTML are excluded.",
+  "extraction_policy": "Only candidate headwords are measured; pronunciation, definitions, examples, and dictionary HTML are never copied into the public baseline.",
+  "anki_reference": {
+    "query": "deck:Words",
+    "note_count": 17041,
+    "unique_words_casefold": 16378
+  },
+  "files": [
+    {
+      "file": "CET4_edited.txt",
+      "extension": ".txt",
+      "bytes": 203505,
+      "sha256": "ad7e32bcad9185f051ec1caadb6c33ca4e8f97f314e2d93351552078a7b499ac",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 4643,
+      "extracted_occurrences": 4612,
+      "unique_exact": 4541,
+      "unique_casefold": 4537,
+      "duplicate_casefold": 75,
+      "headword_quality_signals": {
+        "alphabetic-heading": 27,
+        "compressed-inflection": 2
+      },
+      "non_lexical_rate": 0.0067
+    },
+    {
+      "file": "CET6_edited.txt",
+      "extension": ".txt",
+      "bytes": 180137,
+      "sha256": "999302ff15f1df2e794d52b5b0497da22d21a86010918fa4568752adf77aead9",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 2273,
+      "extracted_occurrences": 2273,
+      "unique_exact": 2219,
+      "unique_casefold": 2219,
+      "duplicate_casefold": 54,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "CET_4+6_edited.txt",
+      "extension": ".txt",
+      "bytes": 73904,
+      "sha256": "91d4794bee8aa88e0c2355dab40420db0ec1e3d8b60bb8c00b544814ce013474",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 8028,
+      "extracted_occurrences": 8028,
+      "unique_exact": 8012,
+      "unique_casefold": 8012,
+      "duplicate_casefold": 16,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "COCA_20000.txt",
+      "extension": ".txt",
+      "bytes": 190423,
+      "sha256": "9b1ef80afea4a2c0f88118c800699231a3d8199bab8c639bbeaf66cd7a1456e6",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 20200,
+      "extracted_occurrences": 20199,
+      "unique_exact": 17636,
+      "unique_casefold": 17630,
+      "duplicate_casefold": 2569,
+      "headword_quality_signals": {
+        "alphabetic-heading": 1
+      },
+      "non_lexical_rate": 0.0,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 17627,
+        "already_in_anki_words": 12689,
+        "new_vs_anki_words": 4938,
+        "anki_overlap_percent": 71.99
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 17627,
+        "extension_entries_in_mother_pool": 2166,
+        "extension_verified": 1292,
+        "extension_needs_review": 874
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "COCA_abridged.txt",
+      "extension": ".txt",
+      "bytes": 482152,
+      "sha256": "26ec9ddfe50d2064168426b8d3aa84e00bb129608f1a1077ca5d953a5e8755f4",
+      "status": "excluded-derivative",
+      "disposition": "exclude",
+      "reason": "contains third-party Chinese definitions and undocumented derivation",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 5987,
+      "extracted_occurrences": 5987,
+      "unique_exact": 5792,
+      "unique_casefold": 5792,
+      "duplicate_casefold": 195,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "COCA_with_translation.txt",
+      "extension": ".txt",
+      "bytes": 2654947,
+      "sha256": "c5853975ed1359d97e5a775b48e4270d54c72b35689e028ab70858c320fd7877",
+      "status": "excluded-derivative",
+      "disposition": "exclude",
+      "reason": "contains third-party Chinese definitions and undocumented derivation",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 80488,
+      "extracted_occurrences": 20330,
+      "unique_exact": 17563,
+      "unique_casefold": 17554,
+      "duplicate_casefold": 2776,
+      "headword_quality_signals": {
+        "alphabetic-heading": 2,
+        "numbered-headword": 2,
+        "part-of-speech-marker": 39675
+      },
+      "non_lexical_rate": 0.7474
+    },
+    {
+      "file": "GRE_8000_Words.txt",
+      "extension": ".txt",
+      "bytes": 375115,
+      "sha256": "1193ba71f724917eb54b99e51734a8b868ea441ea088f454a62c82e8b07e43ce",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 7744,
+      "extracted_occurrences": 7741,
+      "unique_exact": 7726,
+      "unique_casefold": 7726,
+      "duplicate_casefold": 15,
+      "headword_quality_signals": {
+        "compressed-inflection": 2,
+        "part-of-speech-marker": 1
+      },
+      "non_lexical_rate": 0.0004
+    },
+    {
+      "file": "GRE_abridged.txt",
+      "extension": ".txt",
+      "bytes": 223191,
+      "sha256": "bf03d774c8d2def7c7b6d55d3b2b3b60ef9ab2586c07748b1e8d384e71f818f6",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 4333,
+      "extracted_occurrences": 4331,
+      "unique_exact": 4329,
+      "unique_casefold": 4329,
+      "duplicate_casefold": 2,
+      "headword_quality_signals": {
+        "compressed-inflection": 2
+      },
+      "non_lexical_rate": 0.0005
+    },
+    {
+      "file": "GRE_delete_CET4+6+TOEFL.txt",
+      "extension": ".txt",
+      "bytes": 211226,
+      "sha256": "de7702c2c3903ef5d39ed1c0e670e3a0ac7332b6a05fe0b98101d1e6aaead14b",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 4343,
+      "extracted_occurrences": 4340,
+      "unique_exact": 4330,
+      "unique_casefold": 4330,
+      "duplicate_casefold": 10,
+      "headword_quality_signals": {
+        "compressed-inflection": 2,
+        "part-of-speech-marker": 1
+      },
+      "non_lexical_rate": 0.0007
+    },
+    {
+      "file": "Highschool_edited.txt",
+      "extension": ".txt",
+      "bytes": 28821,
+      "sha256": "a885b8a03a87cd630ccded69870b63f5c367457eb541cbef75fc059d67dd4126",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 3469,
+      "extracted_occurrences": 3468,
+      "unique_exact": 3446,
+      "unique_casefold": 3446,
+      "duplicate_casefold": 22,
+      "headword_quality_signals": {
+        "alphabetic-heading": 1
+      },
+      "non_lexical_rate": 0.0003,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 3445,
+        "already_in_anki_words": 3268,
+        "new_vs_anki_words": 177,
+        "anki_overlap_percent": 94.86
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 3445,
+        "extension_entries_in_mother_pool": 14,
+        "extension_verified": 14,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "NPEE_Wordlist.txt",
+      "extension": ".txt",
+      "bytes": 305828,
+      "sha256": "c6986105f362693cd5566568572eaeeea167d0d72a35f18a673cffa99cb49263",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 5398,
+      "extracted_occurrences": 5397,
+      "unique_exact": 5393,
+      "unique_casefold": 5391,
+      "duplicate_casefold": 6,
+      "headword_quality_signals": {
+        "alphabetic-heading": 1
+      },
+      "non_lexical_rate": 0.0002,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 5391,
+        "already_in_anki_words": 5299,
+        "new_vs_anki_words": 92,
+        "anki_overlap_percent": 98.29
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 5391,
+        "extension_entries_in_mother_pool": 0,
+        "extension_verified": 0,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "OALD8_abridged_edited.txt",
+      "extension": ".txt",
+      "bytes": 1100836,
+      "sha256": "829555428ee666d325a683fc59717eb2fae85789aa9a287774aa20c560b06ad6",
+      "status": "excluded-derivative",
+      "disposition": "exclude",
+      "reason": "Oxford Advanced Learner's Dictionary-derived content",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 13654,
+      "extracted_occurrences": 13650,
+      "unique_exact": 13650,
+      "unique_casefold": 13650,
+      "duplicate_casefold": 0,
+      "headword_quality_signals": {
+        "compressed-inflection": 1
+      },
+      "non_lexical_rate": 0.0003
+    },
+    {
+      "file": "SUM_of_cet4+6+toefl+gre.txt",
+      "extension": ".txt",
+      "bytes": 130838,
+      "sha256": "070dad35fddd7c7ec6780873b0664d08b410120812276e499f4c6260b4204e6f",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 13866,
+      "extracted_occurrences": 13863,
+      "unique_exact": 13860,
+      "unique_casefold": 13860,
+      "duplicate_casefold": 3,
+      "headword_quality_signals": {
+        "compressed-inflection": 2,
+        "part-of-speech-marker": 1
+      },
+      "non_lexical_rate": 0.0002
+    },
+    {
+      "file": "TOEFL.txt",
+      "extension": ".txt",
+      "bytes": 354297,
+      "sha256": "e5d53f9ae302ca8d379526e709098d7369d49644aace8ec408fab441e297f07b",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 4516,
+      "extracted_occurrences": 4516,
+      "unique_exact": 4510,
+      "unique_casefold": 4510,
+      "duplicate_casefold": 6,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "TOEFL_abridged.txt",
+      "extension": ".txt",
+      "bytes": 98591,
+      "sha256": "6fbe1dfeb53f3d340f1cbc2c5f62bb7fc2af07d4c0450c70f7a0d1838144fb17",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 1320,
+      "extracted_occurrences": 1320,
+      "unique_exact": 1320,
+      "unique_casefold": 1320,
+      "duplicate_casefold": 0,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "TOEFL_delete_CET4+6.txt",
+      "extension": ".txt",
+      "bytes": 114574,
+      "sha256": "8912beb070a5cc5aae6371a452ca60d727f49a616cd5af7beca038e1a8765847",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 1520,
+      "extracted_occurrences": 1520,
+      "unique_exact": 1520,
+      "unique_casefold": 1520,
+      "duplicate_casefold": 0,
+      "headword_quality_signals": {},
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "上海市初中英语词汇表（2020年版）.pdf",
+      "extension": ".pdf",
+      "bytes": 1200683,
+      "sha256": "11f7bdb6eaba225e8c65cffb54ac37ae855a2aadc30f5083e657fde2b0407119",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "pages": 89,
+      "extracted_characters": 44655,
+      "extracted_occurrences": 2102,
+      "unique_exact": 1783,
+      "unique_casefold": 1781,
+      "duplicate_casefold": 321,
+      "headword_quality_signals": {
+        "alphabetic-heading": 25,
+        "compressed-inflection": 2,
+        "part-of-speech-marker": 290
+      },
+      "non_lexical_rate": 0.0,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 1840,
+        "already_in_anki_words": 1732,
+        "new_vs_anki_words": 108,
+        "anki_overlap_percent": 94.13
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 1840,
+        "extension_entries_in_mother_pool": 8,
+        "extension_verified": 8,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "中考英语词汇表.txt",
+      "extension": ".txt",
+      "bytes": 88740,
+      "sha256": "2f4a4218b1ab6f2306b062f4d37653d8a9dabe2c663e5f11e2519154daed8dc1",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 1925,
+      "extracted_occurrences": 1894,
+      "unique_exact": 1885,
+      "unique_casefold": 1884,
+      "duplicate_casefold": 10,
+      "headword_quality_signals": {
+        "alphabetic-heading": 27,
+        "compressed-inflection": 4
+      },
+      "non_lexical_rate": 0.0161,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 1959,
+        "already_in_anki_words": 1804,
+        "new_vs_anki_words": 155,
+        "anki_overlap_percent": 92.09
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 1959,
+        "extension_entries_in_mother_pool": 9,
+        "extension_verified": 9,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "六级词汇表.xlsx",
+      "extension": ".xlsx",
+      "bytes": 109150,
+      "sha256": "2bf7fce014e915f62315e41e61973702912f1520104eeba61831706ec653b9fb",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "rows": 2220,
+          "columns": 2
+        },
+        {
+          "name": "Sheet2",
+          "rows": 0,
+          "columns": 1
+        },
+        {
+          "name": "Sheet3",
+          "rows": 0,
+          "columns": 1
+        }
+      ],
+      "extracted_occurrences": 2226,
+      "unique_exact": 2224,
+      "unique_casefold": 2224,
+      "duplicate_casefold": 2,
+      "headword_quality_signals": {
+        "compressed-inflection": 1,
+        "part-of-speech-marker": 2209
+      },
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "台灣高中英文參考詞彙表.txt",
+      "extension": ".txt",
+      "bytes": 124143,
+      "sha256": "a6fa031b418d20f29c4bcf312ff900cd53f3619325fab5fb4ec1c621ad49a85a",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "gb18030",
+      "nonblank_lines": 5808,
+      "extracted_occurrences": 5724,
+      "unique_exact": 5598,
+      "unique_casefold": 5596,
+      "duplicate_casefold": 128,
+      "headword_quality_signals": {
+        "alphabetic-heading": 25,
+        "compressed-inflection": 57
+      },
+      "non_lexical_rate": 0.0145,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 5596,
+        "already_in_anki_words": 5092,
+        "new_vs_anki_words": 504,
+        "anki_overlap_percent": 90.99
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 5596,
+        "extension_entries_in_mother_pool": 86,
+        "extension_verified": 86,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "小学英语大纲词汇.txt",
+      "extension": ".txt",
+      "bytes": 2981,
+      "sha256": "b01bd357672846a5dac769139d989050ada2c77ed9aa8566ab07974597402c87",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 441,
+      "extracted_occurrences": 440,
+      "unique_exact": 440,
+      "unique_casefold": 440,
+      "duplicate_casefold": 0,
+      "headword_quality_signals": {
+        "alphabetic-heading": 1
+      },
+      "non_lexical_rate": 0.0023,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 439,
+        "already_in_anki_words": 424,
+        "new_vs_anki_words": 15,
+        "anki_overlap_percent": 96.58
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 439,
+        "extension_entries_in_mother_pool": 0,
+        "extension_verified": 0,
+        "extension_needs_review": 0
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "柯林斯词频-5星至0星.xlsx",
+      "extension": ".xlsx",
+      "bytes": 459808,
+      "sha256": "e520aaa6d4ab4ee4d08af1b63df2ed0f143abfa272010c1137ba2cd52b5e744c",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "sheets": [
+        {
+          "name": "5星",
+          "rows": 1292,
+          "columns": 1
+        },
+        {
+          "name": "4星",
+          "rows": 1378,
+          "columns": 1
+        },
+        {
+          "name": "3星",
+          "rows": 1827,
+          "columns": 1
+        },
+        {
+          "name": "2星",
+          "rows": 3406,
+          "columns": 1
+        },
+        {
+          "name": "1星",
+          "rows": 8228,
+          "columns": 1
+        },
+        {
+          "name": "0星",
+          "rows": 17105,
+          "columns": 1
+        }
+      ],
+      "extracted_occurrences": 33012,
+      "unique_exact": 27359,
+      "unique_casefold": 27163,
+      "duplicate_casefold": 5849,
+      "headword_quality_signals": {
+        "alphabetic-heading": 40
+      },
+      "non_lexical_rate": 0.0,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 27152,
+        "already_in_anki_words": 13698,
+        "new_vs_anki_words": 13454,
+        "anki_overlap_percent": 50.45
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 27152,
+        "extension_entries_in_mother_pool": 1248,
+        "extension_verified": 1244,
+        "extension_needs_review": 4
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "红宝书 GRE词汇精选.csv",
+      "extension": ".csv",
+      "bytes": 205335,
+      "sha256": "f7ac9067b77762785711b4600b6316c523f020a84f4a2993fd4e60967ecdbf08",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "rows": 6193,
+      "columns_max": 2,
+      "extracted_occurrences": 6192,
+      "unique_exact": 6192,
+      "unique_casefold": 6192,
+      "duplicate_casefold": 0,
+      "headword_quality_signals": {
+        "compressed-inflection": 1
+      },
+      "non_lexical_rate": 0.0002
+    },
+    {
+      "file": "英语专业四八级词汇表.docx",
+      "extension": ".docx",
+      "bytes": 922877,
+      "sha256": "adbb61e2e6ea3612e74d5e890858c65174f4de25f50528bd2483046a9afaf95e",
+      "status": "duplicate-representation",
+      "disposition": "ignore",
+      "reason": "same named source as 英语专业四八级词汇表.txt; keep TXT as the audit representation",
+      "extracted_occurrences": 13561,
+      "unique_exact": 12629,
+      "unique_casefold": 12602,
+      "duplicate_casefold": 959,
+      "headword_quality_signals": {
+        "alphabetic-heading": 32,
+        "compressed-inflection": 27,
+        "numbered-headword": 519,
+        "part-of-speech-marker": 19
+      },
+      "non_lexical_rate": 0.0
+    },
+    {
+      "file": "英语专业四八级词汇表.txt",
+      "extension": ".txt",
+      "bytes": 957800,
+      "sha256": "eecf05c922441f65023c878df20a7a20a3eb018fa1d01eef4ff715461fba5f4c",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 12815,
+      "extracted_occurrences": 12786,
+      "unique_exact": 12518,
+      "unique_casefold": 12506,
+      "duplicate_casefold": 280,
+      "headword_quality_signals": {
+        "alphabetic-heading": 1,
+        "compressed-inflection": 25,
+        "part-of-speech-marker": 2
+      },
+      "non_lexical_rate": 0.0023,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 12604,
+        "already_in_anki_words": 9769,
+        "new_vs_anki_words": 2835,
+        "anki_overlap_percent": 77.51
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 12604,
+        "extension_entries_in_mother_pool": 363,
+        "extension_verified": 359,
+        "extension_needs_review": 4
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "英语专业星标八级词汇.txt",
+      "extension": ".txt",
+      "bytes": 260889,
+      "sha256": "15476c213d49ae13bac2c06c8a059bfd4fe49eed67bb2714faea7ffa4635a81b",
+      "status": "extension-ready",
+      "disposition": "external-extension",
+      "reason": "clean headwords are mapped to deck:Words where available; missing forms remain non-buildable candidates",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 4028,
+      "extracted_occurrences": 4019,
+      "unique_exact": 3976,
+      "unique_casefold": 3976,
+      "duplicate_casefold": 43,
+      "headword_quality_signals": {
+        "compressed-inflection": 7,
+        "numbered-headword": 1
+      },
+      "non_lexical_rate": 0.0022,
+      "anki_words_comparison": {
+        "extracted_unique_casefold": 4010,
+        "already_in_anki_words": 2599,
+        "new_vs_anki_words": 1411,
+        "anki_overlap_percent": 64.81
+      },
+      "extension_counts": {
+        "clean_source_unique_casefold": 4010,
+        "extension_entries_in_mother_pool": 170,
+        "extension_verified": 169,
+        "extension_needs_review": 1
+      },
+      "admission_status": "extension-ready",
+      "license_status": "user-directed-content-review"
+    },
+    {
+      "file": "英语六级词汇（星标，1726）.txt",
+      "extension": ".txt",
+      "bytes": 16639,
+      "sha256": "d2ce74399a27f36336984ecc32866e5b4a78795f080b89cf4518feca39288514",
+      "status": "ignored-existing-deck",
+      "disposition": "ignore",
+      "reason": "already represented by an AnkiShare published deck; do not create another package",
+      "encoding": "utf-8-sig",
+      "nonblank_lines": 1726,
+      "extracted_occurrences": 1725,
+      "unique_exact": 1722,
+      "unique_casefold": 1722,
+      "duplicate_casefold": 3,
+      "headword_quality_signals": {
+        "numbered-headword": 1
+      },
+      "non_lexical_rate": 0.0006
+    },
+    {
+      "file": "README.md",
+      "extension": ".md",
+      "bytes": 2112,
+      "sha256": "11e7a8b2675c6bf3e246a6e4de3d41a581f17c8761dbff927d423a3a35d83c83",
+      "status": "metadata",
+      "disposition": "reference-only",
+      "reason": "repository documentation; not a word-list data source"
+    }
+  ]
+}
