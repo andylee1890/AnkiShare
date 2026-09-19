@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T07:23:19.064Z",
+  "generatedAt": "2026-09-19T06:27:18.762Z",
   "repository": "andylee1890/AnkiShare",
   "repositoryUrl": "https://github.com/andylee1890/AnkiShare",
   "website": "https://englishanchor.online",
@@ -132,13 +132,14 @@
       "nameEnglish": "New Concept English Phrases",
       "series": "New Concept English",
       "level": "入门至进阶",
+      "posterId": "nce-phrases",
       "cover": {
-        "path": "docs/icons/icon-192.png",
-        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/icons/icon-192.png",
-        "alt": "AnkiShare 图标",
-        "width": 192,
-        "height": 192,
-        "fit": "contain"
+        "path": "docs/artwork/posters/card/nce-phrases.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-phrases.webp",
+        "alt": "新概念短语封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
       },
       "description": "新概念英语学习中的高频短语与固定搭配，含释义、例句和词典资料。",
       "features": [
@@ -632,6 +633,156 @@
       ],
       "noteCount": 5299,
       "cardCount": 15897
+    },
+    {
+      "id": "nce1234-vocabulary",
+      "slug": "nce1234-vocabulary",
+      "name": "新概念英语一至四册词汇",
+      "nameEnglish": "New Concept English 1 to 4 Vocabulary",
+      "series": "English Anchor Vocabulary",
+      "level": "入门至进阶",
+      "posterId": "nce1234-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/nce1234-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce1234-vocabulary.webp",
+        "alt": "新概念英语一至四册词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "新概念英语一至四册合并词汇，提供认读、拼写和听写三种练习。",
+      "features": [
+        "3,240 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语一至四册"
+      ],
+      "latestVersion": "nce1234-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce1234-vocabulary-v1.0.0",
+      "versions": [
+        "nce1234-vocabulary-v1.0.0"
+      ],
+      "noteCount": 3240,
+      "cardCount": 9720
+    },
+    {
+      "id": "longman-core-vocabulary",
+      "slug": "longman-core-vocabulary",
+      "name": "朗文核心词汇（3000+学术）",
+      "nameEnglish": "Longman Core Vocabulary",
+      "series": "English Anchor Vocabulary",
+      "level": "基础至进阶",
+      "posterId": "longman-core-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/longman-core-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/longman-core-vocabulary.webp",
+        "alt": "朗文核心词汇（3000+学术）封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "朗文 3000 与学术词汇合并卡组，提供认读、拼写和听写三种练习。",
+      "features": [
+        "3,810 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "朗文 3000 与学术词汇"
+      ],
+      "latestVersion": "longman-core-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/longman-core-vocabulary-v1.0.0",
+      "versions": [
+        "longman-core-vocabulary-v1.0.0"
+      ],
+      "noteCount": 3810,
+      "cardCount": 11430
+    },
+    {
+      "id": "nce-longman-vocabulary",
+      "slug": "nce-longman-vocabulary",
+      "name": "新概念英语与朗文3000词汇",
+      "nameEnglish": "New Concept English and Longman 3000 Vocabulary",
+      "series": "English Anchor Vocabulary",
+      "level": "入门至进阶",
+      "posterId": "nce-longman-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/nce-longman-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-longman-vocabulary.webp",
+        "alt": "新概念英语与朗文3000词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "新概念英语一至四册与朗文 3000 合并词汇。",
+      "features": [
+        "4,923 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语与朗文 3000"
+      ],
+      "latestVersion": "nce-longman-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-longman-vocabulary-v1.0.0",
+      "versions": [
+        "nce-longman-vocabulary-v1.0.0"
+      ],
+      "noteCount": 4923,
+      "cardCount": 14769
+    },
+    {
+      "id": "nce-longman-core-vocabulary",
+      "slug": "nce-longman-core-vocabulary",
+      "name": "新概念英语与朗文核心词汇",
+      "nameEnglish": "New Concept English and Longman Core Vocabulary",
+      "series": "English Anchor Vocabulary",
+      "level": "入门至进阶",
+      "posterId": "nce-longman-core-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/nce-longman-core-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-longman-core-vocabulary.webp",
+        "alt": "新概念英语与朗文核心词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "新概念英语一至四册与朗文核心词汇合并卡组。",
+      "features": [
+        "5,613 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "新概念英语与朗文核心词汇"
+      ],
+      "latestVersion": "nce-longman-core-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-longman-core-vocabulary-v1.0.0",
+      "versions": [
+        "nce-longman-core-vocabulary-v1.0.0"
+      ],
+      "noteCount": 5613,
+      "cardCount": 16839
+    },
+    {
+      "id": "cet-union-vocabulary",
+      "slug": "cet-union-vocabulary",
+      "name": "大学英语四六级词汇",
+      "nameEnglish": "College English CET-4 and CET-6 Vocabulary",
+      "series": "English Anchor Vocabulary",
+      "level": "大学英语",
+      "posterId": "cet-union-vocabulary",
+      "cover": {
+        "path": "docs/artwork/posters/card/cet-union-vocabulary.webp",
+        "url": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/cet-union-vocabulary.webp",
+        "alt": "大学英语四六级词汇封面",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      },
+      "description": "大学英语四级与六级合并词汇，提供认读、拼写和听写三种练习。",
+      "features": [
+        "5,688 条词条",
+        "RECITE、SPELLING、DICTATION",
+        "大学英语四级与六级"
+      ],
+      "latestVersion": "cet-union-vocabulary-v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/cet-union-vocabulary-v1.0.0",
+      "versions": [
+        "cet-union-vocabulary-v1.0.0"
+      ],
+      "noteCount": 5688,
+      "cardCount": 17064
     }
   ],
   "releases": [
@@ -2000,6 +2151,326 @@
         "previewSchemaVersion": 1,
         "notes": 5299,
         "cards": 15897
+      }
+    },
+    {
+      "tag": "nce1234-vocabulary-v1.0.0",
+      "deckId": "nce1234-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-09-19",
+      "title": "新概念英语一至四册词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce1234-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "New-Concept-English-1-to-4-Vocabulary.apkg",
+        "noteCount": 3240,
+        "cardCount": 9720,
+        "sizeBytes": 105398485,
+        "sha256": "52cc600d1b31fa509663798a51aa46cdf975ab2f408c85bd0608af667bed33ef",
+        "sizeMiB": 100.52,
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/New-Concept-English-1-to-4-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "New-Concept-English-1-to-4-Vocabulary.json",
+        "sizeBytes": 51977,
+        "sha256": "1e50d3a50dca44eea8fe0c3ca555ada0ea1d40b5f08450ae5d6c394be87fb91e",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/New-Concept-English-1-to-4-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 3240
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "nce1234-vocabulary-preview-manifest.json",
+        "sizeBytes": 1876635,
+        "sha256": "6fb3cebf57e3d898bab0f45ca9b5b0212173f74123a6e2720d66f9a3df769806",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/nce1234-vocabulary-preview-manifest.json",
+        "fileName": "nce1234-vocabulary-preview.json",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/nce1234-vocabulary-preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3240,
+        "cards": 9720
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce1234-vocabulary",
+        "releaseTag": "nce1234-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce1234-vocabulary",
+        "manifest": {
+          "fileName": "nce1234-vocabulary-preview-manifest.json",
+          "sizeBytes": 323,
+          "sha256": "f60a4afcc1d9d473cf1a0dc4bf4955c09f987dac86d493d83a9a492dfcae095e",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/nce1234-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce1234-vocabulary-preview.json",
+          "sizeBytes": 1876635,
+          "sha256": "6fb3cebf57e3d898bab0f45ca9b5b0212173f74123a6e2720d66f9a3df769806",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce1234-vocabulary-v1.0.0/nce1234-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 3240,
+        "cards": 9720
+      }
+    },
+    {
+      "tag": "longman-core-vocabulary-v1.0.0",
+      "deckId": "longman-core-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-09-19",
+      "title": "朗文核心词汇（3000+学术） v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/longman-core-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "Longman-Core-Vocabulary.apkg",
+        "noteCount": 3810,
+        "cardCount": 11430,
+        "sizeBytes": 163184226,
+        "sha256": "a8978def3adb897fef06453c271d663178b659cc271be8b3507d0a6f056c9200",
+        "sizeMiB": 155.62,
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/Longman-Core-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "Longman-Core-Vocabulary.json",
+        "sizeBytes": 61209,
+        "sha256": "5abfceb7da1d89f11fe83f330176a4d616106ce452ffa342d09c167bdbbf87e1",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/Longman-Core-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 3810
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "longman-core-vocabulary-preview-manifest.json",
+        "sizeBytes": 3649009,
+        "sha256": "a38bf7f8bf12ebc842e208cc13a3cf2e2534a3fec94a0f9633179299dff1791c",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/longman-core-vocabulary-preview-manifest.json",
+        "fileName": "longman-core-vocabulary-preview.json",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/longman-core-vocabulary-preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 3810,
+        "cards": 11430
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "longman-core-vocabulary",
+        "releaseTag": "longman-core-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/longman-core-vocabulary",
+        "manifest": {
+          "fileName": "longman-core-vocabulary-preview-manifest.json",
+          "sizeBytes": 334,
+          "sha256": "bdb5e883244090d909bd3fda97731ec87427d77f1fd3cf5a06419343e6fadd35",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/longman-core-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "longman-core-vocabulary-preview.json",
+          "sizeBytes": 3649009,
+          "sha256": "a38bf7f8bf12ebc842e208cc13a3cf2e2534a3fec94a0f9633179299dff1791c",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/longman-core-vocabulary-v1.0.0/longman-core-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 3810,
+        "cards": 11430
+      }
+    },
+    {
+      "tag": "nce-longman-vocabulary-v1.0.0",
+      "deckId": "nce-longman-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-09-19",
+      "title": "新概念英语与朗文3000词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-longman-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "New-Concept-English-and-Longman-3000-Vocabulary.apkg",
+        "noteCount": 4923,
+        "cardCount": 14769,
+        "sizeBytes": 184659959,
+        "sha256": "7f4b3ed1b6881b88bad8267fd3a72f8f15a794fc80e5da6d478db1d532bd350e",
+        "sizeMiB": 176.11,
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/New-Concept-English-and-Longman-3000-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "New-Concept-English-and-Longman-3000-Vocabulary.json",
+        "sizeBytes": 78312,
+        "sha256": "0b1f0b41c4f7891f4cafc473ae72f6e00c67c88c9bb186aedca9d0324d1be9af",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/New-Concept-English-and-Longman-3000-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 4923
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "nce-longman-vocabulary-preview-manifest.json",
+        "sizeBytes": 2423736,
+        "sha256": "4db3094ffc5b59099a4c031d5c6c2671299a9c495fd361db1b00bb95af0590a6",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/nce-longman-vocabulary-preview-manifest.json",
+        "fileName": "nce-longman-vocabulary-preview.json",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/nce-longman-vocabulary-preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 4923,
+        "cards": 14769
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce-longman-vocabulary",
+        "releaseTag": "nce-longman-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce-longman-vocabulary",
+        "manifest": {
+          "fileName": "nce-longman-vocabulary-preview-manifest.json",
+          "sizeBytes": 332,
+          "sha256": "df4641a83531f6bf35dcdabcb599d2bd271573486a7dc3a6d3a51859401b9295",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/nce-longman-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce-longman-vocabulary-preview.json",
+          "sizeBytes": 2423736,
+          "sha256": "4db3094ffc5b59099a4c031d5c6c2671299a9c495fd361db1b00bb95af0590a6",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-vocabulary-v1.0.0/nce-longman-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 4923,
+        "cards": 14769
+      }
+    },
+    {
+      "tag": "nce-longman-core-vocabulary-v1.0.0",
+      "deckId": "nce-longman-core-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-09-19",
+      "title": "新概念英语与朗文核心词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/nce-longman-core-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "New-Concept-English-and-Longman-Core-Vocabulary.apkg",
+        "noteCount": 5613,
+        "cardCount": 16839,
+        "sizeBytes": 192106501,
+        "sha256": "5d29fb3c37e38b211d4c716fad50c6ec418218014a6c7459e4577956dc972951",
+        "sizeMiB": 183.21,
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/New-Concept-English-and-Longman-Core-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "New-Concept-English-and-Longman-Core-Vocabulary.json",
+        "sizeBytes": 91047,
+        "sha256": "fc7cf5cf9a73c2d691d331e1208e897cdf5205ca068f2ff4c9fea949d41b8d2d",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/New-Concept-English-and-Longman-Core-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 5613
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "nce-longman-core-vocabulary-preview-manifest.json",
+        "sizeBytes": 2235898,
+        "sha256": "85ccee58d31aded2cb2828dd45624c82f640da12d1586527204ad2c4be9de7a8",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/nce-longman-core-vocabulary-preview-manifest.json",
+        "fileName": "nce-longman-core-vocabulary-preview.json",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/nce-longman-core-vocabulary-preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 5613,
+        "cards": 16839
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "nce-longman-core-vocabulary",
+        "releaseTag": "nce-longman-core-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/nce-longman-core-vocabulary",
+        "manifest": {
+          "fileName": "nce-longman-core-vocabulary-preview-manifest.json",
+          "sizeBytes": 342,
+          "sha256": "4c87e24705bf8ffd41b72c14437395194b3cc1315bb32a6111eb14dbac53bbb3",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/nce-longman-core-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "nce-longman-core-vocabulary-preview.json",
+          "sizeBytes": 2235898,
+          "sha256": "85ccee58d31aded2cb2828dd45624c82f640da12d1586527204ad2c4be9de7a8",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/nce-longman-core-vocabulary-v1.0.0/nce-longman-core-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 5613,
+        "cards": 16839
+      }
+    },
+    {
+      "tag": "cet-union-vocabulary-v1.0.0",
+      "deckId": "cet-union-vocabulary",
+      "version": "1.0.0",
+      "status": "published",
+      "publishedAt": "2026-09-19",
+      "title": "大学英语四六级词汇 v1.0.0",
+      "releaseUrl": "https://github.com/andylee1890/AnkiShare/releases/tag/cet-union-vocabulary-v1.0.0",
+      "asset": {
+        "fileName": "College-English-CET-4-and-CET-6-Vocabulary.apkg",
+        "noteCount": 5688,
+        "cardCount": 17064,
+        "sizeBytes": 200442697,
+        "sha256": "73e4e6d8a3c86a74c09ea04d1f40e618d354e6a3b37b9f3a5cecfb0db1b0efd8",
+        "sizeMiB": 191.16,
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/College-English-CET-4-and-CET-6-Vocabulary.apkg"
+      },
+      "entryManifest": {
+        "fileName": "College-English-CET-4-and-CET-6-Vocabulary.json",
+        "sizeBytes": 89149,
+        "sha256": "02d373653161312a03eddebdc67bca359071c459c159503772ea60b23418da10",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/College-English-CET-4-and-CET-6-Vocabulary.json",
+        "entryType": "word",
+        "entryCount": 5688
+      },
+      "sourceReleaseUrl": null,
+      "websiteUrl": "https://englishanchor.online",
+      "previewManifest": {
+        "manifestFileName": "cet-union-vocabulary-preview-manifest.json",
+        "sizeBytes": 2930930,
+        "sha256": "43c567132cfb5846281b92b742fc80ec7be786a6b4bc8dfb481abb04eb84edb6",
+        "manifestDownloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/cet-union-vocabulary-preview-manifest.json",
+        "fileName": "cet-union-vocabulary-preview.json",
+        "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/cet-union-vocabulary-preview.json",
+        "type": "anki-preview",
+        "previewSchemaVersion": 1,
+        "sampleCount": 24,
+        "notes": 5688,
+        "cards": 17064
+      },
+      "previewDeck": {
+        "type": "anki-preview-deck",
+        "schemaVersion": 1,
+        "deckId": "cet-union-vocabulary",
+        "releaseTag": "cet-union-vocabulary-v1.0.0",
+        "version": "1.0.0",
+        "directory": "preview-decks/cet-union-vocabulary",
+        "manifest": {
+          "fileName": "cet-union-vocabulary-preview-manifest.json",
+          "sizeBytes": 328,
+          "sha256": "3cbf8c79287c96ea9a3a784fed1084bb6a9234f912361f46ac7d2af90d21e6e6",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/cet-union-vocabulary-preview-manifest.json"
+        },
+        "preview": {
+          "fileName": "cet-union-vocabulary-preview.json",
+          "sizeBytes": 2930930,
+          "sha256": "43c567132cfb5846281b92b742fc80ec7be786a6b4bc8dfb481abb04eb84edb6",
+          "downloadUrl": "https://github.com/andylee1890/AnkiShare/releases/download/cet-union-vocabulary-v1.0.0/cet-union-vocabulary-preview.json"
+        },
+        "previewSchemaVersion": 1,
+        "notes": 5688,
+        "cards": 17064
       }
     }
   ]

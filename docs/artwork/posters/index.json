@@ -10,6 +10,26 @@
   "purpose": "English Anchor Anki 卡组封面资产索引。release-records/index.json 可通过 posterId 关联到此索引。",
   "posters": [
     {
+      "id": "nce-phrases",
+      "deckId": "new-concept-english-phrases",
+      "name": "新概念短语",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/nce-phrases.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/nce-phrases.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/nce-phrases.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/nce-phrases.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/nce-phrases.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-phrases.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
       "id": "nce1-vocabulary",
       "deckId": "nce1-vocabulary",
       "name": "新概念英语第一册词汇",
@@ -30,6 +50,106 @@
       },
       "source": "https://book.douban.com/subject/1006720/",
       "sourceImage": "https://img3.doubanio.com/view/subject/l/public/s10401903.jpg"
+    },
+    {
+      "id": "nce1234-vocabulary",
+      "deckId": "nce1234-vocabulary",
+      "name": "新概念英语一至四册词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/nce1234-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/nce1234-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/nce1234-vocabulary.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/nce1234-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/nce1234-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce1234-vocabulary.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "longman-core-vocabulary",
+      "deckId": "longman-core-vocabulary",
+      "name": "朗文核心词汇（3000+学术）",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/longman-core-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/longman-core-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/longman-core-vocabulary.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/longman-core-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/longman-core-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/longman-core-vocabulary.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "nce-longman-vocabulary",
+      "deckId": "nce-longman-vocabulary",
+      "name": "新概念英语与朗文3000词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/nce-longman-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/nce-longman-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/nce-longman-vocabulary.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/nce-longman-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/nce-longman-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-longman-vocabulary.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "nce-longman-core-vocabulary",
+      "deckId": "nce-longman-core-vocabulary",
+      "name": "新概念英语与朗文核心词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/nce-longman-core-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/nce-longman-core-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/nce-longman-core-vocabulary.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/nce-longman-core-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/nce-longman-core-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/nce-longman-core-vocabulary.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
+    },
+    {
+      "id": "cet-union-vocabulary",
+      "deckId": "cet-union-vocabulary",
+      "name": "大学英语四六级词汇",
+      "kind": "vocabulary-deck-cover",
+      "sourceType": "original-project-artwork-generated",
+      "original": {
+        "path": "docs/artwork/posters/cet-union-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/cet-union-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/cet-union-vocabulary.webp"
+      },
+      "card": {
+        "path": "docs/artwork/posters/card/cet-union-vocabulary.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/AnkiShare/master/docs/artwork/posters/card/cet-union-vocabulary.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/AnkiShare@master/docs/artwork/posters/card/cet-union-vocabulary.webp",
+        "width": 480,
+        "height": 600,
+        "fit": "cover"
+      }
     },
     {
       "id": "nce2-vocabulary",
